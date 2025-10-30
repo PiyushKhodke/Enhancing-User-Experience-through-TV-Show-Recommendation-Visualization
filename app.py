@@ -158,10 +158,8 @@ elif page == "📈 Clustering Insights":
     st.markdown("---")
     st.subheader("🧩 Predict Your Cluster Type")
 
-    watch_time_minutes = st.number_input("Enter your average watch duration (minutes):", min_value=10, max_value=600, value=120)
-    watch_time_hours = watch_time_minutes / 60.0
-    satisfaction_raw = st.slider("Rate your average satisfaction (1–10):", 1, 10, 7)
-    satisfaction_normalized = satisfaction_raw / 10.0
+    watch_time_hours = st.number_input("Enter your average watch duration (Hours):", min_value=0.1, max_value=1, value=0.5)
+    satisfaction_normalized = st.slider("Rate your average satisfaction (0-1):", 0.0, 1.0, 0.6)
 
     user_data = pd.DataFrame([[watch_time_hours, satisfaction_normalized]], columns=features)
     user_scaled = scaler.transform(user_data)
@@ -274,3 +272,4 @@ elif page == "ℹ️ About":
     to recommend TV shows, segment users, and visualize audience behavior effectively.
     """)
     st.markdown('<p class="footer">© 2025 Piyush Deepak Khodke | Designed for Mini Project Submission</p>', unsafe_allow_html=True)
+

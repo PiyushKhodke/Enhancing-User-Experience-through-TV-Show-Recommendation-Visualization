@@ -144,7 +144,7 @@ elif page == "📈 Clustering Insights":
     st.markdown("---")
     st.subheader("🧩 Predict Your Cluster Type")
 
-    watch_time = st.number_input("Enter your average watch duration (in hours):", min_value=0.5, max_value=12.0, value=2.0)
+    watch_time = st.number_input("Enter your average watch duration (in hours):", min_value=0.1, max_value=1.0, value=0.5)
     satisfaction = st.slider("Rate your satisfaction (0–1):", 0.0, 1.0, 0.8)
     platform = st.selectbox("Preferred Platform:", sorted(shows_df['Platform'].dropna().unique()))
     genre = st.selectbox("Favorite Genre:", sorted(shows_df['Genre'].dropna().unique()))

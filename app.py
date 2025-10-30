@@ -158,9 +158,9 @@ elif page == "📈 Clustering Insights":
     if user_cluster == 0:
         st.info("📺 **Cluster 0:** Low-duration, low-satisfaction users — new or less engaged viewers.")
     elif user_cluster == 1:
-        st.info("🎞️ **Cluster 1:** Moderate watchers — casual entertainment consumers.")
+        st.info("🎞️ **Cluster 1:**High-duration, high-satisfaction users — loyal and binge-watchers.")
     else:
-        st.info("🎬 **Cluster 2:** High-duration, high-satisfaction users — loyal and binge-watchers.")
+        st.info("🎬 **Cluster 2:** Moderate watchers — casual entertainment consumers.")
 
     # Visualize user's position
     st.subheader("📊 Your Position on Cluster Graph")
@@ -256,3 +256,4 @@ elif page == "ℹ️ About":
     to recommend TV shows, segment users, and visualize audience behavior effectively.
     """)
     st.markdown('<p class="footer">© 2025 Piyush Deepak Khodke | Designed for Mini Project Submission</p>', unsafe_allow_html=True)
+

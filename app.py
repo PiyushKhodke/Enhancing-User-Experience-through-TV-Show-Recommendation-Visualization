@@ -112,7 +112,7 @@ elif page == "🎯 Recommendations":
         st.info("Select your watched shows in the sidebar to get personalized recommendations.")
 
 # ====================================================================================
-# 📈 CLUSTERING INSIGHTS (Fixed Cluster Label Mapping)
+# 📈 CLUSTERING INSIGHTS
 # ====================================================================================
 elif page == "📈 Clustering Insights":
     st.header("📈 K-Means Clustering Analysis")
@@ -120,25 +120,11 @@ elif page == "📈 Clustering Insights":
     features = ['Watch_Time_Hours', 'User_Satisfaction_Score']
     X = shows_df[features].dropna()
 
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
-
     kmeans = KMeans(n_clusters=3, random_state=42)
-    shows_df['Cluster'] = kmeans.fit_predict(X_scaled)
+    shows_df['Cluster'] = kmeans.fit_predict(X)
 
-    # ----- FIX: Reorder clusters by average satisfaction -----
-    cluster_order = (
-        shows_df.groupby('Cluster')['User_Satisfaction_Score']
-        .mean()
-        .sort_values()
-        .index
-        .tolist()
-    )
-    cluster_mapping = {old: new for new, old in enumerate(cluster_order)}
-    shows_df['Cluster'] = shows_df['Cluster'].map(cluster_mapping)
-
-    # ----- Show Cluster Summary -----
-    st.subheader("📊 Cluster Summary (Ordered by Satisfaction)")
+    # Cluster summary
+    st.subheader("📊 Cluster Summary")
     cluster_summary = shows_df.groupby('Cluster')[['Watch_Time_Hours', 'User_Satisfaction_Score']].mean().round(2)
     st.dataframe(cluster_summary)
 
@@ -149,43 +135,41 @@ elif page == "📈 Clustering Insights":
         x='Watch_Time_Hours', y='User_Satisfaction_Score',
         color='Cluster',
         hover_data=['TV_Show_Name', 'Genre', 'Platform'],
-        title="User Clusters by Viewing Behavior (Ordered by Satisfaction)",
+        title="User Clusters by Viewing Behavior",
         color_continuous_scale='viridis'
     )
     st.plotly_chart(fig, use_container_width=True)
 
-    # -------------------- USER INPUT --------------------
+    # ------------------------------------ USER INPUT SECTION ------------------------------------
     st.markdown("---")
     st.subheader("🧩 Predict Your Cluster Type")
 
-    watch_time_hours = st.number_input("Enter your average watch duration (Hours):", min_value=0.1, max_value=1, value=0.5)
-    satisfaction_normalized = st.slider("Rate your average satisfaction (0-1):", 0.0, 1.0, 0.6)
+    watch_time = st.number_input("Enter your average watch duration (in hours):", min_value=0.1, max_value=1.0, value=0.5)
+    satisfaction = st.slider("Rate your satisfaction (0–1):", 0.0, 1.0, 0.8)
+    platform = st.selectbox("Preferred Platform:", sorted(shows_df['Platform'].dropna().unique()))
+    genre = st.selectbox("Favorite Genre:", sorted(shows_df['Genre'].dropna().unique()))
 
-    user_data = pd.DataFrame([[watch_time_hours, satisfaction_normalized]], columns=features)
-    user_scaled = scaler.transform(user_data)
-    user_cluster_raw = kmeans.predict(user_scaled)[0]
-    user_cluster = cluster_mapping[user_cluster_raw]
+    user_data = pd.DataFrame([[watch_time, satisfaction]], columns=['Watch_Time_Hours', 'User_Satisfaction_Score'])
+    user_cluster = kmeans.predict(user_data)[0]
 
     st.success(f"🎯 You belong to **Cluster {user_cluster}** based on your viewing behavior!")
 
-    # Meaningful cluster descriptions
+    # Cluster interpretation
     if user_cluster == 0:
-        st.info("📉 **Cluster 0:** Low-duration, low-satisfaction users — less engaged viewers or new users.")
+        st.info("📺 **Cluster 0:** Low-duration, low-satisfaction users — new or less engaged viewers.")
     elif user_cluster == 1:
-        st.info("📺 **Cluster 1:** Moderate watchers — casual, balanced audience.")
+        st.info("🎞️ **Cluster 1:** Moderate watchers — casual entertainment consumers.")
     else:
-        st.info("🔥 **Cluster 2:** High-duration, high-satisfaction users — loyal and binge-watchers.")
+        st.info("🎬 **Cluster 2:** High-duration, high-satisfaction users — loyal and binge-watchers.")
 
     # Visualize user's position
     st.subheader("📊 Your Position on Cluster Graph")
     fig2, ax = plt.subplots(figsize=(8,6))
-    sns.scatterplot(data=shows_df, x='Watch_Time_Hours', y='User_Satisfaction_Score',
-                    hue='Cluster', palette='viridis', s=100)
-    plt.scatter(watch_time_hours, satisfaction_normalized, color='red', s=200, edgecolor='black', label='You')
+    sns.scatterplot(data=shows_df, x='Watch_Time_Hours', y='User_Satisfaction_Score', hue='Cluster', palette='viridis', s=100)
+    plt.scatter(watch_time, satisfaction, color='red', s=200, edgecolor='black', label='You')
     plt.legend()
-    plt.title("User Clusters and Your Position (Ordered by Satisfaction)")
+    plt.title("User Clusters and Your Position")
     st.pyplot(fig2)
-
 
 
 # ====================================================================================
@@ -272,4 +256,3 @@ elif page == "ℹ️ About":
     to recommend TV shows, segment users, and visualize audience behavior effectively.
     """)
     st.markdown('<p class="footer">© 2025 Piyush Deepak Khodke | Designed for Mini Project Submission</p>', unsafe_allow_html=True)
-

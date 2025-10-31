@@ -30,7 +30,7 @@ st.markdown('<p class="sub-title">Developed by <b>Piyush Deepak Khodke</b> | DMW
 # ---------------------------- LOAD DATA ----------------------------
 @st.cache_data
 def load_data():
-    shows_df = pd.read_csv("tv_show_clustered_data.csv")
+    shows_df = pd.read_csv("tv_show_clustered_data1.csv")
     rules_df = pd.read_csv("apriori_rules_tv_shows.csv")
     return shows_df, rules_df
 
@@ -144,7 +144,7 @@ elif page == "📈 Clustering Insights":
     st.markdown("---")
     st.subheader("🧩 Predict Your Cluster Type")
 
-    watch_time = st.number_input("Enter your average watch duration (in hours):", min_value=0.1, max_value=1.0, value=0.5)
+    watch_time = st.number_input("Enter your average watch duration (in hours):", min_value=2, max_value=50, value=26)
     satisfaction = st.slider("Rate your satisfaction (0–1):", 0.0, 1.0, 0.8)
     platform = st.selectbox("Preferred Platform:", sorted(shows_df['Platform'].dropna().unique()))
     genre = st.selectbox("Favorite Genre:", sorted(shows_df['Genre'].dropna().unique()))
@@ -256,5 +256,6 @@ elif page == "ℹ️ About":
     to recommend TV shows, segment users, and visualize audience behavior effectively.
     """)
     st.markdown('<p class="footer">© 2025 Piyush Deepak Khodke | Designed for Mini Project Submission</p>', unsafe_allow_html=True)
+
 
 

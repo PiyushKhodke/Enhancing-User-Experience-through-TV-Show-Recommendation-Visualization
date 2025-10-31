@@ -1,0 +1,1351 @@
+User_ID,User_Name,User_Age,Gender,Country,TV_Show_Name,Genre,Platform,Watch_Time_Hours,Rating_Given_By_User,Watch_Frequency_Per_Week,Completion_Status,User_Satisfaction_Score,Cluster
+1122.0,Diya Reddy,0.5,Male,India,TVF Pitchers,Action,SonyLIV,10.1,0.6166666666666667,0.16666666666666666,Dropped,0.16,0
+1102.0,Ishaan Singh,0.9090909090909091,Male,India,Aspirants,Sci-Fi,Netflix,45.2,0.8833333333333334,0.5,Completed,0.84,1
+1069.0,Sara Patel,0.29545454545454547,Female,India,Out of Love,Crime,MX Player,33.3,0.15000000000000005,0.8333333333333334,Dropped,0.33,2
+1115.0,Krishna Singh,0.7272727272727273,Male,India,Criminal Justice,Crime,JioCinema,48.9,0.0,0.3333333333333333,Completed,0.39,1
+1105.0,Myra Reddy,0.6818181818181818,Female,India,Duranga,Comedy,SonyLIV,48.2,0.8333333333333334,0.3333333333333333,Ongoing,0.87,1
+1027.0,Arjun Verma,0.11363636363636363,Male,India,The Night Manager,Action,Disney+ Hotstar,10.1,0.85,1.0,Ongoing,0.18,0
+1119.0,Rohan Kumar,0.36363636363636365,Female,India,Rocket Boys,Thriller,JioCinema,23.2,0.8000000000000002,0.8333333333333334,Ongoing,0.41,2
+1017.0,Anika Gupta,0.8636363636363636,Female,India,The Freelancer,Romance,MX Player,23.0,0.3,0.16666666666666666,Completed,0.27,2
+1018.0,Karan Verma,0.5681818181818182,Female,India,Sacred Games,Drama,MX Player,39.0,0.9499999999999998,0.3333333333333333,Completed,0.76,1
+1149.0,Sara Patel,0.6136363636363636,Male,India,Out of Love,Romance,Disney+ Hotstar,37.6,0.5,0.8333333333333334,Completed,0.53,1
+1143.0,Sai Gupta,0.5454545454545454,Female,India,Undekhi,Thriller,Amazon Prime,34.8,0.20000000000000004,0.16666666666666666,Completed,0.36,1
+1076.0,Aadhya Reddy,0.7954545454545454,Female,India,Undekhi,Comedy,SonyLIV,44.5,0.1166666666666667,0.3333333333333333,Dropped,0.42,1
+1131.0,Anika Mehta,0.3409090909090909,Male,India,Farzi,Crime,ZEE5,49.3,0.8166666666666668,1.0,Dropped,0.88,1
+1131.0,Riya Singh,0.18181818181818182,Male,India,Gullak,Comedy,SonyLIV,6.9,0.15000000000000005,0.3333333333333333,Completed,0.07,0
+1177.0,Aditya Chopra,0.1590909090909091,Male,India,Taaza Khabar,Comedy,MX Player,7.3,0.5,0.5,Ongoing,0.1,0
+1108.0,Diya Mehta,0.18181818181818182,Male,India,Panchayat,Drama,ZEE5,10.3,0.08333333333333333,0.8333333333333334,Dropped,0.09,0
+1080.0,Ishaan Verma,0.8636363636363636,Female,India,The Night Manager,Romance,ZEE5,30.2,0.2833333333333334,0.3333333333333333,Ongoing,0.34,2
+1012.0,Karan Kumar,0.6818181818181818,Female,India,Bombay Begums,Sci-Fi,Disney+ Hotstar,29.5,0.18333333333333326,0.0,Dropped,0.3,2
+1085.0,Pari Mehta,0.7272727272727273,Male,India,Criminal Justice,Romance,SonyLIV,19.0,0.3166666666666667,1.0,Ongoing,0.22,2
+1026.0,Aadhya Chopra,0.1590909090909091,Male,India,Candy,Romance,SonyLIV,30.7,0.016666666666666607,0.6666666666666666,Ongoing,0.25,2
+1104.0,Ira Joshi,0.6590909090909091,Male,India,Panchayat,Sci-Fi,JioCinema,45.7,0.9666666666666668,1.0,Dropped,0.9,1
+1183.0,Ananya Singh,0.29545454545454547,Female,India,Inside Edge,Drama,Amazon Prime,49.9,0.5,1.0,Completed,0.7,1
+1155.0,Arjun Chopra,0.18181818181818182,Male,India,Criminal Justice,Crime,Netflix,18.0,0.03333333333333336,0.6666666666666666,Ongoing,0.15,2
+1168.0,Riya Gupta,0.4090909090909091,Female,India,Taj Mahal 1989,Romance,Amazon Prime,46.3,0.7833333333333332,0.16666666666666666,Ongoing,0.81,1
+1009.0,Riya Chopra,0.9318181818181818,Male,India,Kota Factory,Romance,Disney+ Hotstar,12.5,0.6333333333333333,0.5,Dropped,0.2,0
+1128.0,Krishna Verma,0.7272727272727273,Female,India,Mai,Sci-Fi,JioCinema,48.5,0.7666666666666666,0.6666666666666666,Ongoing,0.83,1
+1083.0,Rohan Verma,0.5454545454545454,Female,India,Out of Love,Comedy,MX Player,13.2,0.09999999999999994,0.0,Completed,0.12,0
+1077.0,Sai Verma,0.1590909090909091,Male,India,Criminal Justice,Sci-Fi,Netflix,21.6,0.9666666666666668,0.6666666666666666,Completed,0.42,2
+1038.0,Vivaan Reddy,0.045454545454545456,Female,India,Delhi Crime,Drama,MX Player,48.3,0.2333333333333334,0.16666666666666666,Ongoing,0.52,1
+1086.0,Ananya Patel,0.6136363636363636,Male,India,Breathe,Romance,Netflix,26.5,0.3,0.8333333333333334,Ongoing,0.31,2
+1165.0,Krishna Chopra,0.38636363636363635,Male,India,Bard of Blood,Action,SonyLIV,20.3,0.9833333333333334,1.0,Dropped,0.4,2
+1088.0,Pari Gupta,0.45454545454545453,Female,India,Rocket Boys,Thriller,Amazon Prime,11.7,0.45,0.5,Dropped,0.16,0
+1069.0,Myra Gupta,0.7272727272727273,Male,India,The Freelancer,Thriller,Netflix,46.7,0.5,0.5,Dropped,0.65,1
+1119.0,Pari Reddy,0.6363636363636364,Female,India,Duranga,Comedy,Amazon Prime,6.6,0.8000000000000002,0.0,Ongoing,0.12,0
+1148.0,Aditya Sharma,0.3181818181818182,Male,India,Duranga,Action,Amazon Prime,42.3,0.6166666666666667,0.8333333333333334,Ongoing,0.65,1
+1074.0,Pari Gupta,0.7727272727272727,Female,India,Delhi Crime,Romance,SonyLIV,11.6,0.6666666666666666,0.5,Dropped,0.19,0
+1001.0,Karan Joshi,0.1590909090909091,Female,India,Suzhal,Romance,MX Player,20.8,0.75,0.3333333333333333,Completed,0.35,2
+1070.0,Vivaan Joshi,0.045454545454545456,Male,India,Bard of Blood,Drama,Amazon Prime,27.4,0.18333333333333326,0.0,Dropped,0.28,2
+1125.0,Aadhya Verma,0.5909090909090909,Female,India,Delhi Crime,Crime,MX Player,17.3,0.16666666666666666,0.16666666666666666,Ongoing,0.17,0
+1130.0,Riya Sharma,0.6818181818181818,Male,India,Grahan,Romance,Netflix,2.6,0.8000000000000002,0.3333333333333333,Dropped,0.05,0
+1061.0,Sai Verma,0.5454545454545454,Female,India,Rana Naidu,Action,JioCinema,4.3,0.1166666666666667,0.6666666666666666,Completed,0.04,0
+1029.0,Aarav Singh,0.9090909090909091,Female,India,Rana Naidu,Drama,MX Player,23.7,0.8666666666666666,0.5,Completed,0.44,2
+1069.0,Ira Mehta,0.25,Female,India,Grahan,Romance,Amazon Prime,47.7,0.9,0.16666666666666666,Ongoing,0.9,1
+1035.0,Vivaan Sharma,0.6363636363636364,Female,India,Bombay Begums,Romance,MX Player,15.8,0.5833333333333334,0.8333333333333334,Dropped,0.24,0
+1006.0,Ira Chopra,0.11363636363636363,Female,India,Bombay Begums,Drama,SonyLIV,34.3,0.65,0.8333333333333334,Completed,0.54,1
+1070.0,Sara Patel,0.45454545454545453,Male,India,High,Sci-Fi,ZEE5,47.3,0.5499999999999999,1.0,Completed,0.69,1
+1135.0,Sai Joshi,0.5909090909090909,Male,India,Grahan,Action,Netflix,47.4,1.0,0.5,Completed,0.95,1
+1181.0,Ira Singh,0.8409090909090909,Male,India,Breathe,Crime,SonyLIV,41.9,0.4166666666666667,0.3333333333333333,Ongoing,0.54,1
+1001.0,Aditya Singh,0.3409090909090909,Male,India,The Family Man,Sci-Fi,SonyLIV,10.7,0.6999999999999998,0.16666666666666666,Completed,0.18,0
+1074.0,Sara Singh,0.8863636363636364,Male,India,Arya,Drama,Netflix,25.88611940298507,0.4333333333333333,0.8333333333333334,Completed,0.16,2
+1037.0,Myra Kumar,0.045454545454545456,Male,India,Breathe,Romance,SonyLIV,29.9,0.5,0.6666666666666666,Dropped,0.42,2
+1043.0,Vihaan Singh,0.045454545454545456,Female,India,Sacred Games,Action,ZEE5,3.4,0.2833333333333334,0.8333333333333334,Ongoing,0.04,0
+1193.0,Krishna Patel,0.9090909090909091,Female,India,Arya,Crime,Netflix,21.3,0.04999999999999997,1.0,Dropped,0.18,2
+1059.0,Pari Chopra,0.9545454545454546,Male,India,Undekhi,Thriller,Disney+ Hotstar,27.9,0.8666666666666666,1.0,Ongoing,0.51,2
+1079.0,Aarav Verma,0.9090909090909091,Male,India,Taj Mahal 1989,Romance,MX Player,47.1,0.7166666666666668,0.16666666666666666,Ongoing,0.78,1
+1131.0,Vihaan Mehta,0.4090909090909091,Male,India,Delhi Crime,Romance,Netflix,38.5,0.03333333333333336,0.6666666666666666,Completed,0.32,1
+1075.0,Karan Patel,0.29545454545454547,Male,India,Criminal Justice,Crime,Disney+ Hotstar,43.4,0.8000000000000002,0.3333333333333333,Ongoing,0.76,1
+1000.0,Sara Verma,0.6363636363636364,Female,India,The Freelancer,Comedy,Disney+ Hotstar,12.0,0.8333333333333334,0.8333333333333334,Dropped,0.22,0
+1002.0,Anika Gupta,0.9318181818181818,Female,India,Special OPS,Comedy,JioCinema,50.0,0.8666666666666666,1.0,Completed,0.92,1
+1065.0,Vivaan Kumar,0.5909090909090909,Female,India,High,Thriller,Netflix,22.2,0.6166666666666667,0.3333333333333333,Dropped,0.34,2
+1134.0,Ananya Mehta,0.9772727272727273,Male,India,Duranga,Romance,Disney+ Hotstar,17.0,0.5166666666666666,0.8333333333333334,Dropped,0.24,0
+1049.0,Ananya Sharma,0.18181818181818182,Male,India,Hostel Daze,Thriller,Netflix,15.1,0.7333333333333334,1.0,Ongoing,0.25,0
+1143.0,Myra Kumar,0.25,Male,India,Class,Sci-Fi,Netflix,15.4,0.5666666666666668,0.5,Dropped,0.23,0
+1196.0,Kiara Joshi,0.3409090909090909,Male,India,Bard of Blood,Comedy,SonyLIV,19.0,0.25,0.5,Dropped,0.21,2
+1136.0,Arjun Gupta,0.6363636363636364,Male,India,Bard of Blood,Crime,SonyLIV,40.3,0.75,0.0,Dropped,0.69,1
+1025.0,Diya Chopra,0.45454545454545453,Female,India,Paatal Lok,Romance,Disney+ Hotstar,22.4,0.500995024875622,0.6666666666666666,Completed,0.2,2
+1125.0,Krishna Verma,0.22727272727272727,Female,India,The Family Man,Comedy,ZEE5,42.3,0.65,0.5,Dropped,0.67,1
+1184.0,Myra Patel,0.045454545454545456,Female,India,Bandish Bandits,Romance,SonyLIV,15.1,0.6333333333333333,0.5,Dropped,0.24,0
+1130.0,Karan Verma,0.3409090909090909,Female,India,Inside Edge,Action,ZEE5,29.4,0.2333333333333334,0.5,Completed,0.32,2
+1135.0,Riya Singh,0.22727272727272727,Female,India,Rocket Boys,Comedy,Disney+ Hotstar,41.4,0.8166666666666668,0.3333333333333333,Ongoing,0.74,1
+1104.0,Aarav Gupta,0.06818181818181818,Male,India,The Night Manager,Sci-Fi,Disney+ Hotstar,46.8,0.7166666666666668,1.0,Ongoing,0.78,1
+1004.0,Ishaan Gupta,0.9545454545454546,Female,India,Made in Heaven,Comedy,Amazon Prime,32.9,0.08333333333333333,0.5,Completed,0.3,2
+1056.0,Pari Chopra,0.7954545454545454,Female,India,Aspirants,Sci-Fi,JioCinema,31.6,0.8000000000000002,1.0,Ongoing,0.56,2
+1071.0,Krishna Kumar,0.36363636363636365,Female,India,Farzi,Romance,MX Player,10.4,0.500995024875622,1.0,Completed,0.14,0
+1094.0,Diya Kumar,0.4318181818181818,Male,India,Duranga,Action,Disney+ Hotstar,9.0,0.8166666666666668,0.8333333333333334,Ongoing,0.16,0
+1160.0,Rohan Joshi,0.18181818181818182,Female,India,Ray,Romance,MX Player,25.9,0.016666666666666607,1.0,Dropped,0.21,2
+1024.0,Sai Gupta,0.6818181818181818,Female,India,Candy,Crime,Netflix,2.9,0.3333333333333333,0.3333333333333333,Completed,0.03,0
+1164.0,Vihaan Patel,0.18181818181818182,Male,India,Scam 1992,Thriller,Netflix,5.4,0.15000000000000005,0.16666666666666666,Completed,0.05,0
+1008.0,Sara Singh,0.045454545454545456,Female,India,Class,Thriller,Netflix,38.8,0.75,0.5,Completed,0.66,1
+1168.0,Aarav Kumar,0.4772727272727273,Male,India,Farzi,Thriller,ZEE5,16.8,0.9833333333333334,0.8333333333333334,Completed,0.33,0
+1155.0,Sai Mehta,0.13636363636363635,Female,India,Mirzapur,Sci-Fi,Amazon Prime,21.5,0.6666666666666666,0.5,Dropped,0.34,2
+1063.0,Ira Reddy,0.6136363636363636,Male,India,Out of Love,Romance,Disney+ Hotstar,6.0,0.6,0.8333333333333334,Dropped,0.09,0
+1114.0,Pari Patel,0.6818181818181818,Female,India,Class,Romance,ZEE5,25.3,0.6999999999999998,0.16666666666666666,Dropped,0.41,2
+1055.0,Kiara Verma,0.18181818181818182,Female,India,Grahan,Crime,Amazon Prime,2.5,0.09999999999999994,0.8333333333333334,Completed,0.02,0
+1093.0,Aditya Patel,0.38636363636363635,Female,India,Class,Action,ZEE5,3.8,0.5,0.3333333333333333,Dropped,0.05,0
+1094.0,Myra Verma,0.8409090909090909,Male,India,TVF Pitchers,Sci-Fi,MX Player,18.0,0.6666666666666666,0.8333333333333334,Dropped,0.29,2
+1025.0,Anika Chopra,0.7954545454545454,Male,India,Duranga,Thriller,MX Player,28.1,0.06666666666666672,0.6666666666666666,Ongoing,0.25,2
+1090.0,Vihaan Gupta,0.7727272727272727,Female,India,Kota Factory,Thriller,MX Player,2.8,0.9166666666666666,0.16666666666666666,Ongoing,0.05,0
+1093.0,Myra Kumar,0.6136363636363636,Female,India,Bard of Blood,Drama,Netflix,2.0,0.7333333333333334,1.0,Dropped,0.03,0
+1029.0,Karan Verma,0.9545454545454546,Female,India,Undekhi,Romance,SonyLIV,6.9,0.6666666666666666,1.0,Completed,0.11,0
+1074.0,Ananya Reddy,0.4772727272727273,Female,India,Hostel Daze,Sci-Fi,Disney+ Hotstar,49.5,1.0,0.0,Ongoing,0.99,1
+1071.0,Anika Patel,0.045454545454545456,Male,India,Mirzapur,Romance,ZEE5,31.3,0.21666666666666665,1.0,Ongoing,0.33,2
+1148.0,Ira Singh,0.20454545454545456,Female,India,Made in Heaven,Action,Disney+ Hotstar,37.3,0.45,0.5,Ongoing,0.5,1
+1133.0,Anika Mehta,0.2727272727272727,Female,India,Taj Mahal 1989,Comedy,Disney+ Hotstar,25.2,0.4833333333333334,1.0,Dropped,0.35,2
+1160.0,Riya Gupta,0.045454545454545456,Female,India,Rana Naidu,Drama,Netflix,35.4,0.2666666666666666,0.5,Ongoing,0.4,1
+1080.0,Vivaan Reddy,0.6136363636363636,Male,India,Special OPS,Thriller,Amazon Prime,4.2,0.9166666666666666,1.0,Completed,0.36208955223880596,0
+1068.0,Ananya Sharma,0.8181818181818182,Female,India,Rocket Boys,Crime,SonyLIV,34.0,0.7166666666666668,0.6666666666666666,Dropped,0.56,1
+1119.0,Sara Sharma,0.25,Female,India,High,Crime,MX Player,17.5,0.65,0.6666666666666666,Dropped,0.28,0
+1085.0,Ishaan Patel,0.6590909090909091,Female,India,Panchayat,Thriller,ZEE5,40.1,0.3,0.3333333333333333,Completed,0.47,1
+1051.0,Kiara Joshi,0.11363636363636363,Male,India,The Night Manager,Sci-Fi,Amazon Prime,33.5,0.500995024875622,0.5,Dropped,0.36,2
+1070.0,Diya Chopra,0.06818181818181818,Female,India,Panchayat,Romance,SonyLIV,25.6,0.2666666666666666,0.16666666666666666,Completed,0.29,2
+1119.0,Ishaan Verma,0.13636363636363635,Male,India,Aspirants,Thriller,SonyLIV,3.6,0.4166666666666667,0.5,Ongoing,0.05,0
+1097.0,Sara Mehta,0.75,Female,India,Hostel Daze,Thriller,JioCinema,48.4,0.4666666666666666,0.3333333333333333,Ongoing,0.66,1
+1007.0,Ananya Patel,0.8636363636363636,Female,India,Gullak,Sci-Fi,MX Player,27.1,0.9166666666666666,0.6666666666666666,Dropped,0.51,2
+1069.0,Sai Patel,0.4090909090909091,Female,India,Breathe,Comedy,ZEE5,31.2,0.9,0.8333333333333334,Completed,0.59,2
+1124.0,Arjun Patel,0.3409090909090909,Male,India,Suzhal,Thriller,SonyLIV,35.8,0.9833333333333334,0.0,Dropped,0.71,1
+1094.0,Aditya Reddy,0.38636363636363635,Male,India,Sacred Games,Drama,SonyLIV,10.4,0.8333333333333334,0.6666666666666666,Dropped,0.19,0
+1093.0,Aadhya Chopra,0.6818181818181818,Female,India,Suzhal,Crime,Amazon Prime,12.6,0.5,1.0,Completed,0.18,0
+1000.0,Sai Verma,0.09090909090909091,Female,India,Special OPS,Thriller,ZEE5,22.1,0.5499999999999999,1.0,Completed,0.32,2
+1157.0,Riya Reddy,0.8181818181818182,Female,India,Breathe,Drama,Disney+ Hotstar,23.5,0.7833333333333332,0.0,Dropped,0.41,2
+1156.0,Aditya Patel,0.5681818181818182,Male,India,Paatal Lok,Action,Amazon Prime,47.0,0.3166666666666667,0.8333333333333334,Ongoing,0.55,1
+1148.0,Pari Gupta,0.6136363636363636,Male,India,Bard of Blood,Sci-Fi,Amazon Prime,48.9,0.2333333333333334,0.3333333333333333,Dropped,0.36208955223880596,1
+1143.0,Vivaan Sharma,0.18181818181818182,Female,India,Taj Mahal 1989,Drama,ZEE5,7.9,0.9499999999999998,0.5,Ongoing,0.15,0
+1200.0,Aadhya Verma,0.9545454545454546,Female,India,The Family Man,Thriller,JioCinema,9.8,0.6333333333333333,1.0,Completed,0.15,0
+1052.0,Riya Chopra,0.4090909090909091,Female,India,Scam 1992,Thriller,Disney+ Hotstar,37.0,0.9833333333333334,0.16666666666666666,Ongoing,0.73,1
+1046.0,Anika Kumar,0.09090909090909091,Female,India,Undekhi,Sci-Fi,Amazon Prime,36.7,0.03333333333333336,0.8333333333333334,Completed,0.31,1
+1179.0,Ishaan Chopra,0.22727272727272727,Female,India,Scam 1992,Sci-Fi,Amazon Prime,13.3,0.8166666666666668,0.0,Completed,0.24,0
+1191.0,Arjun Chopra,0.9545454545454546,Female,India,Out of Love,Romance,Disney+ Hotstar,15.2,0.8000000000000002,0.16666666666666666,Ongoing,0.27,0
+1119.0,Vihaan Kumar,0.5,Female,India,Suzhal,Romance,SonyLIV,20.2,0.7333333333333334,0.8333333333333334,Dropped,0.34,2
+1048.0,Aarav Singh,0.9090909090909091,Female,India,Duranga,Romance,MX Player,42.9,0.9333333333333332,0.8333333333333334,Dropped,0.82,1
+1147.0,Vihaan Patel,0.5681818181818182,Male,India,Suzhal,Crime,SonyLIV,30.9,0.09999999999999994,0.3333333333333333,Dropped,0.28,2
+1098.0,Ira Kumar,0.09090909090909091,Male,India,Paatal Lok,Thriller,Netflix,5.9,0.4166666666666667,0.8333333333333334,Dropped,0.08,0
+1012.0,Aditya Mehta,0.4318181818181818,Female,India,TVF Pitchers,Romance,Netflix,18.5,0.016666666666666607,0.16666666666666666,Completed,0.15,2
+1123.0,Pari Chopra,0.9318181818181818,Female,India,High,Romance,ZEE5,14.7,0.7833333333333332,0.8333333333333334,Completed,0.26,0
+1136.0,Aarav Kumar,0.9090909090909091,Male,India,Taj Mahal 1989,Romance,ZEE5,33.1,0.20000000000000004,0.6666666666666666,Completed,0.34,2
+1147.0,Kiara Joshi,0.022727272727272728,Female,India,Grahan,Crime,MX Player,20.9,0.7333333333333334,0.3333333333333333,Completed,0.35,2
+1054.0,Aadhya Reddy,0.36363636363636365,Female,India,Inside Edge,Sci-Fi,JioCinema,45.5,0.4166666666666667,0.8333333333333334,Ongoing,0.59,1
+1028.0,Rohan Singh,0.8636363636363636,Female,India,Delhi Crime,Sci-Fi,ZEE5,34.0,0.5499999999999999,1.0,Dropped,0.5,1
+1035.0,Diya Mehta,0.2727272727272727,Female,India,Hostel Daze,Drama,ZEE5,27.8,0.5333333333333333,1.0,Completed,0.4,2
+1101.0,Anika Mehta,1.0,Male,India,The Night Manager,Crime,Netflix,5.5,0.85,0.6666666666666666,Dropped,0.1,0
+1061.0,Vihaan Verma,0.36363636363636365,Female,India,Asur,Thriller,JioCinema,11.7,0.8166666666666668,0.8333333333333334,Ongoing,0.21,0
+1136.0,Ishaan Mehta,0.4318181818181818,Male,India,Farzi,Crime,ZEE5,37.7,0.20000000000000004,0.16666666666666666,Completed,0.39,1
+1179.0,Riya Verma,0.7727272727272727,Female,India,Duranga,Action,MX Player,31.4,0.016666666666666607,0.6666666666666666,Completed,0.26,2
+1182.0,Riya Sharma,0.13636363636363635,Female,India,High,Crime,Netflix,48.4,0.8833333333333334,1.0,Dropped,0.36208955223880596,1
+1079.0,Arjun Patel,0.8863636363636364,Female,India,Bandish Bandits,Romance,Disney+ Hotstar,33.0,0.6833333333333332,0.16666666666666666,Dropped,0.53,2
+1115.0,Vivaan Singh,0.7045454545454546,Female,India,Rocket Boys,Action,Amazon Prime,29.6,0.5333333333333333,0.5,Completed,0.43,2
+1133.0,Aarav Patel,0.3181818181818182,Male,India,The Freelancer,Crime,Disney+ Hotstar,38.2,0.65,0.0,Ongoing,0.6,1
+1127.0,Riya Verma,0.8409090909090909,Male,India,Gullak,Drama,Netflix,32.0,0.1333333333333333,0.16666666666666666,Dropped,0.31,2
+1096.0,Kiara Gupta,0.4090909090909091,Female,India,Criminal Justice,Thriller,Disney+ Hotstar,25.4,0.6166666666666667,0.3333333333333333,Dropped,0.39,2
+1072.0,Aarav Mehta,0.13636363636363635,Male,India,Panchayat,Crime,MX Player,14.1,0.9,0.5,Dropped,0.27,0
+1032.0,Riya Kumar,0.3409090909090909,Male,India,The Family Man,Crime,JioCinema,26.3,0.6833333333333332,1.0,Dropped,0.43,2
+1049.0,Ira Kumar,0.4772727272727273,Male,India,Delhi Crime,Drama,Netflix,36.1,0.8166666666666668,0.8333333333333334,Completed,0.64,1
+1191.0,Aditya Joshi,0.6818181818181818,Male,India,Sacred Games,Thriller,MX Player,6.1,0.4166666666666667,0.3333333333333333,Completed,0.08,0
+1160.0,Krishna Verma,0.4318181818181818,Female,India,Taaza Khabar,Sci-Fi,ZEE5,3.5,0.03333333333333336,0.8333333333333334,Completed,0.03,0
+1141.0,Rohan Patel,1.0,Male,India,Rana Naidu,Drama,ZEE5,21.5,0.6,0.5,Dropped,0.33,2
+1065.0,Karan Chopra,0.4318181818181818,Male,India,Taaza Khabar,Comedy,SonyLIV,35.6,0.9333333333333332,0.3333333333333333,Completed,0.68,1
+1042.0,Kiara Sharma,0.36363636363636365,Male,India,Mai,Crime,Netflix,7.5,0.5,0.8333333333333334,Ongoing,0.1,0
+1039.0,Aarav Singh,0.36363636363636365,Male,India,Special OPS,Romance,Amazon Prime,45.1,0.7833333333333332,0.5,Dropped,0.78,1
+1109.0,Aarav Sharma,0.25,Female,India,Mai,Thriller,ZEE5,17.1,0.09999999999999994,0.5,Completed,0.16,0
+1188.0,Diya Joshi,0.4772727272727273,Female,India,Out of Love,Action,MX Player,47.7,0.8666666666666666,1.0,Dropped,0.88,1
+1136.0,Vihaan Joshi,0.09090909090909091,Female,India,High,Sci-Fi,MX Player,31.6,0.45,1.0,Dropped,0.42,2
+1163.0,Ananya Joshi,0.3409090909090909,Male,India,Panchayat,Action,SonyLIV,18.8,0.8666666666666666,1.0,Ongoing,0.35,2
+1167.0,Vivaan Singh,0.9545454545454546,Female,India,Suzhal,Sci-Fi,Disney+ Hotstar,8.2,0.09999999999999994,1.0,Ongoing,0.08,0
+1093.0,Arjun Gupta,0.1590909090909091,Male,India,Delhi Crime,Drama,SonyLIV,23.2,0.4833333333333334,0.3333333333333333,Ongoing,0.32,2
+1044.0,Pari Joshi,0.29545454545454547,Male,India,The Night Manager,Sci-Fi,Disney+ Hotstar,7.8,0.20000000000000004,0.5,Dropped,0.08,0
+1103.0,Aadhya Chopra,0.7272727272727273,Female,India,Mai,Romance,MX Player,14.9,0.3333333333333333,0.0,Ongoing,0.18,0
+1131.0,Kiara Singh,0.0,Male,India,Khakee: The Bihar Chapter,Action,ZEE5,10.2,0.6833333333333332,0.16666666666666666,Dropped,0.17,0
+1170.0,Ananya Gupta,0.9772727272727273,Male,India,Rocket Boys,Drama,Disney+ Hotstar,6.1,0.04999999999999997,0.3333333333333333,Completed,0.05,0
+1080.0,Arjun Reddy,0.11363636363636363,Male,India,Delhi Crime,Romance,MX Player,12.4,0.9,1.0,Ongoing,0.23,0
+1163.0,Krishna Patel,0.0,Male,India,Bard of Blood,Comedy,Amazon Prime,18.1,0.7166666666666668,0.5,Ongoing,0.3,2
+1150.0,Vihaan Mehta,0.5,Female,India,Breathe,Action,Netflix,10.7,0.04999999999999997,0.0,Ongoing,0.09,0
+1073.0,Aadhya Mehta,0.5227272727272727,Male,India,Candy,Action,Disney+ Hotstar,36.8,0.4000000000000001,0.8333333333333334,Dropped,0.47,1
+1173.0,Ishaan Chopra,0.7272727272727273,Male,India,Arya,Drama,Amazon Prime,14.4,0.7333333333333334,0.6666666666666666,Dropped,0.24,0
+1150.0,Pari Chopra,0.75,Male,India,Mirzapur,Romance,Amazon Prime,5.5,1.0,0.8333333333333334,Ongoing,0.11,0
+1176.0,Aarav Gupta,0.7272727272727273,Female,India,Aspirants,Sci-Fi,ZEE5,12.7,0.2833333333333334,0.5,Dropped,0.14,0
+1064.0,Ananya Sharma,0.38636363636363635,Female,India,Bombay Begums,Romance,JioCinema,23.4,0.6666666666666666,0.0,Ongoing,0.37,2
+1028.0,Krishna Mehta,0.75,Female,India,Bard of Blood,Comedy,Amazon Prime,4.4,0.5833333333333334,0.6666666666666666,Ongoing,0.07,0
+1109.0,Ishaan Patel,0.8181818181818182,Male,India,Special OPS,Crime,ZEE5,17.6,0.75,0.5,Dropped,0.3,2
+1045.0,Vivaan Sharma,0.7954545454545454,Female,India,Scam 1992,Drama,Netflix,33.7,0.9499999999999998,0.0,Ongoing,0.65,1
+1016.0,Krishna Joshi,0.5227272727272727,Male,India,Taj Mahal 1989,Drama,Netflix,30.9,0.3499999999999999,0.6666666666666666,Ongoing,0.38,2
+1176.0,Rohan Patel,0.6363636363636364,Female,India,The Freelancer,Sci-Fi,ZEE5,30.9,0.7666666666666666,0.16666666666666666,Completed,0.53,2
+1155.0,Aadhya Sharma,0.5,Male,India,Paatal Lok,Drama,ZEE5,15.8,0.18333333333333326,0.8333333333333334,Ongoing,0.16,0
+1125.0,Karan Mehta,0.13636363636363635,Male,India,Rana Naidu,Drama,Amazon Prime,35.2,0.9,1.0,Dropped,0.66,1
+1088.0,Sai Kumar,0.11363636363636363,Female,India,Special OPS,Comedy,Netflix,13.5,0.7833333333333332,0.3333333333333333,Dropped,0.23,0
+1190.0,Ira Chopra,0.8409090909090909,Female,India,Bandish Bandits,Comedy,Netflix,48.0,0.16666666666666666,0.5,Completed,0.48,1
+1024.0,Sara Mehta,0.18181818181818182,Male,India,Taaza Khabar,Romance,ZEE5,10.2,0.6999999999999998,0.5,Completed,0.17,0
+1188.0,Vivaan Sharma,0.5,Female,India,Panchayat,Action,Amazon Prime,17.1,0.3833333333333333,0.5,Ongoing,0.22,0
+1166.0,Kiara Singh,0.75,Female,India,TVF Pitchers,Romance,JioCinema,14.2,0.6166666666666667,0.8333333333333334,Completed,0.22,0
+1169.0,Ishaan Chopra,0.75,Male,India,Gullak,Comedy,JioCinema,48.7,0.4000000000000001,0.3333333333333333,Completed,0.62,1
+1003.0,Myra Sharma,0.8636363636363636,Female,India,TVF Pitchers,Comedy,Amazon Prime,29.9,0.1166666666666667,0.6666666666666666,Ongoing,0.28,2
+1004.0,Aditya Chopra,0.7954545454545454,Female,India,Suzhal,Comedy,Amazon Prime,8.9,0.06666666666666672,0.3333333333333333,Completed,0.36208955223880596,0
+1120.0,Aarav Patel,0.09090909090909091,Female,India,Duranga,Comedy,ZEE5,18.2,0.16666666666666666,0.16666666666666666,Dropped,0.18,2
+1198.0,Aditya Joshi,0.5227272727272727,Male,India,Hostel Daze,Drama,Disney+ Hotstar,20.2,0.2666666666666666,0.0,Completed,0.23,2
+1173.0,Karan Kumar,0.4772727272727273,Female,India,Hostel Daze,Crime,ZEE5,30.9,0.4666666666666666,0.3333333333333333,Dropped,0.42,2
+1073.0,Pari Joshi,0.7954545454545454,Male,India,The Night Manager,Comedy,MX Player,15.2,0.8000000000000002,0.16666666666666666,Ongoing,0.27,0
+1037.0,Aarav Gupta,0.25,Female,India,Bombay Begums,Crime,Netflix,38.4,0.6833333333333332,0.0,Dropped,0.62,1
+1188.0,Kiara Sharma,0.6136363636363636,Male,India,The Family Man,Comedy,ZEE5,15.5,0.3499999999999999,0.3333333333333333,Ongoing,0.19,0
+1065.0,Vivaan Singh,0.75,Male,India,Special OPS,Romance,ZEE5,13.5,0.21666666666666665,0.16666666666666666,Completed,0.14,0
+1079.0,Aditya Chopra,0.8636363636363636,Male,India,The Night Manager,Action,Disney+ Hotstar,40.1,0.85,0.5,Ongoing,0.73,1
+1024.0,Riya Singh,0.5909090909090909,Male,India,Asur,Sci-Fi,Netflix,7.7,0.6833333333333332,0.5,Ongoing,0.12,0
+1105.0,Rohan Mehta,0.18181818181818182,Female,India,Grahan,Drama,Amazon Prime,24.3,0.9166666666666666,0.6666666666666666,Completed,0.46,2
+1046.0,Rohan Sharma,0.6818181818181818,Female,India,Delhi Crime,Crime,Disney+ Hotstar,22.1,0.21666666666666665,0.8333333333333334,Dropped,0.23,2
+1168.0,Ishaan Patel,1.0,Female,India,Class,Drama,Amazon Prime,42.2,0.5,0.16666666666666666,Ongoing,0.59,1
+1095.0,Rohan Mehta,0.1590909090909091,Female,India,Asur,Comedy,Disney+ Hotstar,20.7,0.3666666666666667,1.0,Completed,0.26,2
+1182.0,Vivaan Mehta,0.5681818181818182,Male,India,Paatal Lok,Thriller,MX Player,39.8,0.500995024875622,0.3333333333333333,Ongoing,0.37,1
+1195.0,Myra Sharma,0.25,Female,India,Criminal Justice,Drama,ZEE5,8.8,0.5666666666666668,0.5,Ongoing,0.13,0
+1110.0,Ishaan Mehta,0.045454545454545456,Female,India,Arya,Sci-Fi,Netflix,4.4,0.9333333333333332,0.6666666666666666,Completed,0.08,0
+1003.0,Karan Singh,0.5227272727272727,Male,India,Taaza Khabar,Action,JioCinema,24.2,0.03333333333333336,0.16666666666666666,Ongoing,0.2,2
+1087.0,Sai Gupta,0.8863636363636364,Female,India,Aspirants,Action,JioCinema,11.3,0.6833333333333332,0.3333333333333333,Dropped,0.18,0
+1178.0,Myra Kumar,0.6818181818181818,Female,India,Class,Action,Disney+ Hotstar,15.9,0.7666666666666666,0.5,Ongoing,0.27,0
+1008.0,Vihaan Singh,0.13636363636363635,Male,India,Arya,Comedy,Disney+ Hotstar,43.4,0.016666666666666607,0.5,Ongoing,0.36,1
+1012.0,Ira Mehta,0.9772727272727273,Female,India,Farzi,Romance,Disney+ Hotstar,17.5,0.8333333333333334,0.6666666666666666,Completed,0.32,0
+1048.0,Karan Mehta,0.6136363636363636,Male,India,Out of Love,Sci-Fi,JioCinema,22.5,0.5833333333333334,1.0,Completed,0.34,2
+1016.0,Aadhya Patel,0.6818181818181818,Male,India,Rocket Boys,Drama,JioCinema,37.1,0.8333333333333334,0.8333333333333334,Completed,0.67,1
+1178.0,Karan Kumar,0.22727272727272727,Male,India,Delhi Crime,Comedy,ZEE5,28.9,0.5833333333333334,0.6666666666666666,Dropped,0.43,2
+1086.0,Riya Joshi,0.5227272727272727,Female,India,Bombay Begums,Romance,JioCinema,25.5,0.5833333333333334,0.0,Dropped,0.38,2
+1035.0,Aarav Sharma,0.1590909090909091,Male,India,Bombay Begums,Drama,ZEE5,23.4,0.08333333333333333,0.0,Dropped,0.21,2
+1052.0,Aditya Patel,0.7272727272727273,Female,India,Rana Naidu,Crime,Disney+ Hotstar,44.5,0.9499999999999998,0.0,Ongoing,0.86,1
+1019.0,Diya Verma,0.4090909090909091,Male,India,Taaza Khabar,Romance,SonyLIV,14.9,0.9666666666666668,0.5,Completed,0.29,0
+1070.0,Ananya Sharma,0.7954545454545454,Male,India,Out of Love,Romance,SonyLIV,2.7,1.0,0.6666666666666666,Ongoing,0.05,0
+1021.0,Vivaan Mehta,0.18181818181818182,Male,India,Kota Factory,Drama,Disney+ Hotstar,43.3,0.6333333333333333,0.6666666666666666,Dropped,0.68,1
+1080.0,Anika Sharma,0.7272727272727273,Male,India,Rocket Boys,Action,Netflix,17.1,0.4666666666666666,0.16666666666666666,Completed,0.23,0
+1020.0,Vivaan Kumar,0.38636363636363635,Female,India,Made in Heaven,Comedy,Netflix,35.6,0.6999999999999998,0.0,Completed,0.58,1
+1099.0,Ishaan Singh,0.4090909090909091,Female,India,Paatal Lok,Drama,Amazon Prime,3.9,0.75,0.16666666666666666,Completed,0.07,0
+1100.0,Aarav Sharma,0.4090909090909091,Female,India,Mirzapur,Crime,ZEE5,44.0,0.9666666666666668,0.6666666666666666,Ongoing,0.86,1
+1017.0,Myra Verma,0.7272727272727273,Female,India,Bombay Begums,Thriller,MX Player,46.2,0.7166666666666668,1.0,Completed,0.77,1
+1018.0,Vivaan Reddy,0.75,Male,India,Sacred Games,Thriller,Disney+ Hotstar,42.1,0.6666666666666666,0.0,Ongoing,0.67,1
+1016.0,Aditya Patel,0.022727272727272728,Female,India,TVF Pitchers,Romance,JioCinema,15.3,0.3666666666666667,0.8333333333333334,Ongoing,0.19,0
+1148.0,Krishna Sharma,0.18181818181818182,Male,India,Candy,Crime,SonyLIV,16.8,0.18333333333333326,0.5,Dropped,0.17,0
+1079.0,Diya Kumar,0.5681818181818182,Female,India,Asur,Action,Disney+ Hotstar,33.6,0.3166666666666667,0.8333333333333334,Completed,0.4,2
+1024.0,Sai Singh,0.1590909090909091,Female,India,Rocket Boys,Comedy,JioCinema,42.6,0.9333333333333332,1.0,Ongoing,0.82,1
+1190.0,Rohan Mehta,0.06818181818181818,Female,India,Suzhal,Thriller,Disney+ Hotstar,27.9,0.6833333333333332,1.0,Completed,0.45,2
+1118.0,Aarav Verma,1.0,Male,India,Mai,Action,Netflix,2.1,0.9166666666666666,0.3333333333333333,Completed,0.04,0
+1161.0,Sai Sharma,0.38636363636363635,Female,India,Breathe,Thriller,ZEE5,46.5,0.8166666666666668,0.6666666666666666,Ongoing,0.83,1
+1149.0,Ananya Verma,0.20454545454545456,Male,India,Out of Love,Thriller,SonyLIV,36.0,0.4833333333333334,0.0,Ongoing,0.5,1
+1138.0,Karan Mehta,0.25,Female,India,Bombay Begums,Crime,MX Player,2.2,0.6166666666666667,0.0,Completed,0.03,0
+1160.0,Sara Joshi,0.9090909090909091,Female,India,The Freelancer,Sci-Fi,Netflix,19.0,0.4833333333333334,0.5,Dropped,0.26,2
+1161.0,Aditya Chopra,0.36363636363636365,Male,India,Candy,Comedy,ZEE5,8.2,0.06666666666666672,0.6666666666666666,Dropped,0.07,0
+1194.0,Kiara Joshi,0.8181818181818182,Female,India,Sacred Games,Comedy,MX Player,36.5,0.8333333333333334,0.5,Ongoing,0.66,1
+1145.0,Pari Kumar,0.5909090909090909,Male,India,Aspirants,Crime,Disney+ Hotstar,21.1,0.2833333333333334,0.8333333333333334,Dropped,0.24,2
+1133.0,Anika Joshi,0.6818181818181818,Male,India,Ray,Romance,Disney+ Hotstar,37.2,0.5499999999999999,0.6666666666666666,Completed,0.54,1
+1173.0,Diya Chopra,0.5681818181818182,Male,India,Candy,Romance,Netflix,21.6,0.6666666666666666,0.6666666666666666,Ongoing,0.35,2
+1093.0,Ishaan Singh,0.22727272727272727,Female,India,High,Action,ZEE5,21.7,0.4000000000000001,0.8333333333333334,Ongoing,0.28,2
+1137.0,Aditya Sharma,0.5,Female,India,Kota Factory,Sci-Fi,SonyLIV,19.4,0.8833333333333334,0.3333333333333333,Dropped,0.36,2
+1006.0,Ira Joshi,1.0,Male,India,Hostel Daze,Romance,JioCinema,7.0,0.3833333333333333,0.6666666666666666,Completed,0.09,0
+1116.0,Ishaan Gupta,0.20454545454545456,Female,India,Out of Love,Sci-Fi,SonyLIV,28.9,0.6999999999999998,0.5,Ongoing,0.47,2
+1102.0,Krishna Verma,0.18181818181818182,Female,India,Candy,Crime,Amazon Prime,35.4,0.5333333333333333,0.8333333333333334,Dropped,0.51,1
+1056.0,Ishaan Reddy,0.38636363636363635,Female,India,Rana Naidu,Sci-Fi,SonyLIV,43.5,0.8666666666666666,0.0,Completed,0.8,1
+1098.482089552239,Kiara Verma,0.45454545454545453,Female,India,Ray,Romance,MX Player,21.5,0.15000000000000005,0.3333333333333333,Completed,0.21,2
+1050.0,Ananya Sharma,0.9090909090909091,Male,India,Bandish Bandits,Action,Disney+ Hotstar,33.9,0.9666666666666668,0.16666666666666666,Dropped,0.66,1
+1178.0,Karan Reddy,0.5454545454545454,Male,India,Ray,Sci-Fi,MX Player,8.7,0.16666666666666666,0.8333333333333334,Completed,0.09,0
+1000.0,Anika Chopra,0.22727272727272727,Male,India,Ray,Action,ZEE5,4.9,0.7666666666666666,1.0,Dropped,0.08,0
+1058.0,Karan Sharma,0.7045454545454546,Male,India,High,Action,Disney+ Hotstar,24.9,0.2666666666666666,0.5,Ongoing,0.28,2
+1040.0,Vivaan Joshi,0.1590909090909091,Female,India,Made in Heaven,Crime,Netflix,10.9,0.8000000000000002,0.0,Completed,0.19,0
+1037.0,Anika Gupta,0.11363636363636363,Male,India,Class,Drama,ZEE5,3.8,0.85,1.0,Dropped,0.07,0
+1132.0,Myra Gupta,0.25,Male,India,Rocket Boys,Sci-Fi,JioCinema,7.1,0.15000000000000005,0.5,Dropped,0.07,0
+1061.0,Aadhya Singh,0.3181818181818182,Female,India,Mirzapur,Sci-Fi,SonyLIV,18.9,0.9166666666666666,0.3333333333333333,Ongoing,0.36,2
+1171.0,Aditya Reddy,0.7045454545454546,Male,India,Inside Edge,Comedy,MX Player,2.3,0.9499999999999998,0.16666666666666666,Dropped,0.04,0
+1098.0,Ira Kumar,0.045454545454545456,Male,India,TVF Pitchers,Action,JioCinema,45.3,0.25,0.6666666666666666,Completed,0.5,1
+1163.0,Anika Patel,0.9545454545454546,Male,India,Arya,Sci-Fi,Disney+ Hotstar,7.0,0.4833333333333334,0.0,Completed,0.1,0
+1045.0,Ishaan Mehta,0.7045454545454546,Female,India,Scam 1992,Crime,Amazon Prime,46.4,0.2666666666666666,0.3333333333333333,Ongoing,0.52,1
+1160.0,Sai Chopra,0.06818181818181818,Female,India,Sacred Games,Romance,SonyLIV,22.2,0.4000000000000001,1.0,Dropped,0.28,2
+1195.0,Ira Gupta,0.3409090909090909,Female,India,Gullak,Action,Disney+ Hotstar,48.0,0.7833333333333332,0.6666666666666666,Dropped,0.84,1
+1040.0,Arjun Mehta,0.11363636363636363,Female,India,Panchayat,Drama,Disney+ Hotstar,5.4,0.4166666666666667,0.0,Completed,0.07,0
+1086.0,Pari Sharma,0.2727272727272727,Male,India,Out of Love,Thriller,Amazon Prime,24.9,0.5,0.5,Dropped,0.35,2
+1120.0,Ishaan Gupta,0.2727272727272727,Female,India,Asur,Drama,Amazon Prime,39.1,0.016666666666666607,0.16666666666666666,Ongoing,0.32,1
+1109.0,Krishna Verma,0.4772727272727273,Female,India,Undekhi,Sci-Fi,JioCinema,6.6,0.3,0.6666666666666666,Dropped,0.08,0
+1044.0,Aditya Mehta,0.06818181818181818,Female,India,Duranga,Romance,Netflix,18.8,0.4833333333333334,0.5,Completed,0.26,2
+1004.0,Vivaan Verma,0.20454545454545456,Female,India,Kota Factory,Comedy,MX Player,6.5,0.9833333333333334,1.0,Dropped,0.13,0
+1079.0,Kiara Verma,0.22727272727272727,Female,India,Inside Edge,Drama,ZEE5,7.9,0.06666666666666672,0.5,Dropped,0.07,0
+1132.0,Ananya Gupta,0.38636363636363635,Female,India,Criminal Justice,Drama,SonyLIV,17.7,0.8333333333333334,1.0,Dropped,0.32,2
+1163.0,Krishna Reddy,0.18181818181818182,Male,India,Hostel Daze,Sci-Fi,Disney+ Hotstar,14.7,0.4000000000000001,0.16666666666666666,Ongoing,0.19,0
+1037.0,Karan Gupta,0.7045454545454546,Female,India,Delhi Crime,Thriller,SonyLIV,46.9,0.45,0.5,Dropped,0.63,1
+1173.0,Ishaan Chopra,0.25,Male,India,Panchayat,Crime,MX Player,31.1,0.3666666666666667,0.0,Completed,0.39,2
+1058.0,Ishaan Kumar,0.8181818181818182,Female,India,Candy,Comedy,JioCinema,28.8,0.04999999999999997,0.8333333333333334,Dropped,0.25,2
+1122.0,Aarav Chopra,0.8181818181818182,Male,India,Rocket Boys,Comedy,Disney+ Hotstar,19.8,0.4166666666666667,0.8333333333333334,Dropped,0.26,2
+1165.0,Riya Joshi,0.29545454545454547,Female,India,Farzi,Action,Netflix,10.8,0.6999999999999998,0.0,Completed,0.18,0
+1057.0,Pari Mehta,0.25,Female,India,Duranga,Thriller,Amazon Prime,24.7,0.85,0.5,Completed,0.45,2
+1197.0,Krishna Singh,1.0,Male,India,Class,Comedy,SonyLIV,46.5,0.25,0.3333333333333333,Ongoing,0.51,1
+1064.0,Sai Kumar,0.38636363636363635,Female,India,The Family Man,Thriller,JioCinema,2.3,0.9,0.3333333333333333,Dropped,0.04,0
+1004.0,Sara Singh,0.4318181818181818,Male,India,Asur,Romance,SonyLIV,21.0,0.5833333333333334,0.6666666666666666,Ongoing,0.32,2
+1113.0,Aditya Patel,0.2727272727272727,Female,India,Breathe,Action,JioCinema,29.2,0.4000000000000001,0.0,Ongoing,0.37,2
+1081.0,Arjun Sharma,0.045454545454545456,Female,India,Bombay Begums,Comedy,Netflix,39.4,0.5833333333333334,0.0,Completed,0.59,1
+1034.0,Diya Gupta,0.38636363636363635,Male,India,Duranga,Thriller,MX Player,26.2,0.500995024875622,1.0,Dropped,0.32,2
+1108.0,Pari Mehta,0.045454545454545456,Male,India,Suzhal,Crime,Netflix,25.1,0.75,0.6666666666666666,Ongoing,0.43,2
+1056.0,Ira Patel,0.4772727272727273,Female,India,Bard of Blood,Crime,JioCinema,14.9,0.9166666666666666,1.0,Ongoing,0.28,0
+1044.0,Ira Reddy,0.7727272727272727,Female,India,Asur,Sci-Fi,Netflix,30.9,0.5499999999999999,0.6666666666666666,Completed,0.45,2
+1048.0,Diya Kumar,0.6363636363636364,Male,India,Ray,Thriller,Disney+ Hotstar,48.5,0.20000000000000004,0.3333333333333333,Completed,0.5,1
+1064.0,Diya Gupta,0.8863636363636364,Female,India,Farzi,Romance,ZEE5,20.1,0.20000000000000004,0.6666666666666666,Dropped,0.21,2
+1098.482089552239,Ira Verma,0.4772727272727273,Male,India,Criminal Justice,Sci-Fi,ZEE5,3.8,0.5833333333333334,0.3333333333333333,Dropped,0.06,0
+1024.0,Rohan Sharma,0.13636363636363635,Female,India,Out of Love,Romance,SonyLIV,38.6,0.25,0.16666666666666666,Ongoing,0.42,1
+1082.0,Pari Reddy,0.6818181818181818,Male,India,Farzi,Thriller,MX Player,13.7,0.85,0.0,Completed,0.25,0
+1002.0,Pari Singh,0.8181818181818182,Female,India,Grahan,Comedy,Netflix,27.7,0.85,0.0,Completed,0.5,2
+1084.0,Ishaan Patel,0.25,Female,India,Special OPS,Action,JioCinema,11.2,0.5333333333333333,0.5,Completed,0.16,0
+1156.0,Sai Kumar,0.45454545454545453,Male,India,Grahan,Sci-Fi,SonyLIV,27.8,0.15000000000000005,0.3333333333333333,Dropped,0.27,2
+1090.0,Aarav Chopra,0.9318181818181818,Male,India,Aspirants,Sci-Fi,ZEE5,29.6,0.6833333333333332,1.0,Completed,0.48,2
+1053.0,Ira Reddy,0.20454545454545456,Female,India,Rana Naidu,Comedy,JioCinema,16.5,0.20000000000000004,0.6666666666666666,Ongoing,0.17,0
+1102.0,Sai Mehta,0.5454545454545454,Male,India,Undekhi,Sci-Fi,ZEE5,17.1,0.8333333333333334,0.16666666666666666,Completed,0.31,0
+1037.0,Krishna Joshi,0.4318181818181818,Female,India,Bard of Blood,Romance,Amazon Prime,47.0,0.4333333333333333,0.0,Dropped,0.62,1
+1075.0,Diya Sharma,0.5454545454545454,Male,India,Gullak,Crime,SonyLIV,13.4,0.5666666666666668,0.3333333333333333,Completed,0.2,0
+1037.0,Pari Gupta,0.06818181818181818,Male,India,Breathe,Drama,JioCinema,4.9,0.6833333333333332,0.16666666666666666,Completed,0.08,0
+1189.0,Aarav Sharma,0.2727272727272727,Female,India,Grahan,Thriller,Disney+ Hotstar,15.0,0.25,0.16666666666666666,Dropped,0.17,0
+1141.0,Vihaan Joshi,0.4772727272727273,Male,India,Class,Romance,Netflix,33.2,0.5333333333333333,0.5,Completed,0.48,2
+1137.0,Arjun Reddy,0.13636363636363635,Male,India,Breathe,Drama,ZEE5,9.6,0.2333333333333334,1.0,Ongoing,0.1,0
+1014.0,Ira Patel,0.6818181818181818,Female,India,High,Crime,JioCinema,10.1,0.7666666666666666,0.8333333333333334,Ongoing,0.17,0
+1038.0,Karan Singh,0.20454545454545456,Male,India,Aspirants,Comedy,Netflix,39.4,0.3666666666666667,0.0,Ongoing,0.49,1
+1159.0,Anika Verma,0.5681818181818182,Female,India,Sacred Games,Romance,ZEE5,30.2,0.5333333333333333,1.0,Ongoing,0.43,2
+1122.0,Riya Sharma,0.5227272727272727,Female,India,The Family Man,Drama,MX Player,35.2,0.7666666666666666,0.6666666666666666,Completed,0.61,1
+1090.0,Anika Reddy,0.22727272727272727,Male,India,Panchayat,Drama,SonyLIV,42.6,0.25,0.5,Ongoing,0.47,1
+1111.0,Arjun Chopra,0.7045454545454546,Female,India,Class,Drama,SonyLIV,22.9,0.75,1.0,Ongoing,0.39,2
+1047.0,Pari Gupta,0.7727272727272727,Female,India,Ray,Crime,MX Player,8.1,0.5666666666666668,0.0,Ongoing,0.12,0
+1039.0,Krishna Verma,0.2727272727272727,Female,India,Mirzapur,Drama,Amazon Prime,48.3,0.6,0.8333333333333334,Ongoing,0.73,1
+1052.0,Vihaan Mehta,0.25,Female,India,Rana Naidu,Drama,MX Player,47.0,0.9833333333333334,0.6666666666666666,Ongoing,0.93,1
+1118.0,Arjun Kumar,0.06818181818181818,Female,India,Bandish Bandits,Drama,MX Player,8.2,0.6999999999999998,0.8333333333333334,Ongoing,0.13,0
+1179.0,Aditya Patel,0.5909090909090909,Female,India,Duranga,Thriller,Disney+ Hotstar,45.4,0.18333333333333326,0.3333333333333333,Completed,0.46,1
+1077.0,Anika Singh,0.5909090909090909,Female,India,High,Comedy,Netflix,43.2,0.5499999999999999,0.8333333333333334,Dropped,0.63,1
+1190.0,Krishna Singh,0.022727272727272728,Female,India,Ray,Drama,JioCinema,38.0,0.5833333333333334,0.6666666666666666,Dropped,0.57,1
+1001.0,Aditya Kumar,0.7727272727272727,Male,India,Kota Factory,Thriller,Disney+ Hotstar,47.0,0.1166666666666667,0.8333333333333334,Dropped,0.44,1
+1156.0,Vivaan Verma,0.5909090909090909,Male,India,Farzi,Action,MX Player,42.9,0.5833333333333334,0.0,Ongoing,0.64,1
+1081.0,Anika Patel,0.7727272727272727,Female,India,Grahan,Drama,ZEE5,25.2,0.8333333333333334,0.0,Ongoing,0.45,2
+1010.0,Vihaan Kumar,0.3409090909090909,Male,India,Mirzapur,Crime,MX Player,48.1,0.5499999999999999,0.16666666666666666,Ongoing,0.7,1
+1095.0,Rohan Kumar,0.6136363636363636,Female,India,Undekhi,Romance,Netflix,2.5,0.4000000000000001,0.5,Ongoing,0.03,0
+1106.0,Ananya Sharma,0.29545454545454547,Female,India,Farzi,Comedy,SonyLIV,40.5,0.03333333333333336,0.6666666666666666,Ongoing,0.34,1
+1163.0,Vihaan Gupta,0.20454545454545456,Female,India,Mai,Drama,Disney+ Hotstar,10.8,0.3166666666666667,0.0,Completed,0.13,0
+1176.0,Ira Verma,0.18181818181818182,Female,India,Criminal Justice,Drama,ZEE5,33.9,0.7166666666666668,0.5,Ongoing,0.56,1
+1096.0,Anika Kumar,0.8409090909090909,Female,India,Bard of Blood,Comedy,JioCinema,34.2,0.4000000000000001,0.8333333333333334,Ongoing,0.44,1
+1025.0,Ishaan Reddy,0.4318181818181818,Female,India,Criminal Justice,Drama,Amazon Prime,21.5,0.08333333333333333,0.0,Completed,0.19,2
+1181.0,Aadhya Mehta,0.3409090909090909,Male,India,TVF Pitchers,Thriller,Netflix,25.88611940298507,0.6166666666666667,0.3333333333333333,Completed,0.75,2
+1002.0,Ananya Chopra,0.9090909090909091,Female,India,The Night Manager,Action,JioCinema,37.5,0.016666666666666607,0.3333333333333333,Completed,0.31,1
+1187.0,Myra Joshi,0.7727272727272727,Female,India,Taaza Khabar,Thriller,SonyLIV,28.5,0.04999999999999997,0.8333333333333334,Completed,0.25,2
+1169.0,Sara Reddy,0.9090909090909091,Male,India,Aspirants,Crime,Disney+ Hotstar,44.1,0.16666666666666666,0.3333333333333333,Dropped,0.44,1
+1030.0,Ishaan Sharma,0.6136363636363636,Female,India,Bandish Bandits,Action,SonyLIV,35.8,0.03333333333333336,0.5,Ongoing,0.3,1
+1006.0,Rohan Sharma,0.13636363636363635,Female,India,Breathe,Comedy,Amazon Prime,49.2,0.3833333333333333,0.5,Ongoing,0.62,1
+1095.0,Aditya Singh,0.2727272727272727,Male,India,Duranga,Thriller,Netflix,33.1,0.45,0.16666666666666666,Dropped,0.44,2
+1048.0,Aditya Sharma,0.36363636363636365,Male,India,Delhi Crime,Comedy,MX Player,24.9,0.5666666666666668,0.6666666666666666,Ongoing,0.37,2
+1098.0,Vivaan Patel,0.3409090909090909,Female,India,Criminal Justice,Sci-Fi,SonyLIV,5.2,1.0,0.5,Dropped,0.1,0
+1031.0,Ishaan Mehta,0.13636363636363635,Female,India,Class,Crime,ZEE5,27.8,0.09999999999999994,0.0,Completed,0.26,2
+1195.0,Anika Kumar,0.45454545454545453,Female,India,Inside Edge,Sci-Fi,SonyLIV,5.3,0.3499999999999999,0.6666666666666666,Ongoing,0.06,0
+1037.0,Ishaan Reddy,0.6590909090909091,Male,India,The Night Manager,Romance,JioCinema,10.5,0.08333333333333333,0.5,Dropped,0.09,0
+1150.0,Aarav Kumar,0.6818181818181818,Female,India,Duranga,Action,ZEE5,25.7,0.3166666666666667,0.3333333333333333,Completed,0.3,2
+1112.0,Kiara Chopra,0.7954545454545454,Male,India,Hostel Daze,Crime,ZEE5,48.7,0.15000000000000005,1.0,Completed,0.48,1
+1155.0,Arjun Gupta,0.7045454545454546,Female,India,Ray,Crime,Amazon Prime,11.4,0.3833333333333333,0.0,Ongoing,0.14,0
+1098.482089552239,Pari Kumar,0.45454545454545453,Male,India,The Night Manager,Thriller,Disney+ Hotstar,26.7,0.500995024875622,0.16666666666666666,Dropped,0.53,2
+1108.0,Vihaan Chopra,0.25,Male,India,Panchayat,Thriller,ZEE5,45.6,0.3666666666666667,0.5,Ongoing,0.57,1
+1193.0,Kiara Patel,0.9772727272727273,Female,India,The Freelancer,Romance,SonyLIV,25.5,0.75,0.6666666666666666,Completed,0.43,2
+1037.0,Ishaan Kumar,0.7272727272727273,Male,India,Arya,Thriller,Amazon Prime,35.9,0.4833333333333334,0.16666666666666666,Dropped,0.5,1
+1147.0,Diya Kumar,0.45454545454545453,Male,India,Hostel Daze,Drama,JioCinema,35.8,0.2333333333333334,0.6666666666666666,Completed,0.39,1
+1192.0,Rohan Sharma,1.0,Female,India,Out of Love,Sci-Fi,SonyLIV,9.2,0.20000000000000004,0.16666666666666666,Dropped,0.1,0
+1080.0,Pari Mehta,0.18181818181818182,Female,India,Class,Sci-Fi,Disney+ Hotstar,41.9,0.5,0.5,Dropped,0.59,1
+1105.0,Aadhya Kumar,0.20454545454545456,Female,India,TVF Pitchers,Thriller,Amazon Prime,42.8,0.3833333333333333,0.6666666666666666,Completed,0.54,1
+1199.0,Aditya Kumar,0.18181818181818182,Male,India,Scam 1992,Crime,MX Player,5.6,0.4333333333333333,0.8333333333333334,Ongoing,0.07,0
+1168.0,Myra Singh,0.20454545454545456,Male,India,Hostel Daze,Drama,SonyLIV,40.1,0.15000000000000005,0.6666666666666666,Completed,0.39,1
+1143.0,Diya Kumar,0.75,Male,India,Hostel Daze,Action,Netflix,26.9,0.4333333333333333,0.8333333333333334,Completed,0.36,2
+1199.0,Arjun Singh,0.5,Female,India,Undekhi,Action,MX Player,49.7,0.7833333333333332,0.6666666666666666,Completed,0.86,1
+1188.0,Anika Chopra,0.20454545454545456,Male,India,Made in Heaven,Drama,ZEE5,22.7,0.45,0.6666666666666666,Ongoing,0.3,2
+1059.0,Aarav Verma,0.5681818181818182,Female,India,Scam 1992,Thriller,SonyLIV,36.1,0.20000000000000004,0.5,Dropped,0.38,1
+1002.0,Pari Singh,0.8409090909090909,Female,India,The Family Man,Romance,MX Player,44.3,0.9333333333333332,0.5,Completed,0.85,1
+1060.0,Aarav Reddy,0.8181818181818182,Female,India,Class,Crime,Disney+ Hotstar,47.7,0.21666666666666665,0.16666666666666666,Completed,0.51,1
+1015.0,Aarav Singh,0.22727272727272727,Male,India,Mai,Sci-Fi,Disney+ Hotstar,41.9,0.18333333333333326,0.6666666666666666,Ongoing,0.43,1
+1088.0,Vihaan Kumar,0.9090909090909091,Male,India,Undekhi,Sci-Fi,Disney+ Hotstar,17.3,0.06666666666666672,0.8333333333333334,Dropped,0.15,0
+1131.0,Karan Mehta,0.11363636363636363,Male,India,Sacred Games,Sci-Fi,Amazon Prime,23.8,0.3499999999999999,1.0,Ongoing,0.29,2
+1002.0,Diya Sharma,0.45454545454545453,Female,India,Class,Thriller,MX Player,28.5,0.20000000000000004,1.0,Completed,0.3,2
+1147.0,Aarav Chopra,0.9318181818181818,Female,India,Bard of Blood,Crime,MX Player,10.3,0.9666666666666668,0.3333333333333333,Ongoing,0.2,0
+1200.0,Vihaan Kumar,0.7954545454545454,Female,India,Taj Mahal 1989,Drama,Amazon Prime,17.3,0.6166666666666667,0.5,Ongoing,0.27,0
+1123.0,Arjun Kumar,0.29545454545454547,Male,India,Undekhi,Thriller,SonyLIV,28.5,0.4000000000000001,0.5,Ongoing,0.36,2
+1061.0,Ananya Sharma,0.3181818181818182,Female,India,Made in Heaven,Romance,ZEE5,6.3,0.06666666666666672,0.3333333333333333,Ongoing,0.06,0
+1174.0,Ishaan Reddy,0.3181818181818182,Female,India,Farzi,Romance,Amazon Prime,9.6,0.5166666666666666,0.0,Completed,0.14,0
+1157.0,Vihaan Sharma,0.5909090909090909,Female,India,Rocket Boys,Sci-Fi,Netflix,9.7,0.06666666666666672,0.6666666666666666,Ongoing,0.09,0
+1175.0,Sai Sharma,0.8409090909090909,Male,India,TVF Pitchers,Romance,ZEE5,14.8,0.04999999999999997,0.8333333333333334,Completed,0.13,0
+1078.0,Sara Reddy,0.2727272727272727,Female,India,Paatal Lok,Comedy,Netflix,4.5,0.9,0.5,Dropped,0.08,0
+1149.0,Anika Sharma,0.29545454545454547,Female,India,Kota Factory,Drama,Netflix,49.1,0.3,1.0,Dropped,0.57,1
+1138.0,Sara Verma,0.6590909090909091,Female,India,Class,Romance,JioCinema,46.0,1.0,0.6666666666666666,Completed,0.92,1
+1112.0,Karan Sharma,0.4772727272727273,Male,India,The Night Manager,Crime,Netflix,37.2,0.6333333333333333,0.0,Dropped,0.58,1
+1008.0,Anika Reddy,0.4318181818181818,Male,India,Rocket Boys,Comedy,Amazon Prime,49.2,0.5833333333333334,0.0,Dropped,0.74,1
+1150.0,Sara Chopra,0.8636363636363636,Male,India,Inside Edge,Comedy,Amazon Prime,44.4,0.5333333333333333,0.5,Ongoing,0.64,1
+1129.0,Diya Gupta,0.5227272727272727,Female,India,Hostel Daze,Action,Netflix,24.0,0.5833333333333334,1.0,Completed,0.36,2
+1169.0,Kiara Kumar,0.8863636363636364,Male,India,Breathe,Thriller,ZEE5,27.6,0.5333333333333333,0.6666666666666666,Completed,0.4,2
+1058.0,Ishaan Patel,0.9772727272727273,Male,India,Hostel Daze,Romance,Amazon Prime,23.7,0.5666666666666668,0.8333333333333334,Completed,0.35,2
+1002.0,Aarav Gupta,0.9545454545454546,Female,India,Arya,Action,SonyLIV,33.9,0.4666666666666666,0.8333333333333334,Ongoing,0.46,1
+1006.0,Aadhya Chopra,0.25,Female,India,Taj Mahal 1989,Thriller,SonyLIV,35.2,0.3333333333333333,0.3333333333333333,Dropped,0.42,1
+1200.0,Arjun Chopra,0.8863636363636364,Male,India,The Night Manager,Crime,Amazon Prime,37.2,0.4166666666666667,0.3333333333333333,Dropped,0.48,1
+1058.0,Ishaan Singh,0.09090909090909091,Female,India,Panchayat,Sci-Fi,Netflix,4.7,0.8000000000000002,0.5,Ongoing,0.08,0
+1166.0,Ira Verma,0.3181818181818182,Female,India,The Freelancer,Romance,Amazon Prime,36.2,0.3166666666666667,0.5,Dropped,0.43,1
+1146.0,Riya Chopra,0.5454545454545454,Female,India,Bombay Begums,Romance,ZEE5,4.2,0.6333333333333333,0.16666666666666666,Dropped,0.07,0
+1160.0,Sara Singh,0.022727272727272728,Female,India,The Freelancer,Drama,ZEE5,7.7,0.6,0.16666666666666666,Dropped,0.12,0
+1099.0,Rohan Chopra,0.1590909090909091,Female,India,Breathe,Crime,Amazon Prime,25.2,0.5666666666666668,0.16666666666666666,Ongoing,0.37,2
+1016.0,Ishaan Mehta,0.3409090909090909,Male,India,Taaza Khabar,Sci-Fi,ZEE5,21.3,0.20000000000000004,0.3333333333333333,Dropped,0.22,2
+1192.0,Pari Verma,0.5,Male,India,Bandish Bandits,Drama,JioCinema,33.9,0.5,0.8333333333333334,Completed,0.47,1
+1148.0,Sai Mehta,0.25,Male,India,Farzi,Thriller,MX Player,6.9,0.75,0.6666666666666666,Completed,0.12,0
+1144.0,Myra Verma,0.7272727272727273,Female,India,Hostel Daze,Romance,MX Player,40.3,0.0,0.8333333333333334,Ongoing,0.32,1
+1029.0,Aditya Patel,0.29545454545454547,Male,India,Paatal Lok,Romance,Netflix,5.0,0.7333333333333334,0.3333333333333333,Dropped,0.08,0
+1123.0,Vivaan Joshi,0.25,Male,India,Candy,Drama,Netflix,3.0,0.2833333333333334,0.3333333333333333,Completed,0.03,0
+1026.0,Sai Patel,0.7045454545454546,Female,India,Rocket Boys,Comedy,Disney+ Hotstar,47.3,0.3666666666666667,0.5,Ongoing,0.59,1
+1037.0,Aadhya Sharma,0.7727272727272727,Male,India,Mirzapur,Comedy,MX Player,4.2,0.21666666666666665,0.0,Ongoing,0.04,0
+1104.0,Karan Singh,0.8409090909090909,Male,India,Rana Naidu,Thriller,SonyLIV,35.7,0.09999999999999994,1.0,Dropped,0.33,1
+1002.0,Ananya Reddy,0.75,Male,India,Mai,Drama,ZEE5,42.9,0.4666666666666666,0.6666666666666666,Completed,0.58,1
+1008.0,Karan Chopra,0.11363636363636363,Female,India,Aspirants,Comedy,JioCinema,37.8,0.2833333333333334,0.0,Ongoing,0.43,1
+1184.0,Aditya Verma,0.7954545454545454,Female,India,Bombay Begums,Action,Disney+ Hotstar,32.4,0.9166666666666666,0.3333333333333333,Completed,0.62,2
+1169.0,Myra Mehta,0.4318181818181818,Female,India,Bandish Bandits,Action,Amazon Prime,7.8,0.5833333333333334,0.8333333333333334,Dropped,0.12,0
+1098.0,Aadhya Mehta,0.7954545454545454,Female,India,Ray,Drama,ZEE5,21.8,0.9499999999999998,0.6666666666666666,Dropped,0.42,2
+1112.0,Karan Gupta,0.9772727272727273,Female,India,Rocket Boys,Action,Netflix,23.5,0.9166666666666666,0.16666666666666666,Completed,0.45,2
+1186.0,Aditya Verma,0.8181818181818182,Male,India,Made in Heaven,Action,ZEE5,27.1,0.2333333333333334,0.8333333333333334,Completed,0.29,2
+1063.0,Aarav Gupta,0.4772727272727273,Female,India,Special OPS,Comedy,Disney+ Hotstar,35.8,0.8833333333333334,0.3333333333333333,Completed,0.67,1
+1187.0,Kiara Joshi,0.20454545454545456,Female,India,Candy,Comedy,Netflix,9.2,0.2833333333333334,0.3333333333333333,Ongoing,0.1,0
+1157.0,Diya Chopra,0.5681818181818182,Male,India,Duranga,Action,ZEE5,38.8,0.16666666666666666,1.0,Dropped,0.39,1
+1197.0,Kiara Patel,0.8863636363636364,Male,India,Inside Edge,Thriller,ZEE5,21.9,0.9666666666666668,0.0,Completed,0.43,2
+1155.0,Sai Singh,0.8409090909090909,Male,India,Paatal Lok,Drama,MX Player,46.4,0.7166666666666668,0.6666666666666666,Dropped,0.77,1
+1106.0,Vihaan Patel,0.75,Male,India,Rana Naidu,Sci-Fi,Amazon Prime,18.4,0.85,0.6666666666666666,Completed,0.33,2
+1013.0,Ishaan Joshi,0.5,Male,India,Bandish Bandits,Romance,SonyLIV,34.3,0.08333333333333333,0.0,Ongoing,0.31,1
+1019.0,Sai Joshi,0.045454545454545456,Male,India,Delhi Crime,Drama,Amazon Prime,39.3,0.7833333333333332,1.0,Completed,0.68,1
+1037.0,Aarav Sharma,0.13636363636363635,Male,India,Undekhi,Drama,JioCinema,18.6,0.6833333333333332,0.8333333333333334,Ongoing,0.3,2
+1172.0,Rohan Singh,0.5909090909090909,Male,India,Mai,Comedy,Netflix,36.3,0.9,0.0,Ongoing,0.68,1
+1158.0,Vihaan Sharma,0.4772727272727273,Female,India,Kota Factory,Crime,Disney+ Hotstar,44.6,0.3666666666666667,1.0,Completed,0.55,1
+1059.0,Karan Chopra,0.9090909090909091,Male,India,Criminal Justice,Crime,JioCinema,22.0,0.6,0.5,Dropped,0.33,2
+1195.0,Karan Singh,0.5681818181818182,Male,India,Taj Mahal 1989,Drama,MX Player,34.6,0.45,1.0,Dropped,0.46,1
+1060.0,Ira Mehta,0.22727272727272727,Female,India,TVF Pitchers,Drama,ZEE5,2.6,1.0,0.3333333333333333,Completed,0.05,0
+1198.0,Kiara Chopra,0.6818181818181818,Male,India,Arya,Drama,JioCinema,44.4,0.04999999999999997,0.16666666666666666,Ongoing,0.38,1
+1198.0,Karan Reddy,0.22727272727272727,Female,India,Hostel Daze,Drama,Disney+ Hotstar,14.9,0.20000000000000004,0.5,Ongoing,0.15,0
+1159.0,Myra Verma,0.5454545454545454,Female,India,Bard of Blood,Comedy,Disney+ Hotstar,26.2,0.3833333333333333,1.0,Ongoing,0.33,2
+1045.0,Aarav Verma,0.1590909090909091,Male,India,Bandish Bandits,Comedy,SonyLIV,38.5,0.16666666666666666,0.6666666666666666,Dropped,0.39,1
+1133.0,Vivaan Patel,0.8409090909090909,Male,India,Mai,Drama,MX Player,4.6,0.5666666666666668,0.5,Ongoing,0.07,0
+1083.0,Ishaan Joshi,0.5454545454545454,Female,India,Undekhi,Action,Amazon Prime,48.2,0.08333333333333333,0.8333333333333334,Dropped,0.43,1
+1088.0,Myra Mehta,0.4090909090909091,Male,India,Delhi Crime,Comedy,MX Player,25.88611940298507,0.3333333333333333,0.6666666666666666,Dropped,0.26,2
+1024.0,Ira Verma,0.2727272727272727,Male,India,Taj Mahal 1989,Romance,SonyLIV,32.3,0.3499999999999999,0.5,Ongoing,0.39,2
+1111.0,Ira Chopra,0.18181818181818182,Male,India,Aspirants,Action,JioCinema,24.5,0.16666666666666666,0.6666666666666666,Ongoing,0.24,2
+1033.0,Riya Sharma,0.7272727272727273,Female,India,The Family Man,Drama,MX Player,14.3,0.6333333333333333,0.6666666666666666,Dropped,0.22,0
+1040.0,Myra Chopra,0.13636363636363635,Female,India,Out of Love,Drama,Disney+ Hotstar,26.3,0.65,0.8333333333333334,Completed,0.42,2
+1113.0,Krishna Gupta,0.13636363636363635,Female,India,Rana Naidu,Comedy,Netflix,44.7,0.03333333333333336,0.3333333333333333,Dropped,0.38,1
+1098.482089552239,Arjun Verma,0.2727272727272727,Male,India,Class,Thriller,Amazon Prime,23.9,0.6666666666666666,0.0,Completed,0.38,2
+1074.0,Krishna Verma,0.8863636363636364,Female,India,Rocket Boys,Crime,MX Player,26.1,0.15000000000000005,0.8333333333333334,Dropped,0.26,2
+1150.0,Myra Verma,0.29545454545454547,Male,India,Delhi Crime,Crime,Amazon Prime,37.5,0.25,0.5,Completed,0.41,1
+1158.0,Vihaan Kumar,0.13636363636363635,Male,India,High,Action,ZEE5,41.9,0.016666666666666607,0.6666666666666666,Completed,0.34,1
+1105.0,Ananya Mehta,0.5909090909090909,Male,India,Aspirants,Thriller,SonyLIV,47.7,0.8666666666666666,0.8333333333333334,Completed,0.88,1
+1050.0,Ira Singh,0.7954545454545454,Female,India,Kota Factory,Thriller,JioCinema,21.2,0.16666666666666666,0.16666666666666666,Completed,0.21,2
+1196.0,Riya Sharma,0.6136363636363636,Male,India,Made in Heaven,Action,Amazon Prime,28.1,0.9666666666666668,1.0,Dropped,0.55,2
+1019.0,Pari Mehta,0.5681818181818182,Female,India,Aspirants,Romance,Netflix,3.6,0.5666666666666668,0.5,Completed,0.05,0
+1113.0,Arjun Kumar,0.9545454545454546,Female,India,Class,Sci-Fi,Disney+ Hotstar,48.5,0.4333333333333333,0.5,Ongoing,0.64,1
+1097.0,Karan Verma,0.22727272727272727,Male,India,TVF Pitchers,Comedy,Disney+ Hotstar,22.6,1.0,0.6666666666666666,Ongoing,0.45,2
+1056.0,Krishna Singh,0.5909090909090909,Female,India,Delhi Crime,Thriller,SonyLIV,19.1,0.6666666666666666,1.0,Ongoing,0.31,2
+1067.0,Vihaan Verma,0.2727272727272727,Female,India,Delhi Crime,Crime,ZEE5,29.3,0.1333333333333333,0.0,Ongoing,0.28,2
+1073.0,Sara Joshi,0.022727272727272728,Female,India,Breathe,Crime,ZEE5,4.9,0.0,1.0,Dropped,0.04,0
+1168.0,Diya Verma,0.18181818181818182,Female,India,Undekhi,Sci-Fi,MX Player,20.8,0.8666666666666666,0.16666666666666666,Ongoing,0.38,2
+1137.0,Aarav Gupta,0.0,Female,India,Candy,Crime,Amazon Prime,8.8,0.18333333333333326,1.0,Ongoing,0.09,0
+1052.0,Arjun Mehta,0.29545454545454547,Female,India,TVF Pitchers,Sci-Fi,Amazon Prime,10.8,0.20000000000000004,0.6666666666666666,Ongoing,0.11,0
+1070.0,Ira Singh,0.045454545454545456,Female,India,Duranga,Action,Amazon Prime,46.6,0.5,0.8333333333333334,Completed,0.65,1
+1045.0,Kiara Chopra,1.0,Male,India,Kota Factory,Sci-Fi,ZEE5,37.8,0.9166666666666666,0.6666666666666666,Dropped,0.72,1
+1036.0,Karan Joshi,0.5,Male,India,Duranga,Sci-Fi,MX Player,35.1,0.6,0.3333333333333333,Completed,0.53,1
+1126.0,Anika Joshi,0.29545454545454547,Male,India,Hostel Daze,Crime,ZEE5,49.7,0.5499999999999999,0.6666666666666666,Completed,0.73,1
+1163.0,Rohan Gupta,0.9545454545454546,Female,India,Gullak,Drama,MX Player,36.5,0.06666666666666672,0.8333333333333334,Completed,0.32,1
+1007.0,Krishna Verma,0.9090909090909091,Male,India,Rocket Boys,Romance,SonyLIV,5.2,0.7166666666666668,0.5,Ongoing,0.09,0
+1183.0,Arjun Mehta,0.9318181818181818,Female,India,Taaza Khabar,Thriller,MX Player,10.7,0.25,0.6666666666666666,Dropped,0.12,0
+1050.0,Diya Sharma,0.8181818181818182,Male,India,Panchayat,Drama,Disney+ Hotstar,9.8,0.4166666666666667,0.3333333333333333,Ongoing,0.13,0
+1048.0,Ira Reddy,0.11363636363636363,Male,India,The Freelancer,Romance,Disney+ Hotstar,34.4,0.5,0.5,Dropped,0.48,1
+1116.0,Diya Patel,0.045454545454545456,Female,India,Ray,Comedy,MX Player,32.5,0.75,0.6666666666666666,Dropped,0.55,2
+1095.0,Sara Mehta,0.36363636363636365,Female,India,Taaza Khabar,Comedy,Disney+ Hotstar,31.5,0.3333333333333333,0.6666666666666666,Completed,0.38,2
+1094.0,Vihaan Mehta,0.9090909090909091,Male,India,Khakee: The Bihar Chapter,Crime,SonyLIV,44.5,0.4333333333333333,0.6666666666666666,Completed,0.59,1
+1009.0,Arjun Reddy,0.38636363636363635,Male,India,Inside Edge,Thriller,SonyLIV,30.8,0.4166666666666667,0.0,Completed,0.4,2
+1100.0,Ananya Sharma,0.7272727272727273,Female,India,Breathe,Action,JioCinema,46.6,0.3333333333333333,0.8333333333333334,Dropped,0.56,1
+1108.0,Karan Singh,0.25,Male,India,Sacred Games,Comedy,JioCinema,22.9,0.3,0.8333333333333334,Dropped,0.27,2
+1070.0,Aditya Verma,0.8181818181818182,Male,India,Taj Mahal 1989,Sci-Fi,ZEE5,27.0,0.5499999999999999,0.8333333333333334,Ongoing,0.39,2
+1085.0,Pari Verma,0.8863636363636364,Male,India,Kota Factory,Romance,Netflix,49.6,0.4833333333333334,0.16666666666666666,Dropped,0.68,1
+1119.0,Ananya Singh,0.5454545454545454,Female,India,Criminal Justice,Thriller,JioCinema,41.1,0.2666666666666666,0.0,Dropped,0.46,1
+1179.0,Anika Mehta,0.5681818181818182,Male,India,Undekhi,Crime,Netflix,4.0,0.3166666666666667,1.0,Ongoing,0.05,0
+1046.0,Ira Mehta,0.6363636363636364,Female,India,Criminal Justice,Sci-Fi,ZEE5,37.2,0.4666666666666666,0.3333333333333333,Ongoing,0.51,1
+1066.0,Diya Sharma,0.11363636363636363,Male,India,High,Comedy,JioCinema,41.9,0.20000000000000004,0.6666666666666666,Completed,0.44,1
+1018.0,Aarav Joshi,0.11363636363636363,Female,India,Kota Factory,Crime,MX Player,16.7,0.06666666666666672,0.0,Ongoing,0.15,0
+1029.0,Sai Verma,0.6590909090909091,Male,India,Candy,Crime,ZEE5,48.6,0.3499999999999999,1.0,Dropped,0.59,1
+1028.0,Ira Chopra,0.6818181818181818,Female,India,Hostel Daze,Romance,ZEE5,48.8,0.03333333333333336,0.6666666666666666,Completed,0.41,1
+1034.0,Myra Verma,0.8409090909090909,Female,India,Suzhal,Romance,Amazon Prime,20.2,0.8000000000000002,0.5,Ongoing,0.36,2
+1075.0,Karan Singh,0.7954545454545454,Male,India,TVF Pitchers,Sci-Fi,Amazon Prime,49.8,0.500995024875622,0.5,Ongoing,0.48,1
+1072.0,Vivaan Joshi,0.22727272727272727,Female,India,Aspirants,Drama,Amazon Prime,15.7,0.4666666666666666,0.6666666666666666,Completed,0.21,0
+1199.0,Aditya Reddy,0.6363636363636364,Male,India,Gullak,Thriller,ZEE5,30.5,0.3666666666666667,0.8333333333333334,Completed,0.38,2
+1098.0,Ananya Verma,0.4090909090909091,Female,India,Ray,Thriller,SonyLIV,32.2,0.5833333333333334,0.0,Ongoing,0.48,2
+1163.0,Ishaan Sharma,0.7727272727272727,Female,India,Criminal Justice,Comedy,Netflix,44.5,0.15000000000000005,0.16666666666666666,Completed,0.44,1
+1126.0,Kiara Reddy,0.06818181818181818,Male,India,Hostel Daze,Thriller,Amazon Prime,7.9,0.04999999999999997,0.5,Completed,0.07,0
+1141.0,Anika Chopra,0.4772727272727273,Female,India,Bombay Begums,Action,SonyLIV,3.0,0.4166666666666667,0.6666666666666666,Completed,0.04,0
+1146.0,Karan Patel,0.7045454545454546,Female,India,Grahan,Action,Amazon Prime,24.4,0.7166666666666668,0.0,Completed,0.41,2
+1024.0,Karan Verma,0.6136363636363636,Male,India,Kota Factory,Romance,MX Player,5.3,0.3833333333333333,0.0,Ongoing,0.07,0
+1168.0,Arjun Gupta,0.5227272727272727,Female,India,Paatal Lok,Romance,Disney+ Hotstar,7.1,0.7833333333333332,0.8333333333333334,Ongoing,0.12,0
+1149.0,Rohan Patel,1.0,Female,India,Taj Mahal 1989,Sci-Fi,ZEE5,10.4,0.8166666666666668,1.0,Completed,0.19,0
+1056.0,Diya Sharma,0.3409090909090909,Female,India,Out of Love,Thriller,Netflix,31.5,0.09999999999999994,0.16666666666666666,Dropped,0.29,2
+1155.0,Rohan Kumar,0.045454545454545456,Male,India,Made in Heaven,Thriller,MX Player,20.4,0.2833333333333334,0.6666666666666666,Dropped,0.23,2
+1132.0,Vivaan Mehta,0.6590909090909091,Male,India,Inside Edge,Drama,Amazon Prime,49.7,0.08333333333333333,0.6666666666666666,Completed,0.45,1
+1048.0,Aarav Kumar,0.3181818181818182,Female,India,Kota Factory,Action,JioCinema,31.4,0.6,0.3333333333333333,Completed,0.48,2
+1095.0,Rohan Patel,0.9772727272727273,Male,India,Undekhi,Comedy,Netflix,6.6,0.25,0.8333333333333334,Completed,0.07,0
+1075.0,Ananya Verma,0.9772727272727273,Male,India,Bombay Begums,Romance,Disney+ Hotstar,25.9,0.5166666666666666,0.16666666666666666,Ongoing,0.37,2
+1078.0,Sara Patel,0.75,Female,India,Ray,Action,Netflix,45.2,0.9166666666666666,0.6666666666666666,Completed,0.86,1
+1195.0,Vihaan Gupta,0.4090909090909091,Female,India,Duranga,Romance,SonyLIV,10.8,0.7833333333333332,0.0,Completed,0.19,0
+1029.0,Aarav Mehta,0.29545454545454547,Male,India,Made in Heaven,Sci-Fi,Disney+ Hotstar,6.9,0.4333333333333333,0.0,Dropped,0.09,0
+1067.0,Pari Joshi,0.8636363636363636,Female,India,The Family Man,Crime,Netflix,17.2,0.4000000000000001,0.5,Ongoing,0.22,0
+1001.0,Aadhya Sharma,0.11363636363636363,Female,India,The Freelancer,Thriller,Disney+ Hotstar,23.2,0.6166666666666667,0.8333333333333334,Dropped,0.36,2
+1067.0,Aadhya Mehta,0.45454545454545453,Female,India,Special OPS,Thriller,Netflix,18.0,0.6833333333333332,0.6666666666666666,Completed,0.29,2
+1146.0,Vihaan Patel,0.7045454545454546,Male,India,Rocket Boys,Comedy,SonyLIV,10.6,0.6,0.8333333333333334,Completed,0.16,0
+1029.0,Ananya Joshi,0.7272727272727273,Male,India,Taj Mahal 1989,Romance,Amazon Prime,46.5,0.20000000000000004,1.0,Dropped,0.48,1
+1171.0,Aditya Sharma,0.13636363636363635,Female,India,Undekhi,Romance,ZEE5,5.1,0.6666666666666666,0.0,Ongoing,0.08,0
+1080.0,Sara Sharma,0.6363636363636364,Female,India,Out of Love,Action,ZEE5,19.0,0.9,0.5,Dropped,0.36,2
+1159.0,Vivaan Gupta,0.5,Female,India,Farzi,Thriller,Disney+ Hotstar,45.4,0.8166666666666668,0.16666666666666666,Ongoing,0.81,1
+1102.0,Aditya Chopra,0.8636363636363636,Male,India,Bard of Blood,Romance,SonyLIV,2.0,0.3666666666666667,0.16666666666666666,Ongoing,0.02,0
+1008.0,Vihaan Reddy,0.2727272727272727,Male,India,Candy,Crime,Disney+ Hotstar,49.7,0.04999999999999997,0.0,Ongoing,0.43,1
+1195.0,Diya Joshi,0.045454545454545456,Female,India,Delhi Crime,Comedy,Amazon Prime,28.0,0.3499999999999999,0.5,Completed,0.34,2
+1082.0,Krishna Verma,0.18181818181818182,Female,India,Hostel Daze,Comedy,Netflix,10.5,0.8000000000000002,0.5,Dropped,0.18,0
+1182.0,Arjun Verma,0.38636363636363635,Male,India,Mai,Romance,ZEE5,46.8,0.3166666666666667,0.5,Ongoing,0.55,1
+1199.0,Ira Sharma,0.5681818181818182,Female,India,Inside Edge,Drama,ZEE5,18.7,0.4833333333333334,0.16666666666666666,Completed,0.26,2
+1026.0,Arjun Sharma,0.22727272727272727,Female,India,The Night Manager,Drama,JioCinema,29.8,0.4166666666666667,0.6666666666666666,Completed,0.39,2
+1047.0,Ananya Chopra,0.6363636363636364,Male,India,High,Comedy,SonyLIV,10.1,0.25,0.0,Dropped,0.11,0
+1150.0,Aarav Reddy,0.2727272727272727,Female,India,Kota Factory,Romance,JioCinema,40.7,0.9166666666666666,0.0,Dropped,0.77,1
+1167.0,Krishna Reddy,0.8181818181818182,Female,India,High,Sci-Fi,SonyLIV,16.6,0.09999999999999994,0.8333333333333334,Ongoing,0.15,0
+1140.0,Pari Gupta,0.20454545454545456,Female,India,Arya,Thriller,Amazon Prime,37.1,0.4166666666666667,0.5,Completed,0.48,1
+1052.0,Aditya Patel,0.9318181818181818,Male,India,Bandish Bandits,Action,ZEE5,23.6,0.3666666666666667,0.16666666666666666,Ongoing,0.29,2
+1093.0,Ishaan Singh,0.9545454545454546,Female,India,Criminal Justice,Sci-Fi,MX Player,11.6,0.5,0.5,Dropped,0.16,0
+1025.0,Karan Sharma,0.7272727272727273,Female,India,Delhi Crime,Sci-Fi,MX Player,16.0,0.3333333333333333,0.3333333333333333,Ongoing,0.19,0
+1113.0,Myra Singh,0.25,Female,India,Kota Factory,Crime,Amazon Prime,9.1,0.4166666666666667,0.3333333333333333,Dropped,0.12,0
+1055.0,Sara Reddy,0.09090909090909091,Female,India,Panchayat,Sci-Fi,ZEE5,9.3,0.2833333333333334,0.16666666666666666,Ongoing,0.11,0
+1004.0,Karan Patel,0.3181818181818182,Male,India,Arya,Action,SonyLIV,13.5,0.8666666666666666,0.16666666666666666,Completed,0.25,0
+1050.0,Myra Patel,0.7272727272727273,Female,India,Farzi,Drama,ZEE5,17.9,0.9666666666666668,1.0,Dropped,0.35,2
+1193.0,Arjun Reddy,0.8409090909090909,Female,India,Delhi Crime,Sci-Fi,Netflix,13.6,0.3333333333333333,1.0,Ongoing,0.16,0
+1132.0,Ishaan Kumar,0.0,Female,India,Rocket Boys,Action,Netflix,21.1,0.6666666666666666,0.5,Completed,0.34,2
+1182.0,Kiara Verma,0.20454545454545456,Male,India,Duranga,Sci-Fi,Netflix,24.0,0.8833333333333334,0.8333333333333334,Ongoing,0.45,2
+1061.0,Vivaan Joshi,0.6363636363636364,Male,India,Bandish Bandits,Thriller,MX Player,37.0,0.09999999999999994,0.0,Dropped,0.34,1
+1002.0,Karan Patel,0.9772727272727273,Female,India,Kota Factory,Drama,Amazon Prime,31.0,0.8833333333333334,0.6666666666666666,Ongoing,0.58,2
+1055.0,Sai Kumar,0.8409090909090909,Female,India,Special OPS,Action,Netflix,7.0,0.25,1.0,Completed,0.08,0
+1160.0,Riya Singh,0.75,Male,India,The Night Manager,Comedy,SonyLIV,27.0,0.2666666666666666,0.0,Completed,0.3,2
+1117.0,Ishaan Chopra,0.4318181818181818,Male,India,Delhi Crime,Crime,MX Player,26.7,0.4000000000000001,0.3333333333333333,Dropped,0.34,2
+1182.0,Vihaan Kumar,0.22727272727272727,Female,India,Criminal Justice,Crime,ZEE5,9.7,0.8333333333333334,0.5,Dropped,0.17,0
+1074.0,Riya Sharma,0.8863636363636364,Male,India,The Freelancer,Thriller,Netflix,45.9,0.4166666666666667,1.0,Dropped,0.6,1
+1159.0,Rohan Joshi,0.29545454545454547,Female,India,Inside Edge,Crime,SonyLIV,43.6,0.4333333333333333,0.5,Completed,0.58,1
+1059.0,Pari Patel,1.0,Male,India,The Family Man,Drama,JioCinema,45.4,0.4000000000000001,0.6666666666666666,Completed,0.58,1
+1025.0,Kiara Gupta,0.6136363636363636,Female,India,Out of Love,Drama,Netflix,40.1,0.3333333333333333,0.0,Dropped,0.48,1
+1183.0,Pari Joshi,0.5454545454545454,Female,India,Suzhal,Romance,MX Player,24.3,0.8166666666666668,0.8333333333333334,Dropped,0.36208955223880596,2
+1126.0,Aditya Chopra,0.7045454545454546,Male,India,Panchayat,Sci-Fi,Amazon Prime,10.2,0.45,0.16666666666666666,Dropped,0.14,0
+1121.0,Kiara Chopra,0.75,Female,India,Hostel Daze,Thriller,Disney+ Hotstar,38.6,0.9,0.8333333333333334,Dropped,0.73,1
+1060.0,Karan Joshi,0.022727272727272728,Male,India,The Family Man,Romance,Disney+ Hotstar,35.0,0.4333333333333333,0.6666666666666666,Ongoing,0.46,1
+1134.0,Ira Chopra,0.20454545454545456,Male,India,Asur,Comedy,JioCinema,16.5,0.7666666666666666,0.3333333333333333,Ongoing,0.28,0
+1177.0,Karan Reddy,0.22727272727272727,Male,India,TVF Pitchers,Drama,ZEE5,4.1,0.5166666666666666,0.5,Dropped,0.06,0
+1009.0,Diya Gupta,0.6818181818181818,Female,India,Grahan,Drama,MX Player,13.7,0.09999999999999994,1.0,Completed,0.13,0
+1197.0,Aadhya Reddy,0.9545454545454546,Male,India,Out of Love,Sci-Fi,Netflix,22.4,0.7666666666666666,0.6666666666666666,Completed,0.39,2
+1004.0,Vihaan Chopra,0.9772727272727273,Female,India,Suzhal,Romance,MX Player,37.0,0.15000000000000005,1.0,Completed,0.36,1
+1150.0,Vivaan Joshi,0.7727272727272727,Male,India,Rana Naidu,Drama,Disney+ Hotstar,41.8,0.3333333333333333,1.0,Dropped,0.5,1
+1104.0,Arjun Sharma,0.9090909090909091,Male,India,Bandish Bandits,Romance,Disney+ Hotstar,11.0,0.2333333333333334,0.5,Completed,0.12,0
+1094.0,Kiara Chopra,0.5909090909090909,Male,India,Gullak,Romance,ZEE5,9.3,0.65,0.6666666666666666,Completed,0.15,0
+1089.0,Diya Verma,0.7045454545454546,Female,India,Special OPS,Romance,Netflix,26.6,0.20000000000000004,0.8333333333333334,Ongoing,0.28,2
+1134.0,Ira Mehta,0.6363636363636364,Female,India,Delhi Crime,Crime,Netflix,18.2,0.7666666666666666,0.3333333333333333,Completed,0.31,2
+1069.0,Ira Patel,0.13636363636363635,Female,India,Delhi Crime,Action,MX Player,43.3,0.9833333333333334,0.6666666666666666,Ongoing,0.86,1
+1096.0,Karan Mehta,0.5909090909090909,Male,India,Khakee: The Bihar Chapter,Drama,Disney+ Hotstar,35.6,0.7166666666666668,0.8333333333333334,Ongoing,0.59,1
+1045.0,Riya Reddy,0.11363636363636363,Male,India,Kota Factory,Drama,Netflix,2.4,0.8166666666666668,1.0,Completed,0.04,0
+1171.0,Karan Reddy,0.4772727272727273,Female,India,Bard of Blood,Drama,ZEE5,15.5,0.7666666666666666,0.16666666666666666,Dropped,0.27,0
+1013.0,Aadhya Patel,0.9545454545454546,Female,India,The Freelancer,Action,ZEE5,23.3,0.4833333333333334,0.8333333333333334,Dropped,0.32,2
+1141.0,Diya Joshi,0.18181818181818182,Female,India,Gullak,Thriller,Disney+ Hotstar,47.4,0.8833333333333334,0.3333333333333333,Completed,0.88,1
+1013.0,Anika Joshi,0.8181818181818182,Male,India,Bandish Bandits,Action,Amazon Prime,49.3,0.1166666666666667,0.8333333333333334,Completed,0.46,1
+1181.0,Myra Kumar,0.5909090909090909,Female,India,The Family Man,Thriller,MX Player,21.2,0.5,0.0,Completed,0.3,2
+1137.0,Krishna Sharma,0.1590909090909091,Female,India,Rana Naidu,Comedy,JioCinema,13.1,0.9166666666666666,0.0,Ongoing,0.25,0
+1130.0,Myra Verma,0.4318181818181818,Female,India,Ray,Sci-Fi,Amazon Prime,23.6,0.6166666666666667,0.8333333333333334,Ongoing,0.36208955223880596,2
+1172.0,Arjun Patel,0.022727272727272728,Male,India,Khakee: The Bihar Chapter,Sci-Fi,SonyLIV,16.8,0.2666666666666666,1.0,Completed,0.19,0
+1113.0,Arjun Kumar,0.5681818181818182,Male,India,Gullak,Crime,MX Player,6.6,0.3,0.3333333333333333,Ongoing,0.08,0
+1164.0,Aarav Chopra,0.4772727272727273,Male,India,Bard of Blood,Sci-Fi,MX Player,40.8,1.0,0.0,Dropped,0.82,1
+1111.0,Pari Kumar,0.4318181818181818,Female,India,Undekhi,Comedy,Disney+ Hotstar,40.5,0.25,0.5,Completed,0.45,1
+1133.0,Ananya Chopra,0.3181818181818182,Male,India,Hostel Daze,Crime,Amazon Prime,4.6,0.4000000000000001,0.5,Ongoing,0.06,0
+1102.0,Arjun Joshi,0.5454545454545454,Male,India,Panchayat,Sci-Fi,SonyLIV,21.1,0.6833333333333332,0.0,Ongoing,0.34,2
+1057.0,Kiara Mehta,0.8409090909090909,Female,India,Sacred Games,Crime,MX Player,16.0,0.0,0.8333333333333334,Dropped,0.13,0
+1170.0,Sara Patel,0.8181818181818182,Male,India,Sacred Games,Thriller,ZEE5,20.1,0.03333333333333336,1.0,Ongoing,0.17,2
+1051.0,Aditya Mehta,0.38636363636363635,Male,India,Delhi Crime,Romance,MX Player,31.7,0.8333333333333334,0.16666666666666666,Ongoing,0.57,2
+1030.0,Arjun Sharma,0.6363636363636364,Female,India,Grahan,Drama,Disney+ Hotstar,27.1,0.25,0.6666666666666666,Dropped,0.3,2
+1008.0,Aadhya Reddy,0.5227272727272727,Male,India,Duranga,Drama,ZEE5,22.8,0.3666666666666667,0.16666666666666666,Dropped,0.28,2
+1161.0,Sai Mehta,0.1590909090909091,Female,India,Breathe,Romance,Amazon Prime,34.3,0.9499999999999998,0.3333333333333333,Dropped,0.67,1
+1196.0,Ishaan Joshi,0.7272727272727273,Female,India,Special OPS,Crime,Netflix,6.0,0.45,0.6666666666666666,Dropped,0.08,0
+1101.0,Anika Sharma,0.06818181818181818,Female,India,Taaza Khabar,Comedy,Netflix,24.7,0.016666666666666607,0.8333333333333334,Completed,0.2,2
+1063.0,Krishna Patel,0.5227272727272727,Female,India,Arya,Comedy,Disney+ Hotstar,49.8,0.8000000000000002,0.5,Dropped,0.88,1
+1084.0,Pari Kumar,0.5227272727272727,Female,India,Bandish Bandits,Action,ZEE5,7.8,0.016666666666666607,1.0,Dropped,0.06,0
+1108.0,Ishaan Chopra,0.18181818181818182,Female,India,Inside Edge,Drama,JioCinema,31.5,0.8166666666666668,0.8333333333333334,Completed,0.56,2
+1005.0,Aadhya Verma,0.7727272727272727,Female,India,Panchayat,Romance,Amazon Prime,29.8,0.8166666666666668,0.3333333333333333,Dropped,0.53,2
+1167.0,Aditya Kumar,0.5454545454545454,Male,India,Taaza Khabar,Comedy,JioCinema,7.2,0.9166666666666666,1.0,Completed,0.14,0
+1162.0,Pari Joshi,0.20454545454545456,Male,India,Kota Factory,Romance,Netflix,7.3,0.4000000000000001,0.3333333333333333,Ongoing,0.09,0
+1059.0,Aarav Mehta,0.6818181818181818,Male,India,Special OPS,Comedy,MX Player,26.3,0.016666666666666607,0.5,Completed,0.22,2
+1102.0,Ishaan Mehta,0.20454545454545456,Male,India,Inside Edge,Comedy,Amazon Prime,21.0,0.2333333333333334,0.16666666666666666,Dropped,0.23,2
+1141.0,Diya Gupta,0.8409090909090909,Male,India,Delhi Crime,Romance,SonyLIV,10.9,0.4000000000000001,0.3333333333333333,Completed,0.14,0
+1014.0,Karan Mehta,0.7272727272727273,Female,India,TVF Pitchers,Drama,ZEE5,9.5,0.4333333333333333,0.6666666666666666,Completed,0.13,0
+1175.0,Vihaan Singh,0.6136363636363636,Male,India,Taj Mahal 1989,Sci-Fi,SonyLIV,36.9,0.7666666666666666,0.6666666666666666,Dropped,0.63,1
+1034.0,Aditya Mehta,0.022727272727272728,Male,India,Mai,Thriller,SonyLIV,29.4,0.20000000000000004,1.0,Completed,0.31,2
+1190.0,Sara Reddy,0.22727272727272727,Female,India,Delhi Crime,Crime,ZEE5,17.3,0.6,0.6666666666666666,Completed,0.26,0
+1116.0,Sai Joshi,0.9090909090909091,Male,India,The Family Man,Romance,Amazon Prime,6.6,0.7333333333333334,0.3333333333333333,Ongoing,0.11,0
+1018.0,Vihaan Singh,0.22727272727272727,Male,India,Gullak,Comedy,Netflix,9.2,0.09999999999999994,1.0,Completed,0.08,0
+1068.0,Aditya Chopra,0.9090909090909091,Male,India,Out of Love,Thriller,Disney+ Hotstar,48.4,0.7333333333333334,0.8333333333333334,Ongoing,0.81,1
+1020.0,Diya Sharma,0.9318181818181818,Female,India,Paatal Lok,Comedy,Netflix,17.1,0.5499999999999999,0.16666666666666666,Ongoing,0.25,0
+1011.0,Ishaan Sharma,0.25,Male,India,Asur,Drama,MX Player,31.0,0.5,0.6666666666666666,Completed,0.43,2
+1135.0,Krishna Verma,0.8863636363636364,Female,India,Farzi,Comedy,MX Player,47.8,0.3,1.0,Completed,0.55,1
+1044.0,Diya Verma,0.1590909090909091,Female,India,Class,Crime,ZEE5,37.8,0.3499999999999999,0.6666666666666666,Completed,0.46,1
+1001.0,Krishna Verma,0.9318181818181818,Female,India,Arya,Action,JioCinema,12.2,0.3833333333333333,1.0,Completed,0.15,0
+1130.0,Kiara Chopra,0.6590909090909091,Female,India,Bard of Blood,Sci-Fi,ZEE5,43.4,0.18333333333333326,0.3333333333333333,Completed,0.44,1
+1096.0,Ishaan Joshi,0.3181818181818182,Female,India,Hostel Daze,Action,Amazon Prime,6.7,0.6333333333333333,0.6666666666666666,Ongoing,0.1,0
+1129.0,Ananya Chopra,0.7272727272727273,Female,India,Ray,Action,Netflix,5.9,0.3,0.0,Completed,0.07,0
+1194.0,Aadhya Patel,0.13636363636363635,Female,India,Asur,Comedy,ZEE5,6.7,0.016666666666666607,0.5,Ongoing,0.05,0
+1131.0,Sai Reddy,0.5454545454545454,Male,India,Scam 1992,Comedy,JioCinema,16.8,0.3166666666666667,0.8333333333333334,Ongoing,0.2,0
+1015.0,Karan Joshi,0.7727272727272727,Female,India,The Night Manager,Action,SonyLIV,38.0,0.5499999999999999,1.0,Dropped,0.55,1
+1132.0,Aarav Reddy,0.6136363636363636,Female,India,Duranga,Thriller,Disney+ Hotstar,11.4,0.5166666666666666,1.0,Completed,0.16,0
+1070.0,Anika Chopra,0.06818181818181818,Female,India,Panchayat,Action,JioCinema,31.5,0.6666666666666666,0.6666666666666666,Completed,0.5,2
+1008.0,Sara Chopra,0.2727272727272727,Male,India,The Family Man,Thriller,SonyLIV,25.2,0.09999999999999994,1.0,Completed,0.23,2
+1020.0,Vivaan Kumar,0.7272727272727273,Female,India,Taaza Khabar,Thriller,Netflix,4.3,0.2833333333333334,0.0,Completed,0.05,0
+1076.0,Vihaan Joshi,0.045454545454545456,Female,India,Scam 1992,Action,Netflix,39.8,0.9,0.5,Ongoing,0.75,1
+1095.0,Myra Singh,0.25,Male,India,Khakee: The Bihar Chapter,Thriller,Disney+ Hotstar,41.3,0.5833333333333334,0.3333333333333333,Ongoing,0.62,1
+1104.0,Vihaan Mehta,0.7727272727272727,Male,India,High,Crime,SonyLIV,18.9,0.5333333333333333,0.3333333333333333,Dropped,0.27,2
+1128.0,Ira Kumar,0.045454545454545456,Female,India,Rana Naidu,Thriller,MX Player,45.7,0.4333333333333333,1.0,Completed,0.6,1
+1196.0,Kiara Joshi,0.22727272727272727,Female,India,Ray,Action,ZEE5,5.4,0.3666666666666667,0.3333333333333333,Dropped,0.07,0
+1192.0,Sara Chopra,0.8636363636363636,Female,India,Bombay Begums,Action,Amazon Prime,43.7,0.3166666666666667,0.5,Dropped,0.52,1
+1126.0,Pari Mehta,0.7045454545454546,Female,India,Made in Heaven,Thriller,Amazon Prime,30.1,0.9833333333333334,0.16666666666666666,Completed,0.6,2
+1060.0,Aarav Mehta,0.36363636363636365,Male,India,The Night Manager,Comedy,ZEE5,23.1,0.2333333333333334,0.0,Completed,0.25,2
+1046.0,Myra Verma,0.8636363636363636,Male,India,Sacred Games,Drama,Netflix,43.2,0.6999999999999998,0.8333333333333334,Ongoing,0.71,1
+1099.0,Kiara Kumar,0.29545454545454547,Female,India,Bombay Begums,Thriller,Amazon Prime,40.3,0.1333333333333333,0.16666666666666666,Completed,0.39,1
+1162.0,Pari Patel,0.22727272727272727,Female,India,Special OPS,Thriller,Amazon Prime,10.4,0.9833333333333334,0.3333333333333333,Completed,0.21,0
+1036.0,Riya Reddy,0.2727272727272727,Male,India,The Freelancer,Romance,Amazon Prime,23.6,0.4666666666666666,0.8333333333333334,Ongoing,0.32,2
+1151.0,Krishna Joshi,0.5681818181818182,Female,India,Bombay Begums,Crime,Amazon Prime,39.7,0.45,0.16666666666666666,Completed,0.53,1
+1032.0,Sara Mehta,0.8181818181818182,Female,India,Hostel Daze,Thriller,MX Player,11.5,0.09999999999999994,0.16666666666666666,Dropped,0.11,0
+1098.482089552239,Vivaan Reddy,0.8863636363636364,Male,India,Out of Love,Crime,Netflix,26.7,0.0,0.5,Dropped,0.21,2
+1167.0,Riya Kumar,0.5454545454545454,Male,India,Rocket Boys,Drama,SonyLIV,42.9,0.21666666666666665,0.6666666666666666,Completed,0.45,1
+1128.0,Krishna Gupta,0.9090909090909091,Male,India,Khakee: The Bihar Chapter,Romance,Netflix,33.3,0.03333333333333336,0.3333333333333333,Completed,0.28,2
+1083.0,Aarav Gupta,0.8409090909090909,Male,India,The Freelancer,Thriller,Amazon Prime,41.8,0.9,1.0,Ongoing,0.79,1
+1110.0,Ananya Verma,0.22727272727272727,Female,India,Taaza Khabar,Sci-Fi,SonyLIV,36.6,0.2666666666666666,0.16666666666666666,Completed,0.41,1
+1195.0,Aditya Singh,0.4318181818181818,Female,India,Bandish Bandits,Thriller,Netflix,21.2,0.6999999999999998,1.0,Ongoing,0.35,2
+1117.0,Vihaan Patel,0.7045454545454546,Female,India,Taaza Khabar,Sci-Fi,MX Player,7.3,0.8166666666666668,0.8333333333333334,Dropped,0.13,0
+1036.0,Aditya Patel,0.5,Female,India,Bombay Begums,Action,Disney+ Hotstar,33.2,0.5499999999999999,0.8333333333333334,Dropped,0.48,2
+1166.0,Krishna Chopra,0.7954545454545454,Male,India,Bandish Bandits,Romance,MX Player,6.4,0.6,0.3333333333333333,Ongoing,0.1,0
+1006.0,Myra Verma,0.38636363636363635,Female,India,Class,Sci-Fi,JioCinema,34.2,0.016666666666666607,1.0,Completed,0.28,1
+1192.0,Myra Joshi,0.18181818181818182,Female,India,Special OPS,Crime,Netflix,46.3,0.6333333333333333,0.6666666666666666,Dropped,0.72,1
+1147.0,Myra Singh,0.5909090909090909,Male,India,Rocket Boys,Romance,MX Player,34.7,0.3666666666666667,0.8333333333333334,Ongoing,0.43,1
+1177.0,Kiara Joshi,0.18181818181818182,Female,India,Inside Edge,Drama,JioCinema,38.9,0.500995024875622,1.0,Completed,0.77,1
+1147.0,Ishaan Joshi,0.6590909090909091,Female,India,Breathe,Crime,Netflix,36.5,0.2833333333333334,0.16666666666666666,Completed,0.42,1
+1001.0,Aditya Joshi,0.022727272727272728,Male,India,Breathe,Action,Amazon Prime,23.7,1.0,0.6666666666666666,Dropped,0.47,2
+1112.0,Pari Sharma,0.4090909090909091,Male,India,Bombay Begums,Romance,ZEE5,10.2,0.03333333333333336,0.6666666666666666,Ongoing,0.09,0
+1043.0,Karan Mehta,0.5454545454545454,Female,India,The Family Man,Crime,MX Player,7.5,0.9666666666666668,0.8333333333333334,Completed,0.15,0
+1093.0,Arjun Patel,0.6136363636363636,Male,India,Special OPS,Crime,SonyLIV,47.7,0.6333333333333333,1.0,Ongoing,0.74,1
+1197.0,Rohan Patel,0.3181818181818182,Female,India,The Family Man,Crime,JioCinema,10.0,0.9499999999999998,0.8333333333333334,Dropped,0.19,0
+1190.0,Arjun Singh,0.45454545454545453,Male,India,Khakee: The Bihar Chapter,Drama,SonyLIV,38.5,0.21666666666666665,0.16666666666666666,Completed,0.41,1
+1079.0,Anika Kumar,0.7272727272727273,Male,India,Rana Naidu,Romance,JioCinema,44.2,0.9833333333333334,0.16666666666666666,Dropped,0.88,1
+1149.0,Riya Joshi,0.36363636363636365,Female,India,Gullak,Thriller,ZEE5,33.1,0.1333333333333333,0.0,Completed,0.32,2
+1021.0,Myra Gupta,0.6590909090909091,Female,India,Breathe,Crime,MX Player,48.1,0.4833333333333334,0.3333333333333333,Completed,0.66,1
+1164.0,Ishaan Kumar,0.29545454545454547,Male,India,Ray,Action,Disney+ Hotstar,12.2,0.16666666666666666,0.16666666666666666,Completed,0.12,0
+1181.0,Riya Joshi,0.2727272727272727,Male,India,Undekhi,Crime,Amazon Prime,25.9,0.4666666666666666,0.8333333333333334,Completed,0.35,2
+1148.0,Ira Verma,0.7272727272727273,Female,India,Panchayat,Comedy,JioCinema,37.7,0.5499999999999999,1.0,Ongoing,0.55,1
+1035.0,Myra Verma,0.2727272727272727,Female,India,The Night Manager,Romance,SonyLIV,26.6,0.9666666666666668,0.8333333333333334,Dropped,0.52,2
+1077.0,Kiara Mehta,0.8409090909090909,Male,India,Kota Factory,Action,SonyLIV,39.0,0.4000000000000001,1.0,Completed,0.5,1
+1006.0,Krishna Verma,0.0,Female,India,Class,Comedy,JioCinema,3.2,0.7333333333333334,0.0,Dropped,0.05,0
+1102.0,Krishna Mehta,0.8181818181818182,Male,India,Farzi,Action,SonyLIV,6.4,0.8166666666666668,0.6666666666666666,Completed,0.11,0
+1145.0,Anika Verma,0.5227272727272727,Female,India,Panchayat,Sci-Fi,Disney+ Hotstar,19.9,0.1333333333333333,0.5,Dropped,0.19,2
+1133.0,Sai Mehta,0.38636363636363635,Male,India,Duranga,Thriller,SonyLIV,11.1,0.6666666666666666,0.6666666666666666,Completed,0.18,0
+1021.0,Arjun Sharma,0.36363636363636365,Female,India,Class,Crime,ZEE5,27.9,0.5666666666666668,0.6666666666666666,Dropped,0.41,2
+1197.0,Pari Joshi,0.4090909090909091,Female,India,Panchayat,Romance,Netflix,35.6,0.7166666666666668,0.8333333333333334,Dropped,0.59,1
+1148.0,Karan Kumar,0.75,Male,India,Inside Edge,Romance,Netflix,21.5,0.9333333333333332,0.8333333333333334,Ongoing,0.41,2
+1111.0,Karan Sharma,0.8636363636363636,Female,India,TVF Pitchers,Action,Netflix,7.5,0.6666666666666666,0.8333333333333334,Dropped,0.12,0
+1078.0,Rohan Verma,0.45454545454545453,Female,India,Bard of Blood,Drama,JioCinema,41.4,0.7666666666666666,0.0,Completed,0.71,1
+1067.0,Ira Kumar,0.7045454545454546,Male,India,Bandish Bandits,Romance,Amazon Prime,41.1,0.8833333333333334,0.8333333333333334,Completed,0.76,1
+1006.0,Vivaan Joshi,0.6590909090909091,Female,India,Duranga,Sci-Fi,ZEE5,20.1,0.4333333333333333,0.3333333333333333,Completed,0.27,2
+1079.0,Riya Singh,0.9545454545454546,Female,India,Bandish Bandits,Drama,Netflix,23.1,0.8833333333333334,0.5,Ongoing,0.43,2
+1093.0,Rohan Kumar,0.5227272727272727,Female,India,TVF Pitchers,Sci-Fi,ZEE5,12.0,0.3166666666666667,1.0,Dropped,0.14,0
+1055.0,Aadhya Gupta,0.8863636363636364,Female,India,The Family Man,Comedy,MX Player,10.7,0.08333333333333333,1.0,Ongoing,0.1,0
+1072.0,Karan Verma,0.5454545454545454,Male,India,Ray,Thriller,Amazon Prime,31.2,1.0,1.0,Ongoing,0.62,2
+1114.0,Vihaan Patel,0.75,Male,India,Rocket Boys,Drama,SonyLIV,40.0,0.5499999999999999,0.5,Completed,0.58,1
+1192.0,Aarav Singh,0.5454545454545454,Female,India,Bombay Begums,Comedy,ZEE5,14.8,0.016666666666666607,1.0,Ongoing,0.12,0
+1043.0,Arjun Sharma,0.9545454545454546,Female,India,Breathe,Sci-Fi,JioCinema,12.7,0.7166666666666668,0.8333333333333334,Ongoing,0.21,0
+1065.0,Sai Patel,0.18181818181818182,Male,India,Suzhal,Sci-Fi,Disney+ Hotstar,13.8,0.0,0.16666666666666666,Completed,0.11,0
+1192.0,Vihaan Mehta,1.0,Male,India,Asur,Romance,Netflix,21.0,0.08333333333333333,0.6666666666666666,Dropped,0.19,2
+1185.0,Aadhya Patel,0.4772727272727273,Male,India,Kota Factory,Crime,Amazon Prime,18.7,0.6166666666666667,0.3333333333333333,Ongoing,0.29,2
+1087.0,Myra Patel,0.8863636363636364,Male,India,Special OPS,Thriller,Netflix,49.4,0.65,1.0,Completed,0.78,1
+1114.0,Aarav Joshi,0.4318181818181818,Female,India,Hostel Daze,Thriller,ZEE5,27.1,0.5,0.6666666666666666,Dropped,0.38,2
+1146.0,Vihaan Gupta,0.20454545454545456,Female,India,Duranga,Crime,Netflix,48.1,0.7166666666666668,0.0,Completed,0.8,1
+1040.0,Ananya Gupta,0.7727272727272727,Male,India,Khakee: The Bihar Chapter,Crime,MX Player,2.0,0.9666666666666668,0.6666666666666666,Dropped,0.04,0
+1121.0,Ira Chopra,0.06818181818181818,Female,India,Criminal Justice,Thriller,Disney+ Hotstar,43.6,0.4000000000000001,1.0,Dropped,0.56,1
+1054.0,Ira Gupta,0.29545454545454547,Female,India,Delhi Crime,Drama,JioCinema,47.0,0.4166666666666667,0.3333333333333333,Ongoing,0.61,1
+1193.0,Rohan Mehta,0.36363636363636365,Female,India,Made in Heaven,Drama,Amazon Prime,45.8,0.7666666666666666,0.5,Dropped,0.79,1
+1049.0,Karan Patel,0.9318181818181818,Female,India,Bombay Begums,Action,SonyLIV,38.3,0.9833333333333334,0.8333333333333334,Dropped,0.76,1
+1038.0,Aarav Reddy,0.45454545454545453,Female,India,Bandish Bandits,Comedy,Amazon Prime,4.7,0.9166666666666666,1.0,Completed,0.09,0
+1005.0,Diya Patel,0.75,Female,India,Out of Love,Drama,Netflix,32.1,0.9333333333333332,0.8333333333333334,Completed,0.62,2
+1125.0,Ishaan Joshi,0.5227272727272727,Female,India,Sacred Games,Thriller,JioCinema,24.9,0.45,1.0,Ongoing,0.33,2
+1124.0,Sara Mehta,0.7045454545454546,Male,India,Taj Mahal 1989,Drama,Netflix,25.88611940298507,0.9833333333333334,0.3333333333333333,Ongoing,0.9,2
+1057.0,Aadhya Patel,0.11363636363636363,Female,India,Paatal Lok,Thriller,SonyLIV,33.0,0.8333333333333334,1.0,Completed,0.59,2
+1126.0,Karan Joshi,0.09090909090909091,Female,India,Rana Naidu,Thriller,Netflix,36.9,0.9,0.6666666666666666,Ongoing,0.69,1
+1075.0,Sai Reddy,0.022727272727272728,Female,India,Sacred Games,Action,Amazon Prime,25.6,0.18333333333333326,0.0,Completed,0.26,2
+1122.0,Krishna Verma,0.06818181818181818,Male,India,Bombay Begums,Romance,MX Player,7.6,0.21666666666666665,0.16666666666666666,Completed,0.08,0
+1027.0,Ira Kumar,0.9545454545454546,Female,India,Delhi Crime,Comedy,JioCinema,21.2,0.5166666666666666,0.3333333333333333,Dropped,0.3,2
+1083.0,Aditya Singh,0.20454545454545456,Male,India,The Family Man,Action,Amazon Prime,12.9,0.9,0.6666666666666666,Completed,0.24,0
+1020.0,Sara Reddy,0.7045454545454546,Female,India,Aspirants,Action,JioCinema,4.5,0.03333333333333336,0.0,Completed,0.04,0
+1030.0,Aarav Singh,0.75,Female,India,Mirzapur,Action,ZEE5,8.0,0.9333333333333332,0.8333333333333334,Completed,0.15,0
+1147.0,Arjun Sharma,0.7954545454545454,Male,India,Mai,Romance,ZEE5,10.7,0.15000000000000005,0.6666666666666666,Ongoing,0.1,0
+1084.0,Pari Verma,0.9545454545454546,Male,India,Panchayat,Drama,Amazon Prime,21.0,0.3166666666666667,1.0,Ongoing,0.25,2
+1027.0,Vivaan Verma,0.8863636363636364,Male,India,Candy,Romance,Disney+ Hotstar,28.3,0.7166666666666668,0.6666666666666666,Dropped,0.47,2
+1031.0,Kiara Chopra,0.11363636363636363,Male,India,Bard of Blood,Action,SonyLIV,39.6,0.4666666666666666,0.6666666666666666,Ongoing,0.54,1
+1195.0,Pari Chopra,0.20454545454545456,Male,India,Scam 1992,Romance,SonyLIV,8.9,0.85,0.0,Ongoing,0.16,0
+1095.0,Aditya Gupta,0.36363636363636365,Female,India,Inside Edge,Thriller,Amazon Prime,10.6,0.8833333333333334,0.16666666666666666,Completed,0.2,0
+1020.0,Myra Gupta,0.045454545454545456,Female,India,Mirzapur,Comedy,Disney+ Hotstar,16.1,0.9666666666666668,0.16666666666666666,Completed,0.32,0
+1192.0,Pari Gupta,0.1590909090909091,Female,India,Arya,Action,ZEE5,34.2,0.8333333333333334,0.5,Completed,0.62,1
+1042.0,Kiara Sharma,0.45454545454545453,Male,India,The Family Man,Crime,Amazon Prime,23.9,0.3666666666666667,0.0,Ongoing,0.3,2
+1111.0,Sai Patel,0.9772727272727273,Female,India,Kota Factory,Comedy,JioCinema,32.9,0.7166666666666668,0.6666666666666666,Completed,0.55,2
+1106.0,Aditya Verma,0.6590909090909091,Male,India,Bombay Begums,Romance,JioCinema,21.3,0.08333333333333333,0.6666666666666666,Ongoing,0.19,2
+1106.0,Anika Verma,0.5909090909090909,Male,India,Candy,Romance,Netflix,42.8,0.4666666666666666,0.6666666666666666,Dropped,0.58,1
+1184.0,Aadhya Gupta,0.8181818181818182,Female,India,Special OPS,Action,SonyLIV,20.8,0.18333333333333326,0.16666666666666666,Ongoing,0.21,2
+1174.0,Vivaan Gupta,0.38636363636363635,Male,India,Hostel Daze,Crime,Netflix,31.5,0.3,0.3333333333333333,Dropped,0.37,2
+1078.0,Myra Patel,0.4090909090909091,Male,India,Candy,Crime,Disney+ Hotstar,17.2,0.9,0.16666666666666666,Completed,0.32,0
+1143.0,Krishna Reddy,0.3409090909090909,Female,India,Arya,Drama,SonyLIV,17.3,0.2833333333333334,0.6666666666666666,Completed,0.2,0
+1175.0,Riya Gupta,0.9318181818181818,Female,India,Breathe,Drama,Netflix,30.9,0.65,0.0,Completed,0.49,2
+1185.0,Riya Chopra,0.0,Male,India,Made in Heaven,Romance,Disney+ Hotstar,40.2,0.5833333333333334,0.3333333333333333,Dropped,0.6,1
+1085.0,Karan Reddy,0.38636363636363635,Female,India,Sacred Games,Crime,ZEE5,38.1,0.8333333333333334,0.0,Ongoing,0.69,1
+1064.0,Arjun Kumar,0.7272727272727273,Female,India,Hostel Daze,Action,Disney+ Hotstar,48.6,0.21666666666666665,0.16666666666666666,Completed,0.52,1
+1163.0,Diya Joshi,0.9090909090909091,Male,India,Mai,Romance,ZEE5,19.3,0.6666666666666666,0.3333333333333333,Dropped,0.31,2
+1159.0,Krishna Singh,0.38636363636363635,Female,India,The Night Manager,Drama,MX Player,10.6,0.9499999999999998,0.5,Dropped,0.21,0
+1026.0,Myra Chopra,0.75,Male,India,Undekhi,Drama,SonyLIV,22.7,0.7166666666666668,1.0,Completed,0.38,2
+1039.0,Diya Kumar,0.09090909090909091,Female,India,Breathe,Thriller,Amazon Prime,3.1,0.5333333333333333,1.0,Dropped,0.04,0
+1093.0,Vivaan Chopra,0.25,Male,India,Breathe,Crime,Amazon Prime,7.4,0.6333333333333333,0.5,Completed,0.12,0
+1169.0,Kiara Sharma,0.36363636363636365,Female,India,Taj Mahal 1989,Sci-Fi,Netflix,21.3,0.7166666666666668,0.6666666666666666,Completed,0.35,2
+1052.0,Myra Sharma,0.6590909090909091,Male,India,Ray,Sci-Fi,ZEE5,33.0,0.6833333333333332,0.16666666666666666,Ongoing,0.53,2
+1200.0,Riya Patel,0.7727272727272727,Male,India,Suzhal,Action,Netflix,30.6,0.016666666666666607,0.3333333333333333,Ongoing,0.25,2
+1181.0,Vivaan Patel,0.7272727272727273,Male,India,Aspirants,Action,Amazon Prime,15.6,0.7166666666666668,0.0,Completed,0.26,0
+1160.0,Arjun Sharma,0.6136363636363636,Male,India,Farzi,Action,MX Player,3.3,0.6166666666666667,0.6666666666666666,Dropped,0.05,0
+1195.0,Vivaan Verma,0.1590909090909091,Female,India,The Night Manager,Comedy,Netflix,10.2,0.6999999999999998,0.16666666666666666,Ongoing,0.17,0
+1140.0,Ananya Joshi,0.4318181818181818,Female,India,Farzi,Sci-Fi,SonyLIV,18.5,0.65,0.5,Ongoing,0.29,2
+1073.0,Pari Sharma,0.8409090909090909,Male,India,Breathe,Crime,ZEE5,13.5,0.21666666666666665,0.0,Completed,0.14,0
+1165.0,Myra Singh,0.6590909090909091,Female,India,Kota Factory,Crime,SonyLIV,37.7,0.6666666666666666,0.16666666666666666,Dropped,0.6,1
+1062.0,Pari Verma,0.9318181818181818,Female,India,Class,Sci-Fi,Netflix,13.9,0.7833333333333332,0.0,Ongoing,0.24,0
+1040.0,Diya Chopra,0.3409090909090909,Male,India,Mirzapur,Romance,JioCinema,21.2,0.5,1.0,Ongoing,0.3,2
+1165.0,Sai Singh,0.2727272727272727,Male,India,Aspirants,Crime,MX Player,45.7,0.6,0.3333333333333333,Completed,0.69,1
+1189.0,Vihaan Joshi,0.5454545454545454,Female,India,Scam 1992,Crime,Amazon Prime,3.5,0.4166666666666667,0.0,Ongoing,0.05,0
+1079.0,Aadhya Reddy,0.2727272727272727,Male,India,Bandish Bandits,Romance,JioCinema,9.9,0.3833333333333333,0.3333333333333333,Dropped,0.12,0
+1081.0,Karan Patel,0.9318181818181818,Male,India,Mai,Drama,Netflix,10.0,0.45,0.16666666666666666,Completed,0.13,0
+1002.0,Aadhya Joshi,0.20454545454545456,Male,India,Scam 1992,Comedy,SonyLIV,33.8,0.2833333333333334,0.6666666666666666,Dropped,0.39,1
+1016.0,Aarav Reddy,0.9545454545454546,Female,India,Ray,Drama,Netflix,16.2,0.8833333333333334,0.0,Completed,0.3,0
+1091.0,Aditya Sharma,0.20454545454545456,Male,India,Grahan,Sci-Fi,Disney+ Hotstar,24.2,0.1166666666666667,0.0,Ongoing,0.23,2
+1139.0,Sai Reddy,0.20454545454545456,Male,India,The Family Man,Drama,JioCinema,37.6,0.09999999999999994,0.0,Completed,0.35,1
+1052.0,Sara Chopra,0.6136363636363636,Male,India,Grahan,Thriller,JioCinema,46.6,0.06666666666666672,0.16666666666666666,Ongoing,0.41,1
+1008.0,Aadhya Verma,0.8636363636363636,Female,India,Rocket Boys,Comedy,JioCinema,3.1,0.6166666666666667,0.8333333333333334,Completed,0.05,0
+1142.0,Karan Verma,0.8409090909090909,Male,India,Inside Edge,Thriller,Amazon Prime,10.4,0.45,0.3333333333333333,Dropped,0.14,0
+1032.0,Ishaan Patel,0.9318181818181818,Female,India,Panchayat,Thriller,JioCinema,26.0,0.6,0.8333333333333334,Completed,0.4,2
+1128.0,Aditya Gupta,0.18181818181818182,Female,India,Khakee: The Bihar Chapter,Romance,Netflix,17.7,0.4833333333333334,1.0,Dropped,0.24,2
+1181.0,Sai Chopra,0.0,Female,India,The Night Manager,Sci-Fi,Netflix,32.5,0.6666666666666666,0.16666666666666666,Dropped,0.52,2
+1045.0,Aditya Singh,0.8409090909090909,Male,India,Panchayat,Crime,ZEE5,24.5,0.9333333333333332,0.16666666666666666,Ongoing,0.47,2
+1179.0,Aarav Singh,0.1590909090909091,Male,India,Kota Factory,Crime,JioCinema,25.88611940298507,0.9,1.0,Completed,0.47,2
+1137.0,Ananya Chopra,0.5909090909090909,Male,India,Class,Comedy,Netflix,12.6,0.8833333333333334,0.5,Completed,0.23,0
+1039.0,Aditya Joshi,0.3409090909090909,Male,India,Farzi,Thriller,JioCinema,23.2,0.7166666666666668,0.8333333333333334,Completed,0.39,2
+1131.0,Karan Kumar,0.6818181818181818,Male,India,Made in Heaven,Action,SonyLIV,43.5,0.3833333333333333,1.0,Ongoing,0.55,1
+1117.0,Vivaan Gupta,0.7272727272727273,Male,India,Mai,Comedy,Amazon Prime,46.6,0.8666666666666666,0.0,Dropped,0.86,1
+1152.0,Sara Reddy,0.9545454545454546,Female,India,Aspirants,Action,Amazon Prime,29.4,0.2833333333333334,0.6666666666666666,Ongoing,0.34,2
+1035.0,Aadhya Sharma,1.0,Male,India,Sacred Games,Thriller,Amazon Prime,44.3,0.8833333333333334,0.16666666666666666,Completed,0.82,1
+1050.0,Aarav Reddy,0.3181818181818182,Female,India,Khakee: The Bihar Chapter,Crime,Disney+ Hotstar,13.3,0.25,0.5,Ongoing,0.15,0
+1185.0,Sara Chopra,0.1590909090909091,Male,India,The Family Man,Action,Disney+ Hotstar,26.4,0.4333333333333333,0.16666666666666666,Completed,0.35,2
+1195.0,Sai Reddy,0.6363636363636364,Male,India,Bard of Blood,Sci-Fi,SonyLIV,46.6,0.6666666666666666,0.16666666666666666,Completed,0.75,1
+1191.0,Karan Kumar,0.2727272727272727,Female,India,Sacred Games,Thriller,MX Player,45.5,0.5833333333333334,0.16666666666666666,Dropped,0.68,1
+1124.0,Krishna Kumar,0.29545454545454547,Female,India,Ray,Comedy,Netflix,43.7,0.7666666666666666,0.3333333333333333,Completed,0.75,1
+1061.0,Ananya Singh,0.4318181818181818,Female,India,Breathe,Action,Disney+ Hotstar,27.7,0.4333333333333333,0.0,Dropped,0.37,2
+1086.0,Rohan Kumar,0.8636363636363636,Male,India,Candy,Comedy,Amazon Prime,17.5,0.6333333333333333,0.16666666666666666,Completed,0.27,0
+1028.0,Karan Patel,0.45454545454545453,Male,India,Breathe,Romance,SonyLIV,38.0,0.04999999999999997,0.6666666666666666,Dropped,0.33,1
+1093.0,Aditya Joshi,0.045454545454545456,Female,India,Bandish Bandits,Romance,Amazon Prime,26.9,0.4666666666666666,0.5,Ongoing,0.37,2
+1058.0,Arjun Gupta,0.1590909090909091,Female,India,Gullak,Action,MX Player,20.0,0.3333333333333333,0.5,Ongoing,0.24,2
+1034.0,Myra Singh,0.7954545454545454,Male,India,Kota Factory,Drama,ZEE5,48.0,0.16666666666666666,0.0,Dropped,0.48,1
+1176.0,Diya Gupta,0.13636363636363635,Female,India,Made in Heaven,Comedy,Amazon Prime,3.9,0.21666666666666665,1.0,Completed,0.04,0
+1066.0,Krishna Chopra,1.0,Male,India,Aspirants,Drama,SonyLIV,3.9,0.3499999999999999,0.0,Completed,0.05,0
+1155.0,Kiara Verma,0.2727272727272727,Male,India,Ray,Crime,SonyLIV,49.5,0.8833333333333334,0.6666666666666666,Dropped,0.92,1
+1031.0,Ishaan Sharma,0.29545454545454547,Male,India,Khakee: The Bihar Chapter,Drama,Disney+ Hotstar,40.7,0.2833333333333334,1.0,Completed,0.46,1
+1044.0,Sai Gupta,0.45454545454545453,Female,India,Scam 1992,Drama,Amazon Prime,42.3,0.1333333333333333,0.0,Dropped,0.41,1
+1072.0,Myra Patel,0.7045454545454546,Male,India,Hostel Daze,Sci-Fi,ZEE5,15.7,0.2333333333333334,0.6666666666666666,Dropped,0.17,0
+1134.0,Riya Singh,0.22727272727272727,Male,India,Rana Naidu,Comedy,ZEE5,40.3,0.6166666666666667,0.6666666666666666,Dropped,0.62,1
+1164.0,Diya Mehta,0.06818181818181818,Male,India,Class,Romance,Netflix,32.9,0.25,0.8333333333333334,Completed,0.36,2
+1178.0,Sai Joshi,0.20454545454545456,Female,India,Taj Mahal 1989,Sci-Fi,SonyLIV,41.3,0.3,0.3333333333333333,Ongoing,0.48,1
+1022.0,Aarav Singh,0.36363636363636365,Male,India,Ray,Comedy,SonyLIV,6.1,0.20000000000000004,0.8333333333333334,Completed,0.06,0
+1082.0,Sai Reddy,0.38636363636363635,Female,India,Suzhal,Drama,Disney+ Hotstar,45.9,0.15000000000000005,0.3333333333333333,Dropped,0.45,1
+1173.0,Karan Patel,0.18181818181818182,Female,India,Special OPS,Thriller,Netflix,22.6,0.45,0.16666666666666666,Ongoing,0.3,2
+1005.0,Sai Singh,0.5454545454545454,Male,India,Breathe,Crime,Amazon Prime,5.5,0.9499999999999998,0.8333333333333334,Dropped,0.11,0
+1133.0,Aarav Verma,0.9772727272727273,Female,India,Delhi Crime,Sci-Fi,MX Player,2.1,0.8333333333333334,0.16666666666666666,Dropped,0.04,0
+1002.0,Aarav Gupta,0.1590909090909091,Female,India,Rocket Boys,Thriller,JioCinema,38.3,0.4333333333333333,0.16666666666666666,Dropped,0.51,1
+1066.0,Vihaan Verma,0.4772727272727273,Female,India,Special OPS,Action,Disney+ Hotstar,9.9,0.5166666666666666,0.3333333333333333,Completed,0.14,0
+1068.0,Myra Mehta,0.7045454545454546,Male,India,Farzi,Romance,JioCinema,38.9,0.5,0.3333333333333333,Ongoing,0.54,1
+1058.0,Ira Patel,0.6363636363636364,Female,India,Grahan,Comedy,Amazon Prime,5.9,0.8000000000000002,1.0,Dropped,0.1,0
+1153.0,Aarav Gupta,0.6363636363636364,Female,India,Grahan,Crime,Disney+ Hotstar,25.2,0.5833333333333334,0.0,Dropped,0.38,2
+1174.0,Sara Reddy,0.7272727272727273,Female,India,Special OPS,Comedy,MX Player,33.9,0.2666666666666666,0.16666666666666666,Completed,0.38,1
+1168.0,Arjun Gupta,0.25,Female,India,Bandish Bandits,Crime,MX Player,19.7,0.04999999999999997,0.5,Ongoing,0.17,2
+1184.0,Diya Gupta,0.5681818181818182,Male,India,Gullak,Sci-Fi,JioCinema,43.8,0.4833333333333334,0.3333333333333333,Ongoing,0.6,1
+1044.0,Krishna Gupta,0.22727272727272727,Female,India,Mirzapur,Romance,Netflix,43.9,0.9,0.6666666666666666,Ongoing,0.83,1
+1187.0,Krishna Chopra,0.8636363636363636,Male,India,Delhi Crime,Action,JioCinema,22.4,0.75,0.0,Ongoing,0.38,2
+1044.0,Anika Verma,0.4772727272727273,Male,India,Panchayat,Action,SonyLIV,31.1,0.06666666666666672,0.0,Dropped,0.27,2
+1150.0,Ira Sharma,0.8863636363636364,Male,India,Arya,Comedy,Disney+ Hotstar,43.4,0.9166666666666666,0.0,Ongoing,0.82,1
+1182.0,Sai Verma,1.0,Male,India,Sacred Games,Crime,Disney+ Hotstar,20.4,0.8833333333333334,0.0,Completed,0.38,2
+1092.0,Sai Chopra,0.5909090909090909,Male,India,Suzhal,Thriller,ZEE5,30.1,0.2666666666666666,0.3333333333333333,Completed,0.34,2
+1084.0,Ananya Verma,0.5454545454545454,Female,India,Inside Edge,Drama,Netflix,6.8,0.7666666666666666,1.0,Completed,0.12,0
+1038.0,Aadhya Gupta,0.1590909090909091,Female,India,Kota Factory,Romance,Amazon Prime,49.5,0.8666666666666666,1.0,Dropped,0.91,1
+1151.0,Diya Joshi,1.0,Male,India,Scam 1992,Romance,SonyLIV,41.3,0.7833333333333332,0.6666666666666666,Ongoing,0.72,1
+1175.0,Rohan Patel,0.8863636363636364,Female,India,Inside Edge,Sci-Fi,Amazon Prime,7.8,0.2333333333333334,0.16666666666666666,Dropped,0.08,0
+1162.0,Vivaan Kumar,0.5,Female,India,Mai,Comedy,Disney+ Hotstar,35.5,0.6666666666666666,0.8333333333333334,Completed,0.57,1
+1090.0,Myra Verma,0.06818181818181818,Male,India,Candy,Sci-Fi,JioCinema,29.6,0.3,0.5,Ongoing,0.34,2
+1023.0,Sara Patel,0.6590909090909091,Female,India,Mai,Sci-Fi,JioCinema,18.9,0.9666666666666668,0.0,Ongoing,0.37,2
+1107.0,Diya Sharma,0.7727272727272727,Female,India,Bard of Blood,Crime,Netflix,22.1,0.5833333333333334,0.3333333333333333,Completed,0.33,2
+1156.0,Aditya Patel,0.8409090909090909,Male,India,Bandish Bandits,Comedy,ZEE5,29.0,0.0,0.3333333333333333,Dropped,0.23,2
+1089.0,Riya Mehta,0.38636363636363635,Male,India,Grahan,Crime,Netflix,26.3,0.6333333333333333,0.5,Ongoing,0.41,2
+1165.0,Sara Verma,0.4772727272727273,Male,India,TVF Pitchers,Thriller,ZEE5,5.1,0.4833333333333334,0.0,Ongoing,0.07,0
+1121.0,Pari Joshi,0.9090909090909091,Male,India,Special OPS,Drama,Netflix,10.3,0.7833333333333332,0.16666666666666666,Completed,0.18,0
+1119.0,Aditya Gupta,0.7954545454545454,Male,India,Out of Love,Crime,Amazon Prime,11.8,0.65,0.6666666666666666,Completed,0.19,0
+1116.0,Aadhya Singh,0.38636363636363635,Male,India,Rocket Boys,Thriller,SonyLIV,34.2,0.1166666666666667,0.0,Ongoing,0.32,1
+1115.0,Riya Chopra,0.5454545454545454,Female,India,Farzi,Action,Disney+ Hotstar,17.2,0.4833333333333334,1.0,Ongoing,0.24,0
+1099.0,Krishna Reddy,0.9772727272727273,Female,India,Suzhal,Romance,JioCinema,33.0,0.3833333333333333,0.3333333333333333,Ongoing,0.42,2
+1163.0,Sai Verma,0.8636363636363636,Male,India,The Family Man,Thriller,SonyLIV,41.7,0.6,0.5,Completed,0.63,1
+1027.0,Ananya Chopra,0.6590909090909091,Female,India,Asur,Sci-Fi,Disney+ Hotstar,11.7,0.3499999999999999,0.5,Completed,0.14,0
+1108.0,Krishna Singh,0.9090909090909091,Female,India,The Family Man,Thriller,SonyLIV,29.1,0.16666666666666666,0.8333333333333334,Ongoing,0.29,2
+1091.0,Karan Patel,0.7272727272727273,Female,India,Hostel Daze,Comedy,Disney+ Hotstar,45.7,0.4166666666666667,0.6666666666666666,Ongoing,0.59,1
+1014.0,Sara Mehta,0.25,Male,India,Inside Edge,Action,Disney+ Hotstar,39.4,0.6666666666666666,0.16666666666666666,Dropped,0.63,1
+1194.0,Myra Singh,0.5909090909090909,Female,India,Mai,Sci-Fi,Disney+ Hotstar,6.4,0.5666666666666668,0.16666666666666666,Dropped,0.09,0
+1085.0,Vivaan Kumar,0.4090909090909091,Female,India,Hostel Daze,Drama,Netflix,35.0,0.6333333333333333,0.5,Ongoing,0.55,1
+1069.0,Myra Patel,0.3181818181818182,Female,India,TVF Pitchers,Sci-Fi,JioCinema,42.4,0.2333333333333334,0.5,Ongoing,0.46,1
+1085.0,Ishaan Chopra,0.6590909090909091,Female,India,Candy,Comedy,Disney+ Hotstar,4.8,0.4666666666666666,0.16666666666666666,Completed,0.07,0
+1025.0,Anika Singh,0.5227272727272727,Female,India,Sacred Games,Sci-Fi,JioCinema,21.8,0.016666666666666607,0.16666666666666666,Dropped,0.18,2
+1068.0,Ira Joshi,0.9772727272727273,Female,India,Asur,Thriller,Netflix,31.0,0.3499999999999999,0.6666666666666666,Completed,0.38,2
+1182.0,Ira Singh,0.4318181818181818,Male,India,Class,Sci-Fi,JioCinema,20.3,0.75,0.5,Completed,0.35,2
+1146.0,Myra Mehta,0.7272727272727273,Male,India,Suzhal,Drama,Netflix,25.4,0.9333333333333332,0.5,Dropped,0.49,2
+1094.0,Anika Gupta,0.9545454545454546,Male,India,Bandish Bandits,Action,ZEE5,11.8,0.7166666666666668,0.0,Completed,0.2,0
+1079.0,Vihaan Mehta,0.75,Female,India,Rana Naidu,Action,Disney+ Hotstar,18.3,0.4333333333333333,0.0,Dropped,0.24,2
+1091.0,Vivaan Joshi,0.7954545454545454,Female,India,Undekhi,Sci-Fi,Amazon Prime,24.7,0.4333333333333333,0.3333333333333333,Ongoing,0.33,2
+1067.0,Sai Kumar,0.20454545454545456,Male,India,Scam 1992,Crime,Amazon Prime,27.5,0.9666666666666668,1.0,Completed,0.54,2
+1102.0,Kiara Gupta,0.3181818181818182,Female,India,Sacred Games,Romance,MX Player,16.4,0.7166666666666668,0.8333333333333334,Ongoing,0.27,0
+1071.0,Myra Patel,0.7954545454545454,Female,India,Asur,Crime,ZEE5,38.7,0.4000000000000001,0.0,Completed,0.5,1
+1122.0,Krishna Sharma,0.1590909090909091,Female,India,Sacred Games,Comedy,Amazon Prime,12.6,0.5333333333333333,1.0,Ongoing,0.18,0
+1163.0,Krishna Joshi,0.3409090909090909,Male,India,Breathe,Crime,Netflix,33.7,0.016666666666666607,0.6666666666666666,Ongoing,0.28,1
+1110.0,Kiara Patel,0.29545454545454547,Male,India,Inside Edge,Crime,Disney+ Hotstar,25.0,0.5499999999999999,0.16666666666666666,Dropped,0.36,2
+1005.0,Myra Reddy,0.06818181818181818,Female,India,The Family Man,Thriller,Amazon Prime,25.8,0.25,0.6666666666666666,Dropped,0.28,2
+1179.0,Aadhya Verma,0.45454545454545453,Female,India,Mirzapur,Drama,SonyLIV,25.88611940298507,0.21666666666666665,0.8333333333333334,Completed,0.31,2
+1160.0,Rohan Joshi,0.8409090909090909,Female,India,Paatal Lok,Action,ZEE5,2.4,0.8000000000000002,0.0,Completed,0.04,0
+1007.0,Aadhya Patel,0.6363636363636364,Female,India,Kota Factory,Action,JioCinema,25.4,0.25,0.0,Ongoing,0.28,2
+1019.0,Pari Reddy,0.6136363636363636,Male,India,Paatal Lok,Drama,Amazon Prime,22.5,0.5333333333333333,0.16666666666666666,Ongoing,0.32,2
+1055.0,Aditya Chopra,0.7272727272727273,Male,India,Sacred Games,Comedy,MX Player,9.3,0.16666666666666666,0.5,Completed,0.09,0
+1191.0,Krishna Singh,0.9318181818181818,Female,India,Gullak,Comedy,JioCinema,34.0,0.5333333333333333,0.8333333333333334,Ongoing,0.49,1
+1002.0,Kiara Kumar,0.06818181818181818,Male,India,Delhi Crime,Romance,MX Player,14.0,0.3666666666666667,0.3333333333333333,Completed,0.17,0
+1110.0,Aarav Reddy,0.1590909090909091,Female,India,Suzhal,Action,Disney+ Hotstar,32.8,0.85,0.6666666666666666,Completed,0.6,2
+1046.0,Ishaan Joshi,0.4772727272727273,Male,India,Mai,Drama,ZEE5,27.8,0.2833333333333334,0.16666666666666666,Dropped,0.32,2
+1171.0,Krishna Patel,0.045454545454545456,Female,India,Panchayat,Crime,Netflix,4.3,0.7833333333333332,0.16666666666666666,Ongoing,0.07,0
+1163.0,Diya Sharma,0.29545454545454547,Female,India,Breathe,Action,Amazon Prime,12.1,0.4166666666666667,0.8333333333333334,Completed,0.16,0
+1009.0,Aarav Sharma,0.13636363636363635,Male,India,Panchayat,Thriller,MX Player,34.9,0.7333333333333334,0.6666666666666666,Ongoing,0.59,1
+1000.0,Rohan Patel,0.4772727272727273,Male,India,The Night Manager,Crime,Amazon Prime,44.0,0.9,0.3333333333333333,Ongoing,0.83,1
+1039.0,Vihaan Singh,0.06818181818181818,Male,India,Mai,Crime,SonyLIV,32.5,0.45,0.16666666666666666,Completed,0.44,2
+1019.0,Krishna Sharma,0.8181818181818182,Female,India,Rocket Boys,Comedy,Amazon Prime,48.2,0.18333333333333326,0.6666666666666666,Ongoing,0.49,1
+1114.0,Aadhya Gupta,0.6363636363636364,Female,India,Rana Naidu,Romance,Disney+ Hotstar,31.4,0.4000000000000001,0.8333333333333334,Completed,0.4,2
+1073.0,Diya Joshi,0.06818181818181818,Female,India,TVF Pitchers,Sci-Fi,MX Player,15.2,0.45,0.8333333333333334,Completed,0.2,0
+1105.0,Vivaan Patel,0.22727272727272727,Female,India,Suzhal,Sci-Fi,ZEE5,47.1,0.5666666666666668,0.0,Ongoing,0.7,1
+1089.0,Ishaan Chopra,0.9318181818181818,Male,India,The Night Manager,Romance,Netflix,28.8,0.3,0.3333333333333333,Dropped,0.33,2
+1064.0,Myra Verma,0.18181818181818182,Female,India,Sacred Games,Crime,Disney+ Hotstar,42.1,0.20000000000000004,0.8333333333333334,Ongoing,0.44,1
+1100.0,Riya Sharma,0.5227272727272727,Male,India,Delhi Crime,Drama,Disney+ Hotstar,6.4,0.4000000000000001,0.8333333333333334,Dropped,0.08,0
+1098.482089552239,Myra Mehta,0.0,Female,India,Rana Naidu,Comedy,Amazon Prime,44.4,0.4666666666666666,0.0,Completed,0.6,1
+1062.0,Arjun Singh,0.0,Male,India,Taaza Khabar,Drama,SonyLIV,44.6,0.16666666666666666,0.6666666666666666,Ongoing,0.45,1
+1087.0,Krishna Chopra,0.3181818181818182,Male,India,Sacred Games,Sci-Fi,Disney+ Hotstar,23.9,0.25,0.6666666666666666,Completed,0.26,2
+1080.0,Aditya Mehta,0.11363636363636363,Male,India,Taj Mahal 1989,Comedy,SonyLIV,44.3,0.9166666666666666,0.6666666666666666,Ongoing,0.84,1
+1061.0,Rohan Joshi,0.5227272727272727,Female,India,Special OPS,Comedy,SonyLIV,22.0,0.25,0.0,Completed,0.24,2
+1107.0,Kiara Mehta,0.5454545454545454,Male,India,Mirzapur,Sci-Fi,Disney+ Hotstar,4.8,0.6833333333333332,0.3333333333333333,Dropped,0.08,0
+1111.0,Vihaan Sharma,0.7727272727272727,Male,India,Special OPS,Action,MX Player,34.1,0.45,0.16666666666666666,Dropped,0.46,1
+1073.0,Aditya Kumar,0.09090909090909091,Female,India,Undekhi,Drama,ZEE5,18.6,0.4000000000000001,0.16666666666666666,Dropped,0.24,2
+1105.0,Karan Mehta,0.38636363636363635,Female,India,Suzhal,Thriller,JioCinema,33.7,0.6333333333333333,0.8333333333333334,Ongoing,0.53,1
+1026.0,Kiara Joshi,0.3181818181818182,Male,India,Scam 1992,Comedy,Amazon Prime,3.8,0.5166666666666666,0.8333333333333334,Completed,0.05,0
+1146.0,Krishna Reddy,0.022727272727272728,Female,India,Breathe,Action,Amazon Prime,7.2,0.2333333333333334,0.16666666666666666,Completed,0.08,0
+1039.0,Riya Gupta,0.4772727272727273,Female,India,Gullak,Comedy,ZEE5,39.9,0.3333333333333333,0.6666666666666666,Ongoing,0.48,1
+1092.0,Kiara Chopra,0.6590909090909091,Male,India,Asur,Drama,JioCinema,8.7,0.21666666666666665,0.6666666666666666,Ongoing,0.09,0
+1156.0,Anika Gupta,0.4090909090909091,Male,India,Panchayat,Thriller,ZEE5,40.5,0.8000000000000002,0.16666666666666666,Ongoing,0.71,1
+1110.0,Diya Mehta,0.6363636363636364,Female,India,Sacred Games,Thriller,Amazon Prime,9.4,0.9666666666666668,0.6666666666666666,Ongoing,0.18,0
+1155.0,Aditya Joshi,0.8409090909090909,Male,India,Breathe,Action,Amazon Prime,48.1,0.6666666666666666,0.6666666666666666,Completed,0.77,1
+1142.0,Krishna Verma,0.20454545454545456,Female,India,Candy,Crime,Disney+ Hotstar,17.1,0.7333333333333334,0.16666666666666666,Completed,0.29,0
+1190.0,Aditya Sharma,0.8409090909090909,Male,India,Arya,Comedy,Disney+ Hotstar,48.4,0.15000000000000005,0.0,Ongoing,0.47,1
+1067.0,Aditya Singh,0.4318181818181818,Female,India,Breathe,Crime,Netflix,32.1,0.8666666666666666,0.6666666666666666,Completed,0.59,2
+1133.0,Aditya Chopra,0.5227272727272727,Male,India,Mirzapur,Drama,SonyLIV,28.0,0.65,0.3333333333333333,Dropped,0.44,2
+1124.0,Anika Sharma,0.4318181818181818,Female,India,Undekhi,Romance,Amazon Prime,23.5,0.06666666666666672,0.16666666666666666,Ongoing,0.21,2
+1000.0,Rohan Joshi,0.3181818181818182,Male,India,The Family Man,Thriller,SonyLIV,28.3,0.65,0.0,Ongoing,0.45,2
+1044.0,Sai Kumar,0.38636363636363635,Male,India,Khakee: The Bihar Chapter,Thriller,JioCinema,20.2,0.7333333333333334,0.5,Dropped,0.34,2
+1066.0,Anika Gupta,0.4090909090909091,Female,India,Undekhi,Comedy,MX Player,38.2,0.3333333333333333,0.6666666666666666,Completed,0.46,1
+1000.0,Sai Sharma,0.13636363636363635,Male,India,Asur,Thriller,Disney+ Hotstar,39.7,0.5166666666666666,0.8333333333333334,Ongoing,0.56,1
+1125.0,Myra Mehta,0.22727272727272727,Male,India,Arya,Crime,SonyLIV,37.8,0.16666666666666666,0.3333333333333333,Dropped,0.38,1
+1124.0,Vihaan Sharma,0.8863636363636364,Male,India,Rocket Boys,Action,Netflix,10.3,0.21666666666666665,0.16666666666666666,Dropped,0.11,0
+1079.0,Ira Chopra,0.29545454545454547,Male,India,Taj Mahal 1989,Drama,Netflix,15.9,0.9,1.0,Completed,0.3,0
+1089.0,Anika Sharma,0.3409090909090909,Female,India,Bandish Bandits,Sci-Fi,SonyLIV,23.1,0.5333333333333333,0.16666666666666666,Ongoing,0.33,2
+1058.0,Diya Reddy,0.9318181818181818,Female,India,Rana Naidu,Sci-Fi,Netflix,21.1,0.5833333333333334,0.3333333333333333,Dropped,0.32,2
+1009.0,Ishaan Reddy,0.022727272727272728,Male,India,The Family Man,Drama,MX Player,16.6,0.75,0.6666666666666666,Completed,0.28,0
+1038.0,Vivaan Joshi,0.4772727272727273,Male,India,Kota Factory,Drama,Disney+ Hotstar,47.9,0.15000000000000005,0.3333333333333333,Ongoing,0.47,1
+1064.0,Krishna Chopra,0.7727272727272727,Male,India,The Freelancer,Action,JioCinema,25.88611940298507,0.9,0.0,Dropped,0.57,2
+1129.0,Karan Kumar,0.8409090909090909,Male,India,Out of Love,Drama,JioCinema,42.5,0.08333333333333333,1.0,Completed,0.38,1
+1068.0,Vihaan Gupta,0.45454545454545453,Male,India,Panchayat,Crime,Netflix,17.9,0.6166666666666667,0.0,Completed,0.28,2
+1070.0,Aadhya Joshi,0.5454545454545454,Male,India,Bandish Bandits,Sci-Fi,ZEE5,25.1,0.15000000000000005,0.6666666666666666,Dropped,0.25,2
+1057.0,Kiara Chopra,0.2727272727272727,Male,India,Suzhal,Crime,Amazon Prime,44.5,0.7666666666666666,0.6666666666666666,Completed,0.77,1
+1064.0,Pari Sharma,0.7954545454545454,Male,India,The Freelancer,Sci-Fi,ZEE5,6.1,0.3166666666666667,1.0,Dropped,0.07,0
+1116.0,Sai Sharma,0.6136363636363636,Male,India,Hostel Daze,Sci-Fi,JioCinema,23.9,0.75,1.0,Completed,0.41,2
+1193.0,Kiara Gupta,0.45454545454545453,Male,India,Delhi Crime,Action,SonyLIV,13.3,0.85,0.16666666666666666,Ongoing,0.24,0
+1009.0,Vivaan Gupta,0.3181818181818182,Male,India,Delhi Crime,Thriller,MX Player,5.4,0.1166666666666667,0.3333333333333333,Dropped,0.05,0
+1026.0,Sai Kumar,0.5227272727272727,Male,India,Gullak,Romance,Amazon Prime,3.8,0.6999999999999998,0.16666666666666666,Completed,0.06,0
+1017.0,Vivaan Chopra,0.06818181818181818,Female,India,Special OPS,Sci-Fi,SonyLIV,7.2,0.04999999999999997,0.5,Dropped,0.06,0
+1007.0,Vihaan Patel,0.36363636363636365,Female,India,Criminal Justice,Drama,ZEE5,18.4,0.5,0.3333333333333333,Completed,0.26,2
+1028.0,Anika Gupta,0.0,Female,India,Undekhi,Romance,Netflix,18.5,0.7333333333333334,0.3333333333333333,Completed,0.31,2
+1177.0,Aadhya Sharma,0.9772727272727273,Female,India,Undekhi,Drama,Disney+ Hotstar,34.7,0.85,0.8333333333333334,Dropped,0.63,1
+1158.0,Ira Kumar,0.06818181818181818,Male,India,Arya,Crime,Netflix,33.6,0.04999999999999997,0.0,Dropped,0.29,2
+1028.0,Sai Sharma,0.2727272727272727,Female,India,The Freelancer,Crime,MX Player,25.1,0.4166666666666667,0.16666666666666666,Dropped,0.33,2
+1144.0,Vihaan Chopra,0.8636363636363636,Female,India,Taj Mahal 1989,Romance,Amazon Prime,45.2,0.16666666666666666,0.6666666666666666,Completed,0.45,1
+1199.0,Kiara Reddy,0.9090909090909091,Female,India,Bard of Blood,Sci-Fi,Amazon Prime,22.3,0.5499999999999999,0.8333333333333334,Completed,0.33,2
+1133.0,Ira Patel,0.11363636363636363,Male,India,Breathe,Drama,Netflix,16.9,0.16666666666666666,0.0,Dropped,0.17,0
+1001.0,Sai Kumar,0.0,Female,India,Grahan,Drama,Amazon Prime,26.9,0.03333333333333336,1.0,Ongoing,0.23,2
+1165.0,Aarav Joshi,0.38636363636363635,Male,India,Candy,Romance,ZEE5,42.5,0.09999999999999994,0.5,Dropped,0.39,1
+1029.0,Kiara Patel,0.9545454545454546,Male,India,Arya,Sci-Fi,SonyLIV,16.2,0.1166666666666667,0.5,Completed,0.15,0
+1108.0,Aditya Gupta,0.5681818181818182,Male,India,Rana Naidu,Action,SonyLIV,8.2,0.3666666666666667,0.6666666666666666,Dropped,0.1,0
+1035.0,Karan Gupta,0.13636363636363635,Male,India,Breathe,Thriller,Amazon Prime,29.5,0.9333333333333332,0.8333333333333334,Completed,0.57,2
+1072.0,Diya Patel,0.4090909090909091,Female,India,Taaza Khabar,Action,Amazon Prime,19.5,0.03333333333333336,0.8333333333333334,Completed,0.16,2
+1112.0,Riya Joshi,0.3181818181818182,Female,India,Criminal Justice,Action,ZEE5,42.7,0.6666666666666666,0.16666666666666666,Completed,0.68,1
+1152.0,Aditya Mehta,0.7045454545454546,Female,India,TVF Pitchers,Action,Amazon Prime,38.3,0.6999999999999998,0.3333333333333333,Ongoing,0.63,1
+1116.0,Arjun Singh,0.06818181818181818,Male,India,Delhi Crime,Sci-Fi,ZEE5,11.0,0.20000000000000004,0.6666666666666666,Completed,0.11,0
+1110.0,Aadhya Verma,0.045454545454545456,Female,India,Suzhal,Romance,JioCinema,24.6,0.0,0.5,Completed,0.2,2
+1169.0,Ishaan Chopra,0.8863636363636364,Female,India,Aspirants,Thriller,Amazon Prime,38.1,0.06666666666666672,1.0,Completed,0.34,1
+1163.0,Myra Kumar,0.18181818181818182,Female,India,TVF Pitchers,Comedy,Netflix,10.8,0.04999999999999997,0.6666666666666666,Completed,0.09,0
+1037.0,Sai Patel,0.8863636363636364,Male,India,Candy,Romance,Disney+ Hotstar,42.8,0.7166666666666668,0.16666666666666666,Completed,0.71,1
+1136.0,Sai Gupta,0.09090909090909091,Female,India,Grahan,Crime,SonyLIV,3.5,0.6333333333333333,0.0,Dropped,0.05,0
+1110.0,Vivaan Gupta,0.1590909090909091,Female,India,Special OPS,Sci-Fi,JioCinema,16.7,0.9333333333333332,0.3333333333333333,Completed,0.32,0
+1125.0,Aarav Mehta,0.5909090909090909,Male,India,TVF Pitchers,Romance,JioCinema,32.9,0.4000000000000001,0.5,Ongoing,0.42,2
+1164.0,Ira Singh,0.38636363636363635,Female,India,Special OPS,Drama,Amazon Prime,49.2,0.03333333333333336,0.3333333333333333,Dropped,0.41,1
+1062.0,Sara Patel,0.45454545454545453,Female,India,The Family Man,Action,Disney+ Hotstar,43.6,0.5666666666666668,0.0,Dropped,0.65,1
+1046.0,Ananya Sharma,0.4090909090909091,Male,India,Inside Edge,Crime,Amazon Prime,16.2,0.21666666666666665,0.16666666666666666,Dropped,0.17,0
+1169.0,Ira Patel,0.36363636363636365,Male,India,Delhi Crime,Romance,Disney+ Hotstar,49.6,0.04999999999999997,0.5,Dropped,0.43,1
+1185.0,Kiara Joshi,0.8863636363636364,Male,India,TVF Pitchers,Comedy,MX Player,16.4,0.1333333333333333,0.6666666666666666,Dropped,0.16,0
+1002.0,Aarav Gupta,0.6590909090909091,Male,India,Grahan,Comedy,SonyLIV,39.4,0.2666666666666666,0.8333333333333334,Ongoing,0.44,1
+1146.0,Aarav Kumar,0.4090909090909091,Female,India,Khakee: The Bihar Chapter,Comedy,JioCinema,7.0,0.1166666666666667,0.0,Dropped,0.07,0
+1080.0,Myra Kumar,0.0,Female,India,Khakee: The Bihar Chapter,Drama,Netflix,43.6,0.06666666666666672,0.8333333333333334,Completed,0.38,1
+1118.0,Anika Singh,0.5454545454545454,Male,India,Delhi Crime,Drama,Netflix,46.9,0.7333333333333334,0.16666666666666666,Ongoing,0.79,1
+1131.0,Vivaan Sharma,0.09090909090909091,Female,India,Class,Action,JioCinema,34.7,0.3166666666666667,0.6666666666666666,Completed,0.41,1
+1041.0,Sara Singh,0.4772727272727273,Female,India,Paatal Lok,Sci-Fi,JioCinema,27.9,0.5666666666666668,0.0,Ongoing,0.41,2
+1011.0,Diya Reddy,0.6590909090909091,Female,India,Breathe,Romance,Netflix,45.2,0.9333333333333332,0.5,Completed,0.87,1
+1166.0,Aarav Singh,0.9318181818181818,Female,India,Aspirants,Comedy,Amazon Prime,8.6,0.03333333333333336,0.3333333333333333,Dropped,0.07,0
+1080.0,Pari Reddy,1.0,Female,India,Scam 1992,Crime,Amazon Prime,40.6,0.5166666666666666,0.0,Completed,0.58,1
+1144.0,Ira Reddy,0.4090909090909091,Female,India,Undekhi,Drama,MX Player,21.2,0.4166666666666667,0.6666666666666666,Completed,0.28,2
+1035.0,Krishna Verma,0.11363636363636363,Male,India,Aspirants,Crime,MX Player,2.4,0.3,0.16666666666666666,Ongoing,0.03,0
+1112.0,Diya Reddy,0.25,Female,India,Out of Love,Crime,JioCinema,21.9,0.08333333333333333,0.16666666666666666,Completed,0.2,2
+1069.0,Ira Gupta,0.5681818181818182,Male,India,Kota Factory,Action,Netflix,22.7,0.20000000000000004,1.0,Ongoing,0.24,2
+1141.0,Sara Patel,0.9772727272727273,Male,India,Kota Factory,Comedy,ZEE5,44.7,0.8333333333333334,0.5,Completed,0.8,1
+1068.0,Aadhya Singh,0.06818181818181818,Male,India,Delhi Crime,Romance,SonyLIV,48.9,0.25,0.16666666666666666,Completed,0.54,1
+1101.0,Pari Patel,0.9090909090909091,Male,India,Arya,Romance,JioCinema,32.1,0.9166666666666666,0.0,Dropped,0.61,2
+1168.0,Pari Kumar,0.6818181818181818,Female,India,Rana Naidu,Crime,MX Player,21.2,0.6,0.0,Ongoing,0.32,2
+1069.0,Diya Patel,0.5909090909090909,Male,India,TVF Pitchers,Action,Disney+ Hotstar,37.2,0.6999999999999998,0.5,Dropped,0.61,1
+1120.0,Myra Sharma,0.8863636363636364,Female,India,Aspirants,Comedy,Netflix,5.5,0.45,1.0,Ongoing,0.07,0
+1137.0,Myra Gupta,0.6136363636363636,Female,India,Rocket Boys,Romance,SonyLIV,10.9,0.5333333333333333,0.6666666666666666,Completed,0.16,0
+1168.0,Karan Joshi,0.5227272727272727,Male,India,Farzi,Drama,MX Player,42.3,0.3,0.6666666666666666,Ongoing,0.49,1
+1097.0,Riya Verma,0.5,Male,India,Taaza Khabar,Comedy,SonyLIV,27.1,0.5666666666666668,1.0,Dropped,0.4,2
+1061.0,Vivaan Verma,0.25,Male,India,Bard of Blood,Comedy,Netflix,43.7,0.45,0.0,Ongoing,0.59,1
+1045.0,Riya Chopra,0.4090909090909091,Female,India,Paatal Lok,Drama,Amazon Prime,41.9,0.20000000000000004,0.3333333333333333,Ongoing,0.44,1
+1143.0,Pari Kumar,0.9772727272727273,Male,India,TVF Pitchers,Drama,JioCinema,37.5,0.03333333333333336,0.16666666666666666,Ongoing,0.36208955223880596,1
+1010.0,Krishna Verma,0.06818181818181818,Female,India,Undekhi,Action,SonyLIV,33.7,0.6833333333333332,0.3333333333333333,Completed,0.55,1
+1073.0,Ira Mehta,0.3409090909090909,Male,India,Class,Crime,Amazon Prime,2.5,0.3499999999999999,0.16666666666666666,Ongoing,0.03,0
+1096.0,Rohan Kumar,0.4772727272727273,Female,India,Hostel Daze,Romance,Disney+ Hotstar,25.9,0.6999999999999998,0.8333333333333334,Completed,0.42,2
+1057.0,Diya Chopra,0.9318181818181818,Male,India,Khakee: The Bihar Chapter,Sci-Fi,JioCinema,25.2,0.6,0.5,Ongoing,0.38,2
+1146.0,Aditya Chopra,0.9090909090909091,Male,India,Sacred Games,Sci-Fi,Netflix,7.8,0.3499999999999999,0.8333333333333334,Completed,0.1,0
+1187.0,Krishna Gupta,0.2727272727272727,Male,India,Arya,Crime,SonyLIV,2.1,0.1333333333333333,1.0,Dropped,0.02,0
+1026.0,Anika Mehta,0.45454545454545453,Male,India,Candy,Action,Disney+ Hotstar,29.9,0.1333333333333333,0.3333333333333333,Dropped,0.29,2
+1135.0,Sai Mehta,0.4090909090909091,Male,India,Farzi,Drama,ZEE5,11.0,0.9833333333333334,0.16666666666666666,Completed,0.22,0
+1128.0,Sara Sharma,0.1590909090909091,Male,India,Khakee: The Bihar Chapter,Thriller,JioCinema,27.6,0.4333333333333333,1.0,Dropped,0.36,2
+1035.0,Vihaan Kumar,0.9318181818181818,Male,India,Undekhi,Comedy,Disney+ Hotstar,48.0,0.09999999999999994,1.0,Ongoing,0.44,1
+1062.0,Ananya Verma,0.5227272727272727,Male,India,Gullak,Crime,Netflix,7.8,0.6166666666666667,0.8333333333333334,Completed,0.12,0
+1046.0,Aadhya Verma,0.9772727272727273,Male,India,Duranga,Sci-Fi,Netflix,6.2,0.4000000000000001,0.16666666666666666,Ongoing,0.08,0
+1108.0,Vihaan Joshi,0.29545454545454547,Female,India,Suzhal,Action,Netflix,25.9,0.8833333333333334,0.16666666666666666,Dropped,0.48,2
+1066.0,Anika Chopra,0.4318181818181818,Female,India,Candy,Romance,Disney+ Hotstar,42.2,0.75,0.16666666666666666,Dropped,0.72,1
+1026.0,Ishaan Verma,0.06818181818181818,Male,India,Special OPS,Sci-Fi,MX Player,43.7,0.9333333333333332,0.0,Ongoing,0.84,1
+1032.0,Ira Sharma,0.22727272727272727,Male,India,Farzi,Action,Disney+ Hotstar,36.3,0.9499999999999998,0.8333333333333334,Ongoing,0.7,1
+1139.0,Anika Gupta,0.25,Male,India,Gullak,Drama,ZEE5,24.5,0.1166666666666667,0.6666666666666666,Dropped,0.23,2
+1021.0,Riya Sharma,0.9545454545454546,Female,India,Farzi,Romance,Netflix,38.0,0.9333333333333332,0.6666666666666666,Ongoing,0.73,1
+1112.0,Vivaan Sharma,0.7272727272727273,Male,India,Breathe,Sci-Fi,ZEE5,5.7,0.8833333333333334,0.8333333333333334,Dropped,0.11,0
+1078.0,Vivaan Chopra,0.0,Female,India,Panchayat,Sci-Fi,ZEE5,39.7,0.9833333333333334,0.5,Dropped,0.79,1
+1159.0,Krishna Verma,0.6136363636363636,Female,India,Asur,Romance,Netflix,37.5,0.9166666666666666,1.0,Dropped,0.71,1
+1163.0,Sai Reddy,0.7727272727272727,Female,India,Duranga,Thriller,Amazon Prime,28.8,0.4166666666666667,0.8333333333333334,Completed,0.37,2
+1007.0,Ira Reddy,0.5454545454545454,Female,India,Class,Action,MX Player,12.5,0.21666666666666665,0.3333333333333333,Ongoing,0.13,0
+1022.0,Aadhya Singh,0.3409090909090909,Female,India,Farzi,Thriller,MX Player,15.0,0.65,1.0,Dropped,0.24,0
+1142.0,Riya Gupta,0.5909090909090909,Female,India,Bard of Blood,Romance,MX Player,29.1,0.8000000000000002,0.16666666666666666,Ongoing,0.51,2
+1100.0,Vivaan Mehta,0.6818181818181818,Female,India,Farzi,Sci-Fi,Amazon Prime,47.5,0.2666666666666666,0.3333333333333333,Completed,0.53,1
+1142.0,Anika Sharma,0.8863636363636364,Female,India,Panchayat,Comedy,JioCinema,38.4,0.4333333333333333,1.0,Ongoing,0.51,1
+1014.0,Aadhya Sharma,0.022727272727272728,Female,India,Kota Factory,Comedy,MX Player,28.5,0.75,0.8333333333333334,Completed,0.48,2
+1023.0,Aadhya Mehta,0.5681818181818182,Female,India,Suzhal,Crime,SonyLIV,44.0,0.04999999999999997,0.5,Dropped,0.38,1
+1191.0,Myra Kumar,0.022727272727272728,Female,India,Made in Heaven,Drama,JioCinema,8.6,0.2333333333333334,0.0,Dropped,0.09,0
+1047.0,Krishna Verma,0.9090909090909091,Male,India,Mirzapur,Action,SonyLIV,46.4,0.4833333333333334,0.3333333333333333,Completed,0.64,1
+1107.0,Vivaan Singh,0.6818181818181818,Female,India,Scam 1992,Comedy,SonyLIV,44.7,0.3333333333333333,0.8333333333333334,Completed,0.54,1
+1059.0,Arjun Chopra,0.4318181818181818,Male,India,Rana Naidu,Thriller,SonyLIV,46.7,0.3,1.0,Dropped,0.54,1
+1004.0,Vihaan Singh,0.2727272727272727,Female,India,Panchayat,Romance,MX Player,39.2,0.06666666666666672,0.16666666666666666,Ongoing,0.34,1
+1008.0,Aadhya Gupta,0.8863636363636364,Male,India,Gullak,Action,Amazon Prime,42.5,0.03333333333333336,0.6666666666666666,Completed,0.36,1
+1192.0,Diya Sharma,0.3181818181818182,Male,India,Scam 1992,Romance,Amazon Prime,5.3,0.5166666666666666,0.6666666666666666,Ongoing,0.08,0
+1162.0,Riya Gupta,0.8409090909090909,Female,India,Hostel Daze,Drama,MX Player,8.8,0.45,0.3333333333333333,Ongoing,0.12,0
+1185.0,Aadhya Patel,0.3181818181818182,Male,India,The Freelancer,Crime,Amazon Prime,2.2,0.09999999999999994,0.0,Completed,0.02,0
+1003.0,Diya Gupta,0.22727272727272727,Male,India,Ray,Comedy,JioCinema,10.4,0.9666666666666668,0.3333333333333333,Completed,0.2,0
+1117.0,Ira Singh,0.9772727272727273,Male,India,Kota Factory,Comedy,SonyLIV,23.8,0.3833333333333333,0.6666666666666666,Ongoing,0.3,2
+1148.0,Vihaan Sharma,0.1590909090909091,Male,India,Arya,Sci-Fi,SonyLIV,40.2,0.5166666666666666,0.3333333333333333,Completed,0.57,1
+1041.0,Krishna Verma,0.6363636363636364,Female,India,Bard of Blood,Action,SonyLIV,30.8,0.4833333333333334,0.3333333333333333,Ongoing,0.43,2
+1054.0,Sara Joshi,0.0,Male,India,Kota Factory,Sci-Fi,JioCinema,18.8,0.5333333333333333,0.8333333333333334,Dropped,0.27,2
+1159.0,Aadhya Kumar,0.8636363636363636,Male,India,Delhi Crime,Drama,Netflix,48.7,0.8833333333333334,0.0,Completed,0.91,1
+1135.0,Riya Chopra,0.8636363636363636,Male,India,Bandish Bandits,Action,SonyLIV,22.4,0.9333333333333332,0.8333333333333334,Dropped,0.43,2
+1195.0,Ishaan Verma,0.2727272727272727,Female,India,Asur,Action,JioCinema,13.0,0.4666666666666666,0.6666666666666666,Dropped,0.18,0
+1111.0,Ishaan Gupta,0.75,Male,India,Scam 1992,Action,Disney+ Hotstar,46.8,1.0,0.0,Completed,0.94,1
+1157.0,Sai Mehta,0.9772727272727273,Female,India,Rocket Boys,Romance,SonyLIV,11.3,0.7833333333333332,1.0,Ongoing,0.2,0
+1019.0,Myra Patel,1.0,Male,India,Delhi Crime,Romance,Amazon Prime,14.5,0.65,0.5,Dropped,0.23,0
+1080.0,Krishna Joshi,0.4090909090909091,Female,India,Suzhal,Drama,Netflix,16.2,0.9333333333333332,0.6666666666666666,Dropped,0.31,0
+1066.0,Diya Sharma,0.8636363636363636,Male,India,Bombay Begums,Thriller,Netflix,34.7,0.8666666666666666,0.16666666666666666,Completed,0.64,1
+1194.0,Vihaan Singh,0.4772727272727273,Male,India,Rana Naidu,Action,Amazon Prime,27.7,0.7833333333333332,0.16666666666666666,Dropped,0.48,2
+1092.0,Aditya Joshi,0.9545454545454546,Female,India,Undekhi,Action,JioCinema,42.1,0.1333333333333333,1.0,Ongoing,0.4,1
+1073.0,Anika Singh,0.29545454545454547,Male,India,Sacred Games,Thriller,JioCinema,46.0,0.3,0.16666666666666666,Dropped,0.53,1
+1116.0,Diya Joshi,0.9090909090909091,Female,India,Mai,Thriller,Amazon Prime,36.2,0.5166666666666666,0.5,Completed,0.51,1
+1115.0,Aditya Verma,0.18181818181818182,Male,India,Aspirants,Comedy,ZEE5,14.8,0.5,0.3333333333333333,Ongoing,0.21,0
+1013.0,Sara Patel,0.38636363636363635,Female,India,Criminal Justice,Action,Netflix,20.3,0.7166666666666668,0.5,Completed,0.34,2
+1193.0,Ishaan Kumar,0.7727272727272727,Female,India,Delhi Crime,Comedy,ZEE5,8.2,0.6,0.16666666666666666,Completed,0.12,0
+1126.0,Sara Mehta,0.29545454545454547,Male,India,Bard of Blood,Thriller,Disney+ Hotstar,38.7,0.5499999999999999,0.5,Dropped,0.57,1
+1049.0,Vihaan Mehta,0.8636363636363636,Male,India,Arya,Crime,MX Player,28.4,0.09999999999999994,0.8333333333333334,Completed,0.26,2
+1042.0,Kiara Reddy,0.5909090909090909,Male,India,Special OPS,Comedy,SonyLIV,11.5,0.5499999999999999,0.0,Completed,0.17,0
+1180.0,Anika Patel,0.5,Female,India,Sacred Games,Thriller,Disney+ Hotstar,4.3,0.8166666666666668,0.5,Completed,0.08,0
+1090.0,Sai Patel,0.9772727272727273,Female,India,Bombay Begums,Thriller,Disney+ Hotstar,12.6,0.4833333333333334,0.5,Dropped,0.17,0
+1012.0,Sara Reddy,0.38636363636363635,Female,India,The Family Man,Thriller,ZEE5,21.4,0.4000000000000001,1.0,Completed,0.27,2
+1177.0,Riya Joshi,0.9545454545454546,Female,India,Paatal Lok,Thriller,SonyLIV,35.3,0.4333333333333333,0.5,Dropped,0.47,1
+1126.0,Rohan Singh,0.13636363636363635,Female,India,Criminal Justice,Comedy,Netflix,26.4,0.8000000000000002,0.0,Dropped,0.46,2
+1097.0,Aadhya Sharma,0.38636363636363635,Female,India,Class,Sci-Fi,Disney+ Hotstar,39.2,0.21666666666666665,0.8333333333333334,Completed,0.42,1
+1139.0,Diya Mehta,1.0,Male,India,Khakee: The Bihar Chapter,Romance,JioCinema,18.6,0.08333333333333333,0.3333333333333333,Ongoing,0.17,2
+1050.0,Diya Mehta,0.045454545454545456,Male,India,Panchayat,Sci-Fi,MX Player,12.4,0.09999999999999994,0.16666666666666666,Dropped,0.11,0
+1152.0,Rohan Gupta,0.4318181818181818,Female,India,Suzhal,Action,JioCinema,30.2,0.6999999999999998,1.0,Dropped,0.5,2
+1040.0,Sara Patel,0.45454545454545453,Female,India,Suzhal,Romance,MX Player,40.6,0.6999999999999998,0.5,Dropped,0.67,1
+1001.0,Vihaan Sharma,0.8181818181818182,Male,India,Delhi Crime,Sci-Fi,JioCinema,32.0,0.6166666666666667,0.8333333333333334,Dropped,0.49,2
+1096.0,Krishna Verma,0.13636363636363635,Male,India,High,Thriller,Netflix,14.5,0.5,0.6666666666666666,Ongoing,0.2,0
+1055.0,Ira Patel,0.9318181818181818,Female,India,Aspirants,Comedy,Amazon Prime,42.9,0.3833333333333333,0.3333333333333333,Ongoing,0.54,1
+1113.0,Rohan Gupta,0.022727272727272728,Male,India,Inside Edge,Sci-Fi,JioCinema,19.2,0.20000000000000004,1.0,Completed,0.2,2
+1028.0,Arjun Verma,0.8181818181818182,Male,India,Kota Factory,Sci-Fi,JioCinema,49.0,0.03333333333333336,1.0,Ongoing,0.41,1
+1157.0,Sara Chopra,0.1590909090909091,Male,India,Asur,Crime,ZEE5,6.9,0.5,0.3333333333333333,Dropped,0.1,0
+1145.0,Vivaan Verma,0.5681818181818182,Female,India,Mirzapur,Romance,Disney+ Hotstar,35.6,0.7833333333333332,0.8333333333333334,Ongoing,0.62,1
+1064.0,Rohan Chopra,0.13636363636363635,Male,India,The Freelancer,Sci-Fi,ZEE5,39.3,0.2333333333333334,0.8333333333333334,Completed,0.42,1
+1098.482089552239,Aarav Gupta,0.25,Male,India,Mirzapur,Action,Disney+ Hotstar,50.0,0.6,0.5,Completed,0.76,1
+1131.0,Vivaan Sharma,0.4090909090909091,Female,India,Delhi Crime,Action,Netflix,3.7,0.0,0.8333333333333334,Dropped,0.36208955223880596,0
+1002.0,Ananya Singh,0.13636363636363635,Female,India,Scam 1992,Crime,JioCinema,44.2,0.3499999999999999,0.5,Ongoing,0.54,1
+1036.0,Sai Patel,0.20454545454545456,Male,India,Taj Mahal 1989,Comedy,JioCinema,42.9,0.4666666666666666,0.16666666666666666,Completed,0.58,1
+1197.0,Diya Gupta,0.13636363636363635,Male,India,Mirzapur,Thriller,SonyLIV,25.1,0.75,0.16666666666666666,Dropped,0.43,2
+1066.0,Anika Singh,0.36363636363636365,Male,India,Undekhi,Thriller,JioCinema,28.2,0.16666666666666666,0.3333333333333333,Ongoing,0.28,2
+1183.0,Vivaan Chopra,0.2727272727272727,Male,India,The Night Manager,Action,ZEE5,2.2,0.08333333333333333,0.3333333333333333,Ongoing,0.02,0
+1016.0,Myra Patel,0.75,Female,India,TVF Pitchers,Crime,ZEE5,24.2,0.8166666666666668,1.0,Completed,0.43,2
+1178.0,Myra Kumar,0.9090909090909091,Male,India,Made in Heaven,Crime,Disney+ Hotstar,17.4,0.3666666666666667,0.8333333333333334,Completed,0.22,0
+1023.0,Ishaan Sharma,0.09090909090909091,Male,India,Ray,Sci-Fi,Netflix,16.9,0.500995024875622,0.3333333333333333,Ongoing,0.2,0
+1040.0,Pari Chopra,0.6136363636363636,Female,India,Out of Love,Thriller,JioCinema,6.3,0.45,0.5,Completed,0.08,0
+1022.0,Pari Mehta,0.9772727272727273,Male,India,High,Comedy,Disney+ Hotstar,44.3,0.7666666666666666,0.16666666666666666,Ongoing,0.76,1
+1183.0,Sara Reddy,0.9772727272727273,Female,India,The Night Manager,Action,Amazon Prime,14.0,0.4166666666666667,1.0,Dropped,0.18,0
+1037.0,Aarav Sharma,0.3181818181818182,Male,India,Bandish Bandits,Crime,Amazon Prime,29.3,0.3833333333333333,0.8333333333333334,Ongoing,0.37,2
+1172.0,Myra Sharma,0.8636363636363636,Male,India,The Freelancer,Romance,Amazon Prime,38.1,0.3,0.3333333333333333,Dropped,0.44,1
+1014.0,Karan Singh,0.6136363636363636,Female,India,Arya,Drama,MX Player,17.7,0.3,1.0,Ongoing,0.21,2
+1125.0,Sara Chopra,0.9772727272727273,Male,India,Suzhal,Sci-Fi,Amazon Prime,48.8,0.7166666666666668,0.5,Ongoing,0.81,1
+1117.0,Anika Kumar,0.38636363636363635,Female,India,Taaza Khabar,Sci-Fi,Amazon Prime,41.9,0.45,1.0,Dropped,0.56,1
+1003.0,Aditya Chopra,0.3409090909090909,Female,India,Taaza Khabar,Action,SonyLIV,19.9,0.2333333333333334,0.8333333333333334,Ongoing,0.21,2
+1073.0,Aditya Kumar,0.6363636363636364,Male,India,Grahan,Sci-Fi,MX Player,23.8,0.8333333333333334,0.0,Completed,0.43,2
+1143.0,Arjun Joshi,0.09090909090909091,Female,India,Arya,Sci-Fi,Amazon Prime,49.9,0.25,1.0,Dropped,0.55,1
+1104.0,Pari Patel,0.45454545454545453,Female,India,Rocket Boys,Drama,JioCinema,21.7,0.75,1.0,Dropped,0.37,2
+1119.0,Vihaan Reddy,0.022727272727272728,Female,India,Special OPS,Romance,JioCinema,48.2,0.4333333333333333,0.5,Ongoing,0.64,1
+1183.0,Aditya Reddy,0.5909090909090909,Female,India,Suzhal,Romance,SonyLIV,4.6,0.3166666666666667,0.5,Dropped,0.05,0
+1015.0,Anika Sharma,0.36363636363636365,Female,India,The Family Man,Crime,SonyLIV,19.5,0.8833333333333334,0.0,Completed,0.36,2
+1037.0,Vivaan Patel,0.8863636363636364,Female,India,Bard of Blood,Action,ZEE5,46.1,0.8000000000000002,0.3333333333333333,Dropped,0.81,1
+1060.0,Aadhya Mehta,0.5681818181818182,Male,India,Delhi Crime,Thriller,Amazon Prime,28.0,0.4833333333333334,1.0,Ongoing,0.36208955223880596,2
+1069.0,Ananya Gupta,0.1590909090909091,Female,India,The Family Man,Thriller,Amazon Prime,14.8,0.16666666666666666,0.5,Dropped,0.15,0
+1152.0,Myra Kumar,0.11363636363636363,Male,India,Special OPS,Crime,ZEE5,9.7,0.06666666666666672,0.3333333333333333,Ongoing,0.09,0
+1031.0,Arjun Joshi,0.7727272727272727,Female,India,Kota Factory,Comedy,Disney+ Hotstar,22.6,0.21666666666666665,1.0,Ongoing,0.24,2
+1087.0,Ishaan Patel,0.6818181818181818,Female,India,Inside Edge,Action,Netflix,13.5,0.09999999999999994,0.3333333333333333,Completed,0.12,0
+1087.0,Arjun Singh,0.5909090909090909,Male,India,Candy,Drama,JioCinema,34.4,0.03333333333333336,0.5,Ongoing,0.29,1
+1153.0,Sai Mehta,0.7954545454545454,Female,India,Arya,Crime,JioCinema,29.2,0.3166666666666667,0.5,Ongoing,0.34,2
+1061.0,Sara Gupta,0.045454545454545456,Female,India,Candy,Crime,MX Player,27.1,0.8166666666666668,0.8333333333333334,Dropped,0.48,2
+1020.0,Krishna Chopra,0.8409090909090909,Male,India,Breathe,Sci-Fi,MX Player,32.9,0.8333333333333334,0.16666666666666666,Completed,0.59,2
+1107.0,Aarav Singh,0.5227272727272727,Male,India,Inside Edge,Drama,Disney+ Hotstar,32.8,0.5499999999999999,0.5,Ongoing,0.48,2
+1084.0,Sai Patel,0.6363636363636364,Female,India,Class,Romance,ZEE5,7.5,0.20000000000000004,1.0,Completed,0.08,0
+1142.0,Ishaan Chopra,0.022727272727272728,Male,India,Duranga,Thriller,SonyLIV,5.2,0.2666666666666666,0.6666666666666666,Dropped,0.06,0
+1078.0,Ananya Chopra,0.9318181818181818,Male,India,Breathe,Drama,Amazon Prime,46.2,0.5666666666666668,0.16666666666666666,Ongoing,0.68,1
+1098.482089552239,Arjun Singh,0.4772727272727273,Female,India,Paatal Lok,Comedy,SonyLIV,8.4,0.9666666666666668,0.8333333333333334,Completed,0.16,0
+1189.0,Myra Reddy,0.13636363636363635,Female,India,Gullak,Sci-Fi,JioCinema,23.5,0.4833333333333334,0.16666666666666666,Completed,0.32,2
+1020.0,Karan Joshi,0.045454545454545456,Male,India,Out of Love,Sci-Fi,Amazon Prime,29.4,0.8166666666666668,0.6666666666666666,Dropped,0.52,2
+1055.0,Riya Kumar,0.7045454545454546,Female,India,Kota Factory,Crime,SonyLIV,5.0,0.8166666666666668,0.3333333333333333,Completed,0.09,0
+1167.0,Ira Mehta,0.18181818181818182,Male,India,Hostel Daze,Thriller,JioCinema,22.4,0.4833333333333334,0.8333333333333334,Ongoing,0.31,2
+1084.0,Myra Gupta,0.5,Female,India,Gullak,Comedy,SonyLIV,27.0,0.9,1.0,Completed,0.51,2
+1030.0,Vivaan Sharma,0.5909090909090909,Male,India,Taaza Khabar,Crime,ZEE5,6.9,0.04999999999999997,0.16666666666666666,Dropped,0.06,0
+1176.0,Krishna Verma,0.9090909090909091,Female,India,Khakee: The Bihar Chapter,Comedy,Amazon Prime,8.4,0.2333333333333334,0.8333333333333334,Dropped,0.09,0
+1097.0,Vihaan Reddy,0.4772727272727273,Male,India,Mirzapur,Action,JioCinema,48.2,0.7833333333333332,0.0,Dropped,0.84,1
+1192.0,Vivaan Patel,0.9545454545454546,Female,India,Gullak,Action,SonyLIV,28.4,0.4333333333333333,0.8333333333333334,Ongoing,0.37,2
+1152.0,Rohan Singh,0.45454545454545453,Male,India,Grahan,Action,MX Player,31.5,0.5666666666666668,0.0,Dropped,0.47,2
+1119.0,Sara Kumar,0.2727272727272727,Female,India,Inside Edge,Sci-Fi,ZEE5,22.2,0.15000000000000005,0.3333333333333333,Ongoing,0.22,2
+1029.0,Karan Gupta,0.7272727272727273,Male,India,TVF Pitchers,Sci-Fi,Netflix,45.7,0.75,0.3333333333333333,Dropped,0.78,1
+1141.0,Myra Reddy,0.5,Female,India,Delhi Crime,Drama,Netflix,7.6,0.9666666666666668,0.16666666666666666,Dropped,0.15,0
+1047.0,Ananya Verma,0.38636363636363635,Male,India,Khakee: The Bihar Chapter,Crime,Disney+ Hotstar,19.2,0.8666666666666666,0.5,Dropped,0.35,2
+1130.0,Pari Verma,0.22727272727272727,Female,India,Ray,Romance,MX Player,46.7,0.75,0.3333333333333333,Dropped,0.79,1
+1044.0,Ishaan Mehta,0.1590909090909091,Male,India,Made in Heaven,Comedy,Netflix,30.7,0.4166666666666667,0.8333333333333334,Completed,0.4,2
+1035.0,Ishaan Mehta,0.1590909090909091,Female,India,Undekhi,Drama,MX Player,34.4,0.03333333333333336,0.5,Ongoing,0.29,1
+1163.0,Vihaan Verma,0.3409090909090909,Female,India,Breathe,Thriller,Disney+ Hotstar,28.0,0.4666666666666666,0.5,Completed,0.38,2
+1079.0,Karan Joshi,0.8636363636363636,Male,India,Out of Love,Comedy,Disney+ Hotstar,10.9,0.8000000000000002,0.8333333333333334,Ongoing,0.19,0
+1009.0,Pari Singh,0.9318181818181818,Female,India,Bandish Bandits,Drama,ZEE5,36.5,0.4000000000000001,0.3333333333333333,Dropped,0.47,1
+1097.0,Pari Chopra,0.7045454545454546,Female,India,Made in Heaven,Romance,SonyLIV,36.3,0.8333333333333334,0.16666666666666666,Completed,0.65,1
+1019.0,Vivaan Joshi,0.6590909090909091,Male,India,Bombay Begums,Thriller,Amazon Prime,36.0,0.2666666666666666,0.8333333333333334,Dropped,0.4,1
+1042.0,Karan Mehta,0.36363636363636365,Female,India,Taaza Khabar,Comedy,SonyLIV,26.5,0.4166666666666667,0.16666666666666666,Dropped,0.34,2
+1023.0,Ananya Joshi,0.06818181818181818,Male,India,Delhi Crime,Action,MX Player,3.3,0.75,0.5,Ongoing,0.06,0
+1069.0,Riya Sharma,0.5681818181818182,Male,India,Khakee: The Bihar Chapter,Comedy,Amazon Prime,4.0,0.45,0.0,Completed,0.05,0
+1182.0,Sara Sharma,0.22727272727272727,Male,India,Bombay Begums,Crime,MX Player,35.9,0.25,0.6666666666666666,Completed,0.39,1
+1151.0,Sai Gupta,0.8181818181818182,Male,India,Criminal Justice,Action,Netflix,36.5,0.7333333333333334,0.3333333333333333,Completed,0.61,1
+1196.0,Aditya Singh,0.09090909090909091,Male,India,Rocket Boys,Action,Disney+ Hotstar,40.5,0.6999999999999998,0.0,Dropped,0.66,1
+1058.0,Ananya Kumar,0.2727272727272727,Female,India,The Night Manager,Thriller,SonyLIV,34.2,0.9166666666666666,1.0,Completed,0.65,1
+1043.0,Aadhya Verma,0.18181818181818182,Female,India,Candy,Action,Disney+ Hotstar,36.1,0.4666666666666666,0.6666666666666666,Dropped,0.49,1
+1119.0,Myra Kumar,0.4090909090909091,Female,India,Mirzapur,Romance,Disney+ Hotstar,49.1,0.5166666666666666,1.0,Completed,0.7,1
+1021.0,Myra Sharma,0.5227272727272727,Male,India,Gullak,Romance,JioCinema,30.3,0.3,0.5,Dropped,0.35,2
+1086.0,Sai Gupta,0.5227272727272727,Female,India,Scam 1992,Drama,MX Player,36.6,0.18333333333333326,0.16666666666666666,Completed,0.37,1
+1041.0,Aadhya Reddy,0.20454545454545456,Male,India,The Family Man,Crime,ZEE5,24.1,0.2666666666666666,0.16666666666666666,Dropped,0.27,2
+1008.0,Pari Reddy,0.45454545454545453,Female,India,Criminal Justice,Action,SonyLIV,36.1,0.45,0.16666666666666666,Dropped,0.48,1
+1057.0,Kiara Kumar,0.6363636363636364,Female,India,Scam 1992,Thriller,Disney+ Hotstar,41.1,0.08333333333333333,0.6666666666666666,Ongoing,0.37,1
+1045.0,Kiara Singh,0.25,Female,India,Criminal Justice,Romance,MX Player,18.9,0.016666666666666607,1.0,Completed,0.15,2
+1102.0,Sai Gupta,0.5909090909090909,Female,India,Delhi Crime,Crime,Disney+ Hotstar,2.2,0.6333333333333333,0.5,Dropped,0.03,0
+1173.0,Krishna Verma,0.8863636363636364,Male,India,Asur,Romance,Disney+ Hotstar,25.0,0.6833333333333332,0.3333333333333333,Completed,0.4,2
+1076.0,Riya Mehta,0.3181818181818182,Female,India,Farzi,Sci-Fi,MX Player,5.8,0.4833333333333334,0.5,Dropped,0.08,0
+1183.0,Diya Joshi,0.9318181818181818,Female,India,Mai,Sci-Fi,MX Player,32.0,0.85,0.5,Dropped,0.58,2
+1130.0,Sai Verma,0.11363636363636363,Female,India,Ray,Romance,Amazon Prime,4.1,0.9,1.0,Ongoing,0.08,0
+1130.0,Sai Verma,0.13636363636363635,Female,India,Mirzapur,Thriller,JioCinema,18.5,0.6999999999999998,0.16666666666666666,Completed,0.3,2
+1139.0,Aadhya Kumar,0.75,Male,India,Ray,Comedy,JioCinema,11.3,0.3833333333333333,0.16666666666666666,Ongoing,0.14,0
+1057.0,Pari Singh,0.09090909090909091,Female,India,Delhi Crime,Drama,ZEE5,3.4,0.8166666666666668,0.16666666666666666,Dropped,0.06,0
+1179.0,Karan Joshi,0.11363636363636363,Female,India,High,Romance,Disney+ Hotstar,32.2,0.2333333333333334,0.16666666666666666,Dropped,0.35,2
+1037.0,Rohan Patel,0.9772727272727273,Male,India,Asur,Comedy,ZEE5,43.9,0.016666666666666607,0.3333333333333333,Ongoing,0.36,1
+1178.0,Ananya Mehta,0.4772727272727273,Male,India,Breathe,Action,MX Player,27.0,0.45,0.0,Completed,0.36,2
+1033.0,Ira Chopra,0.0,Female,India,Inside Edge,Action,JioCinema,24.0,0.5666666666666668,0.0,Ongoing,0.36,2
+1078.0,Ananya Sharma,0.5,Female,India,Taaza Khabar,Sci-Fi,MX Player,39.7,0.3333333333333333,0.3333333333333333,Completed,0.48,1
+1111.0,Sai Joshi,0.7727272727272727,Female,India,Bombay Begums,Crime,Amazon Prime,18.0,0.6166666666666667,0.3333333333333333,Completed,0.28,2
+1145.0,Anika Verma,0.6136363636363636,Female,India,Farzi,Sci-Fi,Amazon Prime,45.7,0.15000000000000005,0.0,Completed,0.45,1
+1058.0,Ananya Verma,0.3409090909090909,Male,India,Delhi Crime,Romance,Netflix,10.6,0.016666666666666607,0.5,Completed,0.09,0
+1102.0,Arjun Gupta,0.75,Female,India,Asur,Crime,ZEE5,15.2,0.7166666666666668,0.8333333333333334,Ongoing,0.25,0
+1060.0,Rohan Gupta,0.8181818181818182,Male,India,Criminal Justice,Drama,Netflix,42.7,0.8333333333333334,0.6666666666666666,Ongoing,0.77,1
+1105.0,Pari Singh,0.5227272727272727,Male,India,Special OPS,Comedy,MX Player,20.6,0.2666666666666666,0.6666666666666666,Ongoing,0.23,2
+1029.0,Karan Verma,0.75,Female,India,Taj Mahal 1989,Crime,JioCinema,30.4,0.25,0.3333333333333333,Completed,0.33,2
+1044.0,Myra Verma,0.8636363636363636,Female,India,Taaza Khabar,Crime,MX Player,16.8,0.9166666666666666,0.6666666666666666,Ongoing,0.32,0
+1183.0,Sara Patel,0.25,Female,India,Mai,Thriller,Disney+ Hotstar,7.0,0.9333333333333332,0.0,Completed,0.13,0
+1041.0,Krishna Reddy,0.5454545454545454,Male,India,TVF Pitchers,Comedy,MX Player,47.0,0.03333333333333336,0.16666666666666666,Dropped,0.39,1
+1052.0,Ananya Gupta,0.22727272727272727,Female,India,Delhi Crime,Romance,Disney+ Hotstar,23.7,0.7833333333333332,1.0,Dropped,0.41,2
+1081.0,Ira Joshi,0.9318181818181818,Female,India,Arya,Drama,JioCinema,43.5,0.6,0.3333333333333333,Dropped,0.66,1
+1055.0,Aarav Reddy,0.6136363636363636,Male,India,Panchayat,Action,Amazon Prime,29.9,0.2333333333333334,0.6666666666666666,Completed,0.32,2
+1078.0,Sara Verma,0.25,Male,India,Khakee: The Bihar Chapter,Action,SonyLIV,7.1,0.21666666666666665,0.6666666666666666,Completed,0.08,0
+1016.0,Vihaan Sharma,0.8181818181818182,Female,India,Rana Naidu,Sci-Fi,ZEE5,8.0,0.8166666666666668,0.5,Ongoing,0.14,0
+1018.0,Pari Chopra,0.7727272727272727,Male,India,Paatal Lok,Romance,Amazon Prime,5.4,0.06666666666666672,0.3333333333333333,Completed,0.05,0
+1124.0,Sara Chopra,0.75,Male,India,Aspirants,Drama,SonyLIV,4.1,0.7166666666666668,0.3333333333333333,Completed,0.07,0
+1090.0,Pari Verma,0.18181818181818182,Female,India,Made in Heaven,Drama,ZEE5,44.3,0.9833333333333334,0.16666666666666666,Completed,0.88,1
+1079.0,Aditya Reddy,0.45454545454545453,Female,India,Suzhal,Drama,ZEE5,6.3,0.3166666666666667,0.0,Dropped,0.07,0
+1117.0,Aditya Reddy,0.5681818181818182,Male,India,The Freelancer,Comedy,JioCinema,32.4,0.6,0.3333333333333333,Completed,0.49,2
+1138.0,Pari Kumar,0.5681818181818182,Male,India,Ray,Drama,MX Player,10.9,0.3833333333333333,0.16666666666666666,Completed,0.14,0
+1146.0,Aditya Reddy,0.36363636363636365,Male,India,Khakee: The Bihar Chapter,Sci-Fi,Amazon Prime,40.3,0.15000000000000005,0.6666666666666666,Dropped,0.39,1
+1177.0,Ishaan Mehta,0.8181818181818182,Female,India,Aspirants,Romance,SonyLIV,30.1,0.5333333333333333,0.8333333333333334,Completed,0.43,2
+1029.0,Aadhya Sharma,0.5227272727272727,Female,India,The Family Man,Comedy,MX Player,15.7,0.5833333333333334,1.0,Ongoing,0.24,0
+1193.0,Diya Chopra,0.6363636363636364,Female,India,The Family Man,Action,SonyLIV,7.4,0.2333333333333334,0.0,Dropped,0.08,0
+1035.0,Kiara Mehta,0.6136363636363636,Female,India,Suzhal,Romance,Disney+ Hotstar,42.8,0.16666666666666666,0.0,Dropped,0.43,1
+1160.0,Vivaan Singh,0.1590909090909091,Female,India,The Freelancer,Romance,JioCinema,27.1,0.3499999999999999,1.0,Dropped,0.33,2
+1155.0,Ira Joshi,0.0,Female,India,Taaza Khabar,Action,Amazon Prime,13.9,0.4833333333333334,0.8333333333333334,Completed,0.19,0
+1177.0,Krishna Joshi,0.09090909090909091,Male,India,The Night Manager,Sci-Fi,ZEE5,16.9,0.7833333333333332,0.3333333333333333,Dropped,0.29,0
+1018.0,Anika Chopra,0.7272727272727273,Male,India,Sacred Games,Sci-Fi,Amazon Prime,39.0,0.4333333333333333,0.6666666666666666,Ongoing,0.51,1
+1031.0,Riya Patel,0.5227272727272727,Female,India,Aspirants,Crime,Amazon Prime,7.2,0.7333333333333334,0.16666666666666666,Completed,0.12,0
+1059.0,Vihaan Gupta,0.022727272727272728,Female,India,Khakee: The Bihar Chapter,Sci-Fi,MX Player,32.1,0.8000000000000002,0.3333333333333333,Dropped,0.56,2
+1113.0,Riya Joshi,0.022727272727272728,Female,India,Rana Naidu,Thriller,ZEE5,17.3,0.15000000000000005,0.5,Dropped,0.17,0
+1089.0,Aditya Patel,0.8181818181818182,Male,India,Made in Heaven,Crime,Netflix,16.7,0.85,1.0,Ongoing,0.3,0
+1014.0,Myra Gupta,0.5,Male,India,Bombay Begums,Sci-Fi,ZEE5,40.8,0.9499999999999998,1.0,Dropped,0.79,1
+1152.0,Sara Verma,0.9545454545454546,Male,India,Duranga,Action,Amazon Prime,5.4,0.4166666666666667,0.3333333333333333,Ongoing,0.07,0
+1071.0,Ananya Joshi,0.4090909090909091,Male,India,Khakee: The Bihar Chapter,Thriller,Disney+ Hotstar,14.4,0.6333333333333333,1.0,Completed,0.22,0
+1139.0,Rohan Verma,0.20454545454545456,Female,India,Scam 1992,Comedy,MX Player,40.3,0.9666666666666668,0.8333333333333334,Dropped,0.79,1
+1177.0,Sara Patel,0.022727272727272728,Male,India,Special OPS,Action,MX Player,37.9,0.04999999999999997,0.5,Completed,0.33,1
+1141.0,Pari Kumar,0.8636363636363636,Male,India,The Family Man,Sci-Fi,Disney+ Hotstar,5.5,0.4333333333333333,0.5,Completed,0.07,0
+1143.0,Vivaan Gupta,0.1590909090909091,Female,India,Special OPS,Drama,SonyLIV,49.0,0.7166666666666668,0.0,Completed,0.81,1
+1109.0,Pari Joshi,0.5681818181818182,Female,India,Gullak,Romance,ZEE5,14.8,0.9666666666666668,0.5,Dropped,0.29,0
+1066.0,Vivaan Patel,0.5,Female,India,Breathe,Crime,Amazon Prime,7.3,0.9166666666666666,1.0,Dropped,0.14,0
+1023.0,Pari Reddy,0.4772727272727273,Male,India,TVF Pitchers,Crime,SonyLIV,21.7,0.8166666666666668,0.0,Ongoing,0.39,2
+1183.0,Riya Mehta,0.22727272727272727,Male,India,Sacred Games,Action,SonyLIV,4.8,0.4666666666666666,0.6666666666666666,Dropped,0.07,0
+1162.0,Arjun Sharma,0.4090909090909091,Male,India,Suzhal,Sci-Fi,Netflix,45.4,0.6833333333333332,0.6666666666666666,Ongoing,0.74,1
+1061.0,Diya Chopra,0.9318181818181818,Female,India,The Family Man,Action,MX Player,34.4,0.5166666666666666,1.0,Ongoing,0.49,1
+1008.0,Vihaan Mehta,0.9318181818181818,Male,India,Asur,Sci-Fi,ZEE5,6.3,0.7833333333333332,0.16666666666666666,Ongoing,0.11,0
+1157.0,Aadhya Patel,0.9545454545454546,Male,India,Hostel Daze,Comedy,SonyLIV,32.2,0.85,0.8333333333333334,Dropped,0.59,2
+1190.0,Ira Reddy,0.8181818181818182,Male,India,Made in Heaven,Crime,SonyLIV,20.0,0.85,0.8333333333333334,Ongoing,0.36,2
+1029.0,Sai Kumar,0.3409090909090909,Female,India,Delhi Crime,Sci-Fi,Disney+ Hotstar,4.7,0.9833333333333334,0.5,Completed,0.09,0
+1042.0,Pari Verma,0.5,Female,India,TVF Pitchers,Drama,Disney+ Hotstar,11.1,0.8666666666666666,0.8333333333333334,Ongoing,0.2,0
+1051.0,Vivaan Joshi,0.9772727272727273,Male,India,Scam 1992,Crime,JioCinema,28.4,0.03333333333333336,0.0,Completed,0.24,2
+1027.0,Riya Sharma,0.5227272727272727,Female,India,Aspirants,Thriller,Amazon Prime,43.5,0.20000000000000004,0.3333333333333333,Dropped,0.45,1
+1098.0,Aarav Sharma,0.22727272727272727,Male,India,Grahan,Drama,JioCinema,10.6,0.85,0.0,Ongoing,0.19,0
+1167.0,Aadhya Joshi,0.18181818181818182,Male,India,Bombay Begums,Thriller,Netflix,10.9,0.1333333333333333,0.6666666666666666,Ongoing,0.1,0
+1047.0,Myra Reddy,0.5454545454545454,Female,India,Duranga,Action,SonyLIV,32.3,0.21666666666666665,0.0,Dropped,0.34,2
+1039.0,Ananya Verma,0.3181818181818182,Female,India,Bandish Bandits,Comedy,Amazon Prime,29.3,0.8666666666666666,0.16666666666666666,Ongoing,0.54,2
+1088.0,Ira Joshi,0.3181818181818182,Female,India,Rocket Boys,Action,JioCinema,7.1,0.4333333333333333,0.16666666666666666,Completed,0.09,0
+1178.0,Ananya Verma,0.045454545454545456,Female,India,Mirzapur,Crime,SonyLIV,4.4,0.4833333333333334,0.16666666666666666,Completed,0.06,0
+1188.0,Karan Singh,0.25,Female,India,The Freelancer,Crime,Netflix,6.9,0.6,0.3333333333333333,Completed,0.1,0
+1164.0,Krishna Reddy,0.45454545454545453,Female,India,Grahan,Crime,SonyLIV,49.9,0.9499999999999998,0.0,Ongoing,0.97,1
+1047.0,Ira Verma,0.045454545454545456,Male,India,Mirzapur,Romance,MX Player,36.4,0.45,0.8333333333333334,Dropped,0.49,1
+1174.0,Vihaan Gupta,0.8636363636363636,Male,India,Candy,Action,Amazon Prime,17.7,0.4000000000000001,0.3333333333333333,Ongoing,0.23,2
+1052.0,Diya Kumar,0.3181818181818182,Female,India,Kota Factory,Sci-Fi,ZEE5,10.4,0.4666666666666666,0.16666666666666666,Ongoing,0.14,0
+1014.0,Ishaan Gupta,0.9090909090909091,Male,India,Farzi,Thriller,Netflix,21.1,0.8000000000000002,0.6666666666666666,Dropped,0.37,2
+1099.0,Rohan Singh,0.20454545454545456,Male,India,Taaza Khabar,Crime,MX Player,35.7,0.7833333333333332,0.5,Ongoing,0.62,1
+1129.0,Pari Singh,0.4318181818181818,Male,India,Gullak,Thriller,MX Player,29.6,0.3166666666666667,0.8333333333333334,Ongoing,0.35,2
+1001.0,Aarav Verma,0.36363636363636365,Female,India,Aspirants,Drama,Amazon Prime,23.9,0.9,0.16666666666666666,Completed,0.45,2
+1153.0,Sai Verma,0.8636363636363636,Female,India,Special OPS,Thriller,JioCinema,15.0,0.4333333333333333,0.0,Dropped,0.2,0
+1176.0,Rohan Joshi,0.5909090909090909,Female,India,Mai,Romance,ZEE5,23.3,0.08333333333333333,0.5,Ongoing,0.21,2
+1001.0,Anika Mehta,0.9545454545454546,Male,India,The Night Manager,Sci-Fi,Amazon Prime,16.4,0.6833333333333332,0.0,Completed,0.36208955223880596,0
+1058.0,Ishaan Gupta,0.5227272727272727,Female,India,Mirzapur,Romance,SonyLIV,33.6,0.9,0.6666666666666666,Dropped,0.63,2
+1007.0,Arjun Reddy,0.9545454545454546,Male,India,Taaza Khabar,Action,ZEE5,25.1,0.016666666666666607,0.8333333333333334,Completed,0.21,2
+1083.0,Ishaan Joshi,0.0,Female,India,Grahan,Crime,SonyLIV,20.1,0.06666666666666672,0.3333333333333333,Dropped,0.18,2
+1182.0,Vivaan Sharma,0.6818181818181818,Male,India,The Night Manager,Crime,JioCinema,10.8,0.3666666666666667,0.16666666666666666,Ongoing,0.13,0
+1156.0,Ishaan Kumar,0.20454545454545456,Female,India,Bard of Blood,Crime,MX Player,25.6,0.6999999999999998,0.5,Ongoing,0.42,2
+1023.0,Diya Chopra,0.45454545454545453,Male,India,Mai,Action,Amazon Prime,23.8,0.5499999999999999,1.0,Completed,0.35,2
+1161.0,Aditya Reddy,0.36363636363636365,Male,India,Kota Factory,Thriller,ZEE5,48.3,0.9166666666666666,0.5,Completed,0.92,1
+1128.0,Sara Sharma,0.6818181818181818,Female,India,Hostel Daze,Sci-Fi,MX Player,47.5,0.20000000000000004,0.6666666666666666,Ongoing,0.49,1
+1011.0,Vivaan Kumar,0.6590909090909091,Female,India,Special OPS,Romance,MX Player,29.9,0.4333333333333333,0.0,Ongoing,0.39,2
+1149.0,Ananya Chopra,0.8863636363636364,Male,India,Gullak,Drama,JioCinema,45.0,0.3166666666666667,0.6666666666666666,Completed,0.53,1
+1146.0,Ira Singh,0.1590909090909091,Female,India,Hostel Daze,Thriller,JioCinema,33.8,0.8000000000000002,0.6666666666666666,Completed,0.59,1
+1020.0,Rohan Chopra,0.06818181818181818,Female,India,Taaza Khabar,Thriller,Disney+ Hotstar,33.3,0.20000000000000004,0.16666666666666666,Ongoing,0.35,2
+1186.0,Karan Gupta,0.6136363636363636,Female,India,Suzhal,Thriller,Disney+ Hotstar,30.6,0.8000000000000002,0.5,Dropped,0.54,2
+1128.0,Karan Patel,0.7727272727272727,Female,India,Aspirants,Drama,Netflix,32.4,0.7666666666666666,0.5,Completed,0.56,2
+1131.0,Anika Joshi,0.5454545454545454,Female,India,Rocket Boys,Crime,JioCinema,41.1,0.5166666666666666,1.0,Dropped,0.58,1
+1130.0,Myra Kumar,0.36363636363636365,Female,India,Ray,Comedy,ZEE5,33.7,0.15000000000000005,0.0,Completed,0.33,1
+1086.0,Sara Reddy,0.1590909090909091,Female,India,Special OPS,Thriller,Disney+ Hotstar,33.0,0.4166666666666667,0.8333333333333334,Dropped,0.43,2
+1137.0,Krishna Singh,0.6818181818181818,Female,India,Kota Factory,Drama,MX Player,42.7,0.6666666666666666,0.8333333333333334,Dropped,0.68,1
+1049.0,Aadhya Kumar,0.5,Male,India,Duranga,Action,SonyLIV,13.3,0.9333333333333332,0.16666666666666666,Completed,0.26,0
+1051.0,Aadhya Chopra,0.9772727272727273,Male,India,Kota Factory,Romance,JioCinema,19.3,0.4333333333333333,0.8333333333333334,Completed,0.25,2
+1147.0,Ira Chopra,0.6136363636363636,Male,India,Scam 1992,Crime,ZEE5,31.6,0.21666666666666665,0.0,Completed,0.33,2
+1126.0,Karan Gupta,0.09090909090909091,Female,India,High,Crime,ZEE5,9.9,0.9333333333333332,0.0,Dropped,0.19,0
+1119.0,Diya Gupta,0.06818181818181818,Male,India,The Freelancer,Drama,ZEE5,22.4,0.4833333333333334,1.0,Dropped,0.31,2
+1098.482089552239,Pari Patel,0.38636363636363635,Female,India,The Freelancer,Sci-Fi,Netflix,4.0,1.0,0.8333333333333334,Ongoing,0.08,0
+1126.0,Arjun Singh,0.6136363636363636,Female,India,Grahan,Thriller,Amazon Prime,23.9,0.3333333333333333,0.8333333333333334,Completed,0.29,2
+1080.0,Aarav Joshi,0.25,Female,India,Aspirants,Thriller,SonyLIV,35.0,0.4666666666666666,0.0,Completed,0.48,1
+1019.0,Vihaan Kumar,0.7045454545454546,Female,India,The Night Manager,Romance,Amazon Prime,12.8,0.09999999999999994,0.16666666666666666,Completed,0.12,0
+1043.0,Aarav Patel,0.7727272727272727,Female,India,Panchayat,Drama,ZEE5,24.6,0.4333333333333333,0.16666666666666666,Dropped,0.32,2
+1128.0,Krishna Verma,0.13636363636363635,Male,India,TVF Pitchers,Drama,SonyLIV,20.6,0.5,0.3333333333333333,Ongoing,0.29,2
+1199.0,Pari Kumar,0.4772727272727273,Male,India,Kota Factory,Comedy,MX Player,22.4,0.6333333333333333,0.6666666666666666,Ongoing,0.35,2
+1140.0,Rohan Sharma,0.75,Female,India,Ray,Crime,Netflix,42.1,0.25,0.16666666666666666,Completed,0.46,1
+1142.0,Myra Chopra,0.5909090909090909,Male,India,Sacred Games,Crime,Disney+ Hotstar,38.6,0.9666666666666668,0.3333333333333333,Dropped,0.76,1
+1152.0,Anika Reddy,0.5,Male,India,Mai,Thriller,JioCinema,32.5,0.18333333333333326,1.0,Completed,0.33,2
+1026.0,Rohan Patel,0.9772727272727273,Male,India,Mai,Comedy,Disney+ Hotstar,38.6,0.25,0.8333333333333334,Dropped,0.42,1
+1026.0,Kiara Sharma,0.6363636363636364,Male,India,Panchayat,Comedy,MX Player,43.4,0.6999999999999998,0.6666666666666666,Completed,0.71,1
+1065.0,Myra Singh,0.2727272727272727,Female,India,Aspirants,Comedy,SonyLIV,33.7,0.6,0.8333333333333334,Dropped,0.51,1
+1197.0,Rohan Kumar,0.4318181818181818,Male,India,Bombay Begums,Crime,MX Player,13.4,0.2333333333333334,1.0,Dropped,0.14,0
+1166.0,Sai Gupta,0.8636363636363636,Female,India,Taaza Khabar,Sci-Fi,Disney+ Hotstar,37.8,0.75,0.3333333333333333,Completed,0.64,1
+1093.0,Sara Gupta,0.3181818181818182,Male,India,Suzhal,Comedy,SonyLIV,37.4,0.8666666666666666,0.8333333333333334,Completed,0.69,1
+1019.0,Diya Joshi,0.9772727272727273,Female,India,High,Comedy,ZEE5,46.7,0.06666666666666672,0.16666666666666666,Ongoing,0.41,1
+1000.0,Sai Gupta,0.7727272727272727,Female,India,Grahan,Sci-Fi,MX Player,37.8,0.8166666666666668,0.5,Ongoing,0.67,1
+1083.0,Vivaan Kumar,0.06818181818181818,Male,India,Gullak,Crime,Netflix,21.5,0.8166666666666668,0.5,Dropped,0.38,2
+1126.0,Kiara Chopra,0.5681818181818182,Male,India,Bandish Bandits,Drama,SonyLIV,23.1,0.8000000000000002,0.8333333333333334,Completed,0.41,2
+1082.0,Ishaan Joshi,0.7727272727272727,Female,India,Khakee: The Bihar Chapter,Comedy,Netflix,33.3,0.04999999999999997,0.0,Ongoing,0.29,2
+1135.0,Ananya Chopra,0.6136363636363636,Male,India,Rocket Boys,Romance,MX Player,25.88611940298507,0.5166666666666666,0.6666666666666666,Completed,0.33,2
+1169.0,Karan Kumar,0.4772727272727273,Male,India,Taaza Khabar,Thriller,ZEE5,37.1,0.5,0.16666666666666666,Completed,0.52,1
+1122.0,Aarav Mehta,0.7272727272727273,Male,India,Panchayat,Sci-Fi,Disney+ Hotstar,7.2,0.04999999999999997,0.0,Dropped,0.06,0
+1013.0,Pari Patel,0.9318181818181818,Female,India,Taaza Khabar,Comedy,JioCinema,24.9,0.4000000000000001,0.6666666666666666,Ongoing,0.32,2
+1143.0,Karan Kumar,0.75,Male,India,Hostel Daze,Comedy,ZEE5,18.6,0.3,0.3333333333333333,Ongoing,0.22,2
+1016.0,Aditya Kumar,0.4318181818181818,Female,India,Hostel Daze,Thriller,JioCinema,21.8,0.6333333333333333,0.6666666666666666,Ongoing,0.34,2
+1024.0,Arjun Reddy,0.29545454545454547,Male,India,The Freelancer,Action,Amazon Prime,39.5,0.1166666666666667,0.6666666666666666,Ongoing,0.37,1
+1066.0,Rohan Patel,0.4772727272727273,Female,India,Arya,Thriller,Disney+ Hotstar,27.8,0.016666666666666607,0.6666666666666666,Completed,0.23,2
+1099.0,Aadhya Chopra,1.0,Female,India,Candy,Sci-Fi,JioCinema,14.8,0.9666666666666668,0.0,Completed,0.29,0
+1020.0,Pari Joshi,0.36363636363636365,Female,India,Grahan,Comedy,JioCinema,21.7,0.18333333333333326,0.6666666666666666,Completed,0.22,2
+1018.0,Rohan Verma,0.06818181818181818,Female,India,Asur,Thriller,Disney+ Hotstar,31.8,0.4166666666666667,1.0,Completed,0.41,2
+1132.0,Ishaan Patel,0.18181818181818182,Female,India,Ray,Romance,MX Player,49.2,0.2833333333333334,0.5,Dropped,0.56,1
+1081.0,Ira Patel,0.18181818181818182,Male,India,Bombay Begums,Romance,SonyLIV,33.3,0.9333333333333332,1.0,Completed,0.64,2
+1045.0,Pari Chopra,0.38636363636363635,Female,India,High,Thriller,MX Player,43.1,0.08333333333333333,0.3333333333333333,Dropped,0.39,1
+1072.0,Pari Singh,0.9545454545454546,Male,India,Asur,Romance,ZEE5,37.8,0.1166666666666667,1.0,Dropped,0.36,1
+1121.0,Aarav Patel,0.18181818181818182,Male,India,Khakee: The Bihar Chapter,Romance,ZEE5,38.0,0.3,0.5,Ongoing,0.44,1
+1066.0,Aarav Verma,0.2727272727272727,Female,India,Paatal Lok,Sci-Fi,Disney+ Hotstar,43.5,0.3,0.5,Completed,0.5,1
+1141.0,Krishna Kumar,0.045454545454545456,Male,India,High,Romance,MX Player,49.9,0.6666666666666666,0.6666666666666666,Ongoing,0.8,1
+1170.0,Aditya Mehta,1.0,Female,India,Bard of Blood,Thriller,MX Player,47.5,0.2833333333333334,0.8333333333333334,Dropped,0.54,1
+1157.0,Myra Verma,0.7954545454545454,Female,India,Undekhi,Sci-Fi,MX Player,35.9,0.8333333333333334,0.3333333333333333,Ongoing,0.65,1
+1187.0,Arjun Sharma,0.3181818181818182,Female,India,Aspirants,Crime,Netflix,6.7,0.03333333333333336,0.6666666666666666,Dropped,0.06,0
+1129.0,Rohan Kumar,0.20454545454545456,Female,India,Undekhi,Sci-Fi,SonyLIV,14.1,0.1333333333333333,0.0,Dropped,0.14,0
+1136.0,Ananya Verma,0.4090909090909091,Male,India,Aspirants,Crime,SonyLIV,10.3,0.25,0.16666666666666666,Ongoing,0.11,0
+1058.0,Aditya Mehta,0.5,Female,India,Farzi,Drama,Disney+ Hotstar,20.2,0.5,1.0,Dropped,0.28,2
+1137.0,Anika Patel,0.8409090909090909,Male,India,Bombay Begums,Comedy,Disney+ Hotstar,49.1,0.5833333333333334,0.0,Ongoing,0.74,1
+1058.0,Rohan Joshi,0.38636363636363635,Female,India,The Night Manager,Comedy,Disney+ Hotstar,7.0,0.3,0.6666666666666666,Ongoing,0.08,0
+1099.0,Diya Singh,0.4090909090909091,Female,India,Made in Heaven,Crime,MX Player,20.9,0.09999999999999994,0.5,Dropped,0.19,2
+1183.0,Myra Reddy,0.7954545454545454,Female,India,Out of Love,Romance,Disney+ Hotstar,29.0,0.2833333333333334,0.3333333333333333,Ongoing,0.33,2
+1108.0,Sai Kumar,0.25,Female,India,Rocket Boys,Sci-Fi,JioCinema,48.2,0.2833333333333334,0.0,Ongoing,0.55,1
+1078.0,Riya Mehta,0.8863636363636364,Female,India,Taj Mahal 1989,Crime,ZEE5,29.8,0.6166666666666667,0.6666666666666666,Ongoing,0.46,2
+1175.0,Krishna Reddy,0.045454545454545456,Female,India,Special OPS,Sci-Fi,ZEE5,2.8,0.4666666666666666,0.8333333333333334,Dropped,0.04,0
+1105.0,Karan Gupta,0.75,Male,India,The Family Man,Thriller,SonyLIV,44.5,0.9499999999999998,0.8333333333333334,Completed,0.86,1
+1133.0,Krishna Chopra,0.5227272727272727,Female,India,Out of Love,Sci-Fi,ZEE5,9.5,0.16666666666666666,0.8333333333333334,Dropped,0.1,0
+1177.0,Aditya Mehta,0.3181818181818182,Female,India,Mirzapur,Romance,Amazon Prime,18.2,0.6833333333333332,0.16666666666666666,Completed,0.29,2
+1012.0,Anika Joshi,0.8863636363636364,Male,India,Taj Mahal 1989,Thriller,Netflix,40.1,0.45,0.16666666666666666,Ongoing,0.54,1
+1077.0,Aditya Gupta,0.1590909090909091,Male,India,Delhi Crime,Sci-Fi,MX Player,21.4,0.2333333333333334,0.6666666666666666,Ongoing,0.23,2
+1011.0,Ishaan Joshi,0.8181818181818182,Male,India,Gullak,Action,Disney+ Hotstar,11.1,0.016666666666666607,0.3333333333333333,Completed,0.09,0
+1096.0,Krishna Singh,0.5,Male,India,Panchayat,Thriller,Amazon Prime,22.7,0.25,0.5,Ongoing,0.25,2
+1164.0,Myra Singh,0.1590909090909091,Male,India,Class,Thriller,SonyLIV,34.6,0.5333333333333333,0.3333333333333333,Completed,0.5,1
+1122.0,Sai Joshi,0.29545454545454547,Female,India,Inside Edge,Drama,Amazon Prime,25.8,0.4000000000000001,0.6666666666666666,Dropped,0.33,2
+1038.0,Aarav Sharma,0.7045454545454546,Female,India,Rana Naidu,Thriller,MX Player,19.8,0.7666666666666666,0.5,Ongoing,0.34,2
+1078.0,Vivaan Gupta,0.5681818181818182,Female,India,Khakee: The Bihar Chapter,Romance,ZEE5,9.6,0.9166666666666666,0.8333333333333334,Ongoing,0.18,0
+1135.0,Rohan Joshi,0.13636363636363635,Male,India,Taaza Khabar,Thriller,MX Player,38.9,0.5833333333333334,0.6666666666666666,Dropped,0.58,1
+1130.0,Arjun Mehta,0.8636363636363636,Female,India,The Night Manager,Sci-Fi,Disney+ Hotstar,6.3,0.2833333333333334,0.5,Ongoing,0.07,0
+1169.0,Ira Gupta,0.20454545454545456,Female,India,Rana Naidu,Thriller,Amazon Prime,35.3,0.5166666666666666,0.0,Completed,0.5,1
+1198.0,Kiara Joshi,0.11363636363636363,Male,India,Breathe,Comedy,JioCinema,41.7,0.85,0.6666666666666666,Dropped,0.76,1
+1040.0,Kiara Gupta,0.4090909090909091,Female,India,Class,Romance,SonyLIV,37.6,0.9499999999999998,0.6666666666666666,Completed,0.73,1
+1153.0,Ira Kumar,0.4090909090909091,Female,India,Scam 1992,Romance,JioCinema,32.8,0.20000000000000004,0.6666666666666666,Dropped,0.34,2
+1165.0,Vihaan Joshi,0.06818181818181818,Male,India,Breathe,Drama,JioCinema,15.5,0.18333333333333326,1.0,Completed,0.16,0
+1070.0,Diya Verma,0.8181818181818182,Male,India,Delhi Crime,Thriller,Amazon Prime,28.8,0.3,0.16666666666666666,Dropped,0.33,2
+1098.482089552239,Rohan Reddy,0.13636363636363635,Male,India,Hostel Daze,Comedy,Disney+ Hotstar,28.5,0.45,0.3333333333333333,Completed,0.38,2
+1132.0,Ishaan Joshi,0.5681818181818182,Male,India,Ray,Comedy,SonyLIV,34.5,0.8166666666666668,0.5,Dropped,0.61,1
+1070.0,Ishaan Chopra,0.5227272727272727,Male,India,Mirzapur,Comedy,ZEE5,24.0,0.3166666666666667,0.6666666666666666,Ongoing,0.28,2
+1125.0,Karan Singh,0.13636363636363635,Male,India,The Freelancer,Action,Netflix,47.1,1.0,0.6666666666666666,Dropped,0.94,1
+1151.0,Aditya Kumar,0.8181818181818182,Male,India,Bard of Blood,Romance,Amazon Prime,48.7,0.04999999999999997,0.16666666666666666,Dropped,0.42,1
+1009.0,Ananya Chopra,0.5227272727272727,Male,India,Mirzapur,Action,Netflix,16.3,0.0,1.0,Dropped,0.13,0
+1045.0,Vihaan Mehta,0.7045454545454546,Female,India,Mirzapur,Action,SonyLIV,16.7,0.4833333333333334,0.8333333333333334,Dropped,0.23,0
+1159.0,Rohan Reddy,0.6363636363636364,Male,India,Criminal Justice,Romance,ZEE5,46.9,0.6166666666666667,0.8333333333333334,Ongoing,0.72,1
+1085.0,Sai Mehta,0.3181818181818182,Female,India,Arya,Crime,ZEE5,13.6,0.3166666666666667,0.6666666666666666,Ongoing,0.16,0
+1106.0,Krishna Reddy,0.6136363636363636,Female,India,High,Crime,MX Player,36.2,0.5499999999999999,0.5,Completed,0.53,1
+1179.0,Vivaan Verma,0.22727272727272727,Male,India,Made in Heaven,Thriller,Amazon Prime,32.7,0.4666666666666666,0.16666666666666666,Ongoing,0.44,2
+1097.0,Diya Patel,0.3181818181818182,Male,India,Sacred Games,Romance,ZEE5,9.8,1.0,0.6666666666666666,Ongoing,0.2,0
+1102.0,Pari Mehta,0.29545454545454547,Female,India,Special OPS,Comedy,Disney+ Hotstar,17.5,0.8833333333333334,0.8333333333333334,Ongoing,0.33,0
+1101.0,Kiara Sharma,0.7272727272727273,Male,India,Breathe,Sci-Fi,SonyLIV,47.8,0.2833333333333334,0.0,Completed,0.54,1
+1171.0,Myra Chopra,0.5227272727272727,Female,India,Duranga,Thriller,MX Player,28.0,0.2666666666666666,0.3333333333333333,Ongoing,0.31,2
+1166.0,Sara Singh,0.06818181818181818,Male,India,Made in Heaven,Crime,Disney+ Hotstar,40.4,0.09999999999999994,0.16666666666666666,Completed,0.37,1
+1166.0,Sai Kumar,0.36363636363636365,Female,India,Bard of Blood,Romance,Amazon Prime,35.3,0.3499999999999999,0.3333333333333333,Ongoing,0.43,1
+1010.0,Rohan Kumar,0.36363636363636365,Female,India,Taj Mahal 1989,Romance,Amazon Prime,21.3,0.9499999999999998,0.6666666666666666,Ongoing,0.41,2
+1111.0,Ira Mehta,0.7727272727272727,Female,India,Aspirants,Thriller,Netflix,39.1,0.7333333333333334,1.0,Completed,0.66,1
+1153.0,Diya Verma,0.6136363636363636,Male,India,Rana Naidu,Thriller,SonyLIV,8.5,0.500995024875622,0.5,Ongoing,0.07,0
+1165.0,Pari Mehta,0.1590909090909091,Male,India,Rana Naidu,Comedy,Netflix,5.8,0.4166666666666667,0.8333333333333334,Completed,0.08,0
+1073.0,Vihaan Reddy,0.9545454545454546,Male,India,Paatal Lok,Romance,SonyLIV,40.7,0.8833333333333334,0.0,Completed,0.76,1
+1147.0,Myra Reddy,0.9090909090909091,Male,India,Bandish Bandits,Drama,JioCinema,12.1,0.4666666666666666,0.8333333333333334,Completed,0.16,0
+1173.0,Vihaan Gupta,0.11363636363636363,Male,India,Out of Love,Crime,ZEE5,22.5,0.5666666666666668,1.0,Ongoing,0.33,2
+1116.0,Krishna Reddy,0.5681818181818182,Male,India,Undekhi,Drama,JioCinema,33.7,0.45,0.6666666666666666,Completed,0.45,1
+1054.0,Kiara Joshi,0.8863636363636364,Female,India,Aspirants,Drama,Amazon Prime,43.3,0.9,1.0,Ongoing,0.81,1
+1046.0,Sai Kumar,0.29545454545454547,Female,India,Out of Love,Comedy,ZEE5,14.9,0.4333333333333333,0.8333333333333334,Ongoing,0.2,0
+1031.0,Krishna Sharma,0.2727272727272727,Female,India,Duranga,Romance,Amazon Prime,21.9,0.7833333333333332,0.0,Completed,0.38,2
+1031.0,Riya Joshi,0.022727272727272728,Female,India,Criminal Justice,Comedy,ZEE5,18.8,0.8666666666666666,0.0,Completed,0.35,2
+1194.0,Kiara Verma,0.9318181818181818,Female,India,TVF Pitchers,Thriller,Amazon Prime,30.1,0.20000000000000004,0.0,Dropped,0.31,2
+1147.0,Rohan Sharma,0.6363636363636364,Female,India,Scam 1992,Romance,Disney+ Hotstar,42.8,0.45,0.8333333333333334,Ongoing,0.57,1
+1183.0,Aarav Joshi,0.22727272727272727,Male,India,Gullak,Comedy,MX Player,43.6,0.016666666666666607,0.6666666666666666,Completed,0.36,1
+1029.0,Anika Sharma,0.8181818181818182,Male,India,Suzhal,Crime,JioCinema,20.4,0.1166666666666667,1.0,Completed,0.19,2
+1016.0,Anika Verma,0.38636363636363635,Male,India,Mai,Sci-Fi,Amazon Prime,8.3,0.5333333333333333,0.16666666666666666,Ongoing,0.12,0
+1140.0,Riya Mehta,0.29545454545454547,Female,India,Rocket Boys,Romance,JioCinema,7.9,0.4000000000000001,0.0,Ongoing,0.1,0
+1019.0,Ishaan Verma,0.75,Female,India,Ray,Comedy,ZEE5,11.1,0.3499999999999999,0.0,Ongoing,0.14,0
+1047.0,Aadhya Joshi,0.20454545454545456,Female,India,Gullak,Thriller,SonyLIV,44.3,0.25,0.8333333333333334,Dropped,0.49,1
+1071.0,Ira Reddy,0.09090909090909091,Female,India,Special OPS,Sci-Fi,Disney+ Hotstar,4.5,0.4833333333333334,0.6666666666666666,Dropped,0.06,0
+1061.0,Arjun Joshi,0.6590909090909091,Female,India,Taj Mahal 1989,Action,ZEE5,24.3,0.3833333333333333,0.6666666666666666,Ongoing,0.31,2
+1053.0,Ira Mehta,0.3181818181818182,Male,India,Taj Mahal 1989,Romance,Amazon Prime,2.1,0.5333333333333333,0.16666666666666666,Ongoing,0.03,0
+1036.0,Sai Kumar,0.5681818181818182,Female,India,Hostel Daze,Crime,JioCinema,35.9,0.3,0.0,Dropped,0.42,1
+1073.0,Aarav Kumar,0.9318181818181818,Female,India,Panchayat,Comedy,MX Player,6.8,0.8333333333333334,1.0,Dropped,0.12,0
+1004.0,Myra Joshi,0.5454545454545454,Female,India,Suzhal,Crime,Netflix,24.0,0.0,0.0,Dropped,0.19,2
+1067.0,Ananya Patel,0.022727272727272728,Female,India,Ray,Crime,JioCinema,12.6,0.016666666666666607,0.8333333333333334,Completed,0.1,0
+1024.0,Krishna Joshi,0.8636363636363636,Male,India,Rocket Boys,Crime,ZEE5,48.6,0.016666666666666607,0.3333333333333333,Completed,0.4,1
+1066.0,Sai Reddy,0.4772727272727273,Female,India,Inside Edge,Drama,ZEE5,27.3,0.7333333333333334,1.0,Ongoing,0.46,2
+1171.0,Diya Mehta,0.7272727272727273,Female,India,Arya,Drama,SonyLIV,27.8,0.2333333333333334,0.5,Completed,0.3,2
+1117.0,Ishaan Chopra,0.1590909090909091,Female,India,Candy,Action,MX Player,10.3,0.8000000000000002,0.6666666666666666,Ongoing,0.18,0
+1128.0,Riya Mehta,0.11363636363636363,Male,India,Aspirants,Sci-Fi,Amazon Prime,25.9,0.5166666666666666,0.3333333333333333,Ongoing,0.37,2
+1032.0,Kiara Sharma,0.7727272727272727,Female,India,Panchayat,Crime,Amazon Prime,36.5,0.06666666666666672,0.8333333333333334,Completed,0.32,1
+1192.0,Aditya Mehta,0.7272727272727273,Female,India,Khakee: The Bihar Chapter,Action,Disney+ Hotstar,19.8,0.3499999999999999,0.8333333333333334,Completed,0.24,2
+1079.0,Sai Joshi,0.7272727272727273,Female,India,Breathe,Romance,Amazon Prime,15.9,0.3333333333333333,0.0,Dropped,0.19,0
+1039.0,Riya Kumar,0.5454545454545454,Male,India,Rana Naidu,Romance,Amazon Prime,25.88611940298507,0.15000000000000005,1.0,Completed,0.13,2
+1048.0,Aditya Verma,0.1590909090909091,Male,India,Class,Sci-Fi,Disney+ Hotstar,19.0,0.9666666666666668,0.16666666666666666,Dropped,0.37,2
+1158.0,Vihaan Sharma,0.8636363636363636,Male,India,Taj Mahal 1989,Romance,MX Player,17.7,0.2666666666666666,0.3333333333333333,Completed,0.2,2
+1173.0,Aditya Reddy,0.06818181818181818,Female,India,Rocket Boys,Crime,Netflix,6.2,0.9499999999999998,0.5,Completed,0.12,0
+1144.0,Diya Chopra,0.5454545454545454,Male,India,Grahan,Romance,Netflix,4.0,0.016666666666666607,0.5,Ongoing,0.03,0
+1032.0,Ishaan Verma,0.5454545454545454,Male,India,Mai,Comedy,SonyLIV,49.3,0.85,0.8333333333333334,Ongoing,0.9,1
+1017.0,Myra Singh,0.18181818181818182,Female,India,Paatal Lok,Thriller,Disney+ Hotstar,37.3,0.7166666666666668,0.3333333333333333,Completed,0.62,1
+1064.0,Pari Patel,0.1590909090909091,Male,India,Paatal Lok,Thriller,Disney+ Hotstar,22.2,0.7833333333333332,0.5,Completed,0.39,2
+1035.0,Arjun Patel,0.25,Male,India,Delhi Crime,Sci-Fi,ZEE5,21.9,0.04999999999999997,0.5,Ongoing,0.19,2
+1028.0,Sai Patel,0.6363636363636364,Female,India,Kota Factory,Romance,MX Player,20.6,0.8833333333333334,0.5,Ongoing,0.38,2
+1145.0,Vivaan Sharma,0.36363636363636365,Male,India,High,Thriller,MX Player,38.4,0.2333333333333334,0.8333333333333334,Completed,0.41,1
+1184.0,Riya Verma,0.09090909090909091,Female,India,Delhi Crime,Thriller,Netflix,27.9,0.6833333333333332,0.5,Completed,0.45,2
+1196.0,Anika Joshi,0.09090909090909091,Female,India,Khakee: The Bihar Chapter,Crime,ZEE5,5.4,0.5333333333333333,0.6666666666666666,Dropped,0.08,0
+1073.0,Ira Sharma,0.75,Female,India,Delhi Crime,Crime,Disney+ Hotstar,46.4,0.7666666666666666,0.3333333333333333,Ongoing,0.8,1
+1114.0,Aadhya Gupta,0.022727272727272728,Female,India,Arya,Drama,MX Player,36.7,0.6666666666666666,0.6666666666666666,Completed,0.59,1
+1142.0,Arjun Singh,0.4318181818181818,Female,India,Farzi,Thriller,Disney+ Hotstar,32.7,0.9833333333333334,0.8333333333333334,Dropped,0.65,2
+1096.0,Pari Patel,0.29545454545454547,Male,India,Rocket Boys,Action,Disney+ Hotstar,34.7,0.2833333333333334,0.16666666666666666,Completed,0.4,1
+1124.0,Aditya Singh,0.8636363636363636,Male,India,The Night Manager,Action,Disney+ Hotstar,40.2,0.9166666666666666,0.8333333333333334,Completed,0.76,1
+1088.0,Sara Patel,0.5227272727272727,Female,India,Rocket Boys,Thriller,JioCinema,32.8,0.9166666666666666,0.3333333333333333,Ongoing,0.62,2
+1190.0,Aditya Singh,0.25,Female,India,Panchayat,Thriller,Netflix,20.1,0.4333333333333333,1.0,Dropped,0.27,2
+1200.0,Krishna Kumar,0.25,Male,India,Delhi Crime,Drama,Amazon Prime,47.1,0.04999999999999997,0.0,Ongoing,0.41,1
+1011.0,Vihaan Gupta,0.1590909090909091,Male,India,Kota Factory,Crime,SonyLIV,46.4,0.6,0.6666666666666666,Completed,0.71,1
+1122.0,Vihaan Gupta,0.7727272727272727,Male,India,Farzi,Sci-Fi,JioCinema,10.7,0.5833333333333334,1.0,Completed,0.16,0
+1149.0,Kiara Verma,0.9545454545454546,Male,India,Suzhal,Action,ZEE5,34.4,0.85,0.5,Dropped,0.63,1
+1070.0,Aarav Reddy,0.11363636363636363,Female,India,Farzi,Comedy,Amazon Prime,14.9,0.3166666666666667,1.0,Dropped,0.18,0
+1185.0,Aadhya Verma,0.5454545454545454,Male,India,Scam 1992,Drama,ZEE5,26.2,0.9833333333333334,0.6666666666666666,Dropped,0.52,2
+1093.0,Krishna Singh,0.8863636363636364,Female,India,Scam 1992,Crime,MX Player,9.6,0.3,0.6666666666666666,Dropped,0.11,0
+1081.0,Aadhya Verma,0.36363636363636365,Female,India,Class,Crime,Disney+ Hotstar,35.3,0.7166666666666668,0.3333333333333333,Dropped,0.59,1
+1116.0,Myra Mehta,0.5909090909090909,Female,India,Taj Mahal 1989,Romance,Amazon Prime,21.7,0.85,0.5,Dropped,0.39,2
+1188.0,Myra Gupta,0.8636363636363636,Male,India,Sacred Games,Sci-Fi,SonyLIV,29.4,0.016666666666666607,0.8333333333333334,Completed,0.24,2
+1160.0,Sara Chopra,0.5227272727272727,Male,India,Candy,Action,ZEE5,49.7,0.5833333333333334,0.3333333333333333,Dropped,0.75,1
+1004.0,Ananya Joshi,0.09090909090909091,Male,India,Farzi,Sci-Fi,MX Player,25.88611940298507,0.5499999999999999,0.3333333333333333,Ongoing,0.66,2
+1160.0,Kiara Singh,0.8409090909090909,Male,India,Grahan,Action,Amazon Prime,11.7,0.016666666666666607,1.0,Completed,0.1,0
+1072.0,Aditya Reddy,0.36363636363636365,Male,India,Sacred Games,Sci-Fi,MX Player,15.4,0.3833333333333333,1.0,Dropped,0.19,0
+1107.0,Aditya Kumar,0.8863636363636364,Female,India,Taaza Khabar,Action,MX Player,13.4,0.7833333333333332,1.0,Dropped,0.23,0
+1017.0,Ira Gupta,0.09090909090909091,Female,India,High,Crime,Amazon Prime,34.5,0.3499999999999999,0.0,Completed,0.42,1
+1052.0,Rohan Verma,0.9545454545454546,Female,India,Class,Action,Amazon Prime,31.3,0.08333333333333333,0.3333333333333333,Completed,0.28,2
+1188.0,Krishna Sharma,0.045454545454545456,Female,India,Scam 1992,Drama,SonyLIV,38.8,0.3166666666666667,0.8333333333333334,Completed,0.46,1
+1189.0,Krishna Verma,0.5454545454545454,Male,India,Rocket Boys,Crime,MX Player,42.7,0.7333333333333334,0.5,Completed,0.72,1
